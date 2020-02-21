@@ -1,0 +1,32 @@
+﻿Requisitos técnicos para el uso de la app
+• La nueva app de la Agencia Tributaria para dispositivos móviles se encuentra disponible de forma gratuita en las plataformas oficiales de descarga de Android y Apple desde el 15 de marzo.
+Hay que tener en cuenta la siguiente configuración para poder usar correctamente la aplicación:
+o Se requiere que el dispositivo tenga conexión a internet, ya sea mediante wifi o datos.
+o El dispositivo tiene que estar protegido por un patrón de seguridad de acceso. El usuario podrá escoger entre los distintos sistemas de bloqueo de su dispositivo: pin, huella dactilar, patrón de desbloqueo, etc.
+En el caso de que se detecte que su dispositivo móvil no tiene establecido un sistema de desbloqueo, le sugerimos que acceda a los ajustes de su dispositivo para configurarlo. Una vez configurado se podrán agregar y gestionar desde la app los distintos usuarios.
+Gestión de usuarios en la app
+• La app de la Agencia Tributaria permite gestionar hasta 20 perfiles de usuario. Desde el menú lateral de la aplicación, accediendo al menú "Usuarios" se pueden añadir otros usuarios, identificándolos convenientemente. Pulse el icono del signo +, "Añadir usuario", y escoja cómo identificarse: con referencia, con Cl@ve PIN o con certificado electrónico. Identificándose correctamente de cualquiera de estas formas la app procederá a gestionar sus accesos desde el dispositivo móvil a los servicios de la Agencia Tributaria de manera transparente.
+
+En el caso de que opte por el acceso con referencia, se ofrecen 3 alternativas:
+o Utilizar una referencia generada para este ejercicio.
+o Utilizar una referencia del ejercicio anterior para renovarla de forma automática, obteniendo una válida para la campaña de Renta 2018. En este caso, pulse "Ya tengo la referencia del ejercicio previo".
+Introdúzcala y pulse "Identificarme". Si la referencia está caducada al tratarse de una referencia para el ejercicio 2017, puede actualizarla automáticamente a una del ejercicio 2018, pulsando "Renovar".
+Sólo tendrá que aportar de nuevo la fecha de validez de su DNI, la fecha de expedición, si se trata de un DNI permanente o el número de soporte, si se trata de un NIE.
+o Obtener una nueva referencia con la casilla 475 de la declaración de Renta 2017 desde la opción "Obtener nueva referencia con datos fiscales e identificarse". En primer lugar tendrá que identificarse con el DNI y la fecha de validez del documento. No obstante, el dato de contraste que se solicite será diferente en función del documento: si se trata de un DNI con fecha de validez permanente, tendrá que aportar la fecha de expedición del documento; si es un NIE, el número de soporte; si es un NIF K, L o M, la fecha de caducidad del documento.  
+na vez validada la información sobre el documento de identidad, la app preguntará si presentó declaración de la Renta el año pasado. En el caso de que la respuesta sea afirmativa, en la siguiente pantalla se solicitará el importe de la casilla 475 de la declaración de Renta 2017. Le recordamos que la casilla 475 se corresponde con el importe de la casilla "Base liquidable sometida a gravamen" que puede localizar en el documento de ingreso o devolución de su declaración del año pasado. En el apartado "Enlaces de interés" le facilitamos más información sobre esta casilla.
+Tenga en cuenta que, tanto si el importe de la casilla 475 es 0, como si se indica que fue no declarante de Renta el año pasado, se solicitará un dato de contraste alternativo: las 5 últimas posiciones del código IBAN de una cuenta bancaria de la que nos conste que fuera titular en 2018. Finalmente, pulse la opción "Obtener referencia". La aplicación devolverá la referencia para Renta. Si lo desea puede copiarla para futuros usos, aunque la aplicación recuerda y almacena esta última referencia. En esta misma pantalla también se ofrece la posibilidad de suscribirse al servicio de avisos personalizados mediante notificaciones push en ese mismo dispositivo.
+En el caso de que opte por la obtención de la referencia con Cl@ve PIN, además de indicar su DNI o NIE, tendrá que proporcionar el dato de contraste habitual: la fecha de validez, expedición o número de soporte, en función del tipo de documento. A continuación, pulse "Obtener PIN".
+• En el caso de que tenga instalada la app Cl@ve, al estar ambas integradas, aparecerá un aviso indicando que el PIN está disponible en la aplicación. Puede acceder a la aplicación desde la notificación que aparecerá en su dispositivo. La app le mostrará el PIN y el tiempo de validez del mismo. Si pulsa "Copiar", podrá pegarlo después desde el portapapeles. Si no ha visualizado el PIN en la app, dispondrá de una opción para el envío del SMS.
+
+ 
+
+ 
+Una vez identificado correctamente con Cl@ve, la aplicación devolverá la referencia de Renta con la que quedará identificado en la app.
+o En el caso de que no tenga instalada la app Cl@ve, el mensaje informará de que se ha enviado un SMS con el PIN al teléfono móvil asociado a Cl@ve.
+
+En el caso de que el usuario que se ha identificado tenga un cónyuge aún no identificado en el móvil, se sugiere que le identifique, para poder acceder al mejor cálculo de la declaración de IRPF en el caso de que sea conjunta. Si no desea identificar al cónyuge, puede autorizar el cálculo solo de la presentación individual. Si no identifica al cónyuge y no autoriza el cálculo de solo la individual, no podrá presentar la declaración de IRPF a través de la app.
+
+Tras añadir un usuario a la aplicación, aparecerá en el panel "Gestión usuarios" el nombre completo del mismo y sombreado en color naranja el usuario activo en ese momento.
+
+Mediante el icono de la papelera puede eliminar el usuario de la aplicación.
+

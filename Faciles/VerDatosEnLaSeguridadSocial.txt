@@ -1,0 +1,45 @@
+﻿Cómo ver mis datos en la Seguridad Social: móvil y email
+Nuevas apps de la Seguridad Social
+El pasado mes de abril, la Seguridad Social lanzó tres aplicaciones para dispositivos móviles.
+Las tres aplicaciones son:
+• App Seguridad Social para consultar directorios, oficinas, novedades y enlaces de la Seguridad Social.
+• App Cita Previa para concertar fecha y hora para acudir a uno de los Centros de Atención e Información de la Seguridad Social.
+• App Informe de Situación para consultar el detalle de nuestra última situación laboral dentro de la Seguridad Social.
+Existen versiones específicas para móviles y tabletas, en los sistemas operativos iOS de Apple y Android de Google.
+
+Para utilizar algunas de estas aplicaciones móviles tenemos que registrarnos. Con este registro obtenemos un usuario y una contraseña que nos permite acceder a los servicios personalizados que ofrecen. Para completar este registro es requisito que el móvil conste en la Seguridad Social. De este último aspecto hablamos en esta entrada.
+Desde 2012 es posible consultar desde el móvil nuestra vida laboral, siendo posible dar de alta nuestro teléfono para las notificaciones de la Seguridad Social. Si la Seguridad Social dispone de tu número de móvil podrás acceder a muchos de sus servicios sin necesidad de usar el certificado digital.
+¿Qué permite este trámite?
+El trámite es sencillo y apenas presenta dificultad alguna. Para realizar este trámite hace falta el certificado digital. Con este servicio podemos:
+• Consultar cuál es el  teléfono móvil, teléfono fijo y correo electrónico que tiene la Seguridad Social de nosotros.
+• Modificar alguno de estos tres datos.
+• Completar los datos que falten.
+Comenzamos el trámite
+Accedemos al trámite desde la página principal de la Sede Electrónica de la Seguridad Social entrando en el apartado «Ciudadanos»:
+
+Desde «Ciudadanos», en «Servicio a ciudadanos» vamos a «Servicios con Certificado Digital» y localizamos el servicio llamado «Comunicación de teléfono y correo electrónico»:
+
+Pulsamos en «Comunicación de teléfono y correo electrónico» y a continuación, dentro de la pantalla del trámite, pulsamos en «Acceso al servicio»:
+
+A continuación nos pide el certificado digital para identificarnos:
+
+Observamos nuestros datos en la siguiente pantalla:
+
+Los datos que podemos modificar o completar son:
+• Teléfono Fijo
+• Teléfono Móvil
+• Acepto envío de comunicaciones informativas por SMS (Sí/No) Elige «Sí» si quieres utilizar los servicios que usan el móvil porque te avisan y envían mensajes por SMS.
+• Correo Electrónico
+Modificamos los datos que corresponda. En el caso del correo electrónico, al modificarlo, nos pide que lo repitamos:
+
+Una vez repetido el correo electrónico, pulsamos el botón «Continuar».
+A continuación con el botón «Confirmar» confirmamos los datos introducidos.
+
+Se graban las modificaciones realizadas en los datos y nos avisa con el mensaje: «Los datos se han modificado correctamente». Para terminar pulsamos en «Salir».
+
+Con el botón «Anular» volveríamos a la pantalla anterior y los cambios realizados no se guardarían.
+Con esto hemos completado o comprobado que nuestro teléfono móvil está a disposición de la Seguridad Social. Así podremos registrarnos en las aplicaciones móviles o bien utilizar otros de los servicios ofrecidos en la Sede Electrónica de la Seguridad Social para los que hace falta el número del móvil: Servicios vía SMS.
+Navegadores probados
+Este trámite se ha probado correctamente en Internet Explorer 9, Google Chrome 28 y Mozilla Firefox 22 sobre el sistema operativo Windows XP y Windows Vista.
+
+

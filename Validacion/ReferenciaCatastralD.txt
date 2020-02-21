@@ -1,0 +1,32 @@
+﻿¿Qué es la referencia catastral?
+La referencia catastral es el identificador oficial y obligatorio de los bienes inmuebles. Consiste en un código alfanumérico que es asignado por el Catastro de manera que todo inmueble debe tener una única referencia catastral que permita situarlo inequívocamente en la cartografía catastral.
+
+Está compuesta de veinte caracteres. Nos podemos encontrar con estos ejemplos de estructura de referencia catastral:
+
+Ejemplo 1º: 9872023 VH5797S 0001 WX
+En este caso, de los veinte caracteres, los siete primeros identifican la finca o parcela, los siete siguientes indican la hoja de plano donde se ubica, los cuatro siguientes identifican el inmueble dentro de la finca y, finalmente, los dos últimos son caracteres de control que permiten conocer si los dieciocho anteriores son correctos, impidiendo (o detectando) errores de grabación.
+
+Desglose de Referencia Catastral Urbana
+Ejemplo con desglose de la referencia catastral urbana
+
+9872023 VH5797S 0001 WX
+
+Finca o Parcela: 9872023
+Hoja de plano: VH5797S
+Identificación del Inmueble: 0001
+Caracteres de control: WX
+Ejemplo 2º: 13 077 A 018 00039 0000 FP
+En este caso los veinte caracteres corresponden a lo siguiente: los dos primeros identifican la provincia, los tres siguientes el municipio, el siguiente es el carácter que corresponde al sector, que señala el agregado o zona de concentración parcelaria (en su caso), los tres siguientes identifican el polígono (el término municipal se divide en polígonos en función de la homogeneidad de cultivos, existencia de accidentes geográficos, etc.), los cinco siguientes identifican cada parcela dentro del polígono correspondiente, los siguientes cuatro caracteres permitirán detectar o identificar los inmuebles existentes dentro de la parcela y, finalmente, los dos últimos son caracteres de control que cumplen idéntico cometido al señalado en el caso anterior.
+
+Desglose de Referencia Catastral Rústica
+Ejemplo con desglose de la referencia catastral rústica
+
+13 077 A 018 00039 0000 FP
+
+Provincia: 13
+Municipio: 077
+Sector: A
+Polígono: 018
+Parcela: 00039
+Identificación de inmueble: 0000
+Caracteres de control: FP

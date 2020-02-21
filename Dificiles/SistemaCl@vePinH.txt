@@ -1,0 +1,16 @@
+﻿Cl@ve PIN
+accesskey_menuLeft
+• ¿Qué es?
+• Obtención de Cl@ve PIN
+• ¿Cómo usarlo?
+• ¿Cuándo caduca?
+• Preguntas frecuentes (FAQs)
+Obtención de Cl@ve PIN
+Una vez registrados tenemos que obtener un Cl@ve PIN para acceder a los trámites.
+Por tu seguridad, el PIN que vas a recibir sólo puede ser utilizado una vez.
+Puedes obtener tu PIN de dos formas, aunque te recomendamos utilizar la aplicación Cl@ve PIN para dispositivos moviles: 
+• Aplicación móvil Cl@ve PIN
+• Recibir el PIN mediante SMS
+Deberás utilizar el PIN que has recibido para completar el acceso al sistema antes de 10 minutos. Pasado ese tiempo, si no has llegado a acceder a Cl@ve, deberás solicitar un nuevo PIN.
+Una vez identificado mediante el PIN puedes acceder a los servicios que permitan Cl@ve hasta que te desconectes de la Sede Electrónica o cierres el navegador.
+

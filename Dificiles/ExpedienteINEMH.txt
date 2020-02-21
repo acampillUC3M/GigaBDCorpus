@@ -1,0 +1,8 @@
+﻿Consultas
+• Guía de uso. Consulta de prestaciones
+• Guía de uso. Consulta y expedición de copias de certificados de empresa de un trabajador
+A través de este servicio puedes consultar el estado de tu prestación por desempleo relativo a tus datos personales, solicitudes, última prestación, recibos de nóminas y denegaciones.
+Así mismo, podrás consultar los datos del certificado de empresa que haya enviado la empresa, así como obtener una copia del certificado de empresa, en la que haya cesado en tu actividad laboral.
+Para acceder a este servicio es necesario identificarse con certificado digital, DNI electrónico, usuario y contraseña obtenido a través del sistema Cl@ve o datos de contraste.
+Para más información sobre dichos trámites puedes consultar la guía de uso.
+

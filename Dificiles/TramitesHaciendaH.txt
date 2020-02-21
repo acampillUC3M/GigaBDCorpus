@@ -1,0 +1,14 @@
+﻿Trámites electrónicos
+• Mis expedientes
+Podrá conocer el estado de tramitación de todos sus expedientes correspondientes a los procedimientos cuya tramitación se haya iniciado con posterioridad a 1-1-2010, así como realizar los trámites y las consultas previstas. Será necesario disponer de DNI electrónico, certificado electrónico válido o Cl@ve PIN.
+• Presentar y consultar declaraciones
+• Pago de impuestos
+• Consulta y modificación de "Mis datos censales"
+• Notificaciones
+• Cotejo de documentos mediante código seguro de verificación
+• Contestar requerimientos o presentar documentación relacionada con un documento recibido de la AEATAyuda
+• Información sobre firma electrónica
+o Certificado electrónico
+o Cl@ve PIN
+o DNI electrónico
+

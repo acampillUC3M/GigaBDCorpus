@@ -1,0 +1,35 @@
+﻿Cómo ver mi expediente en la web del INEM (SEPE)
+ A través de Internet puedes consultar fácilmente si te han aprobado una ayuda por desempleo, los pagos de prestaciones y subsidios, el detalle de la nómina y la existencia de sanciones o incidencias. 
+Te explicamos cómo realizar estas consultas mediante un vídeo y la guía paso a paso.
+Actualizado: 28/05/2019
+¿Cómo puedo obtener información sobre mi prestación o subsidio por desempleo?
+Hay tres formas de obtener esta información:
+1) Ir en persona a la oficina de empleo, para lo que es obligatorio pedir cita previa, por Internet >o por teléfono, seleccionando la opción 2 o B “información/tramitación”.
+2) Contactar con el teléfono oficial de información del SEPE (INEM), Llamando al 901 11 99 99 o a los números fijos provinciales de información en horario de 9 a 14 h de lunes a viernes, donde se puede contactar con un gestor del Servicio
+Público de Empleo que tendrá acceso a todo su expediente.
+3) Ver directamente nuestro expediente online en la web del SEPE (INEM), que es la opción que explicamos a continuación.
+VIDEO: Cómo consultar tu expediente online a través de Internet
+En este VIDEO te explicamos cómo funciona la consulta de prestaciones.
+Guía paso a paso para entrar en el expediente
+Si en el vídeo te han quedado dudas sobre alguno de los pasos, los mostramos de nuevo a continuación:
+PASO 1 :
+Para acceder a su expediente online hay que pulsar el siguiente enlace directo:
+https://sede.sepe.gob.es/ConsultaPrestacionesAAWWeb/AccesoConsultaAction.do
+y se le abrirá una nueva ventana como esta:
+PASO 2 :
+Cuando aparece la primera pantalla, tienes la opción de acceder con dos tipos de sistema de identificación:
+a) Si tienes certificado digital, DNI electrónico o usuario Cl@ave
+Si para identificarse dispones de certificado digital, DNI electrónico o sistema Cl@ave, pulsa el botón de la izquierda que ha visto en la pantalla y sigue las instrucciones.
+b) Si no tienes nada de lo anterior, puedes acceder con lo que se llaman “Datos de contraste”, que son:
+NIF (o NIE),
+número de cuenta bancaria en la que cobras el paro (piden los dígitos 11 a 20, es decir, los 10 últimos) y la fecha de la demanda de empleo o el número de teléfono que tienes dado de alta en el INEM – SEPE (puede elegir una de las dos, fecha o número de teléfono)
+PASO 3 :.
+Si pulsaste acceder con “Datos de contraste” verás una pantalla como esta, donde introducir sus datos:
+PASO 4 :.
+Cuando hayas introducido esos datos correctos pulse el botón “Acceder” y podrás ver la información de tu expediente (recibos de nóminas, datos personales, solicitudes pendientes, denegaciones, última prestación, etc).
+Este es un ejemplo de la información que un usuario puede encontrar:
+Consejo: Si estás cobrando el paro, es muy útil consultar al menos una vez al mes el expediente online para tener información actualizada sobre cualquier tipo de incidencia o sanción, el detalle de la próxima nómina o el estado de las solicitudes pendientes.
+Descarga de las resoluciones del SEPE en pdf
+Una vez que se accede a este servicio del SEPE, además de ver el estado del pago de prestaciones, también se pueden descargar las resoluciones del Servicio Público de Empleo.
+Pulsando en el enlace (ver imagen), se descargará un pdf que tiene plena validez legal, ya que lleva incorporado un Código
+

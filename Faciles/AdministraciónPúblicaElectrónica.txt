@@ -1,0 +1,16 @@
+﻿Administración Pública Electrónica
+¿Qué es la Administración Electrónica? Definición
+La administración electrónica o e-Administración engloba los mecanismos y sitios webs a disposición de la ciudadanía, que gestiona y dirige la Administración, central o autonómica, o los diferentes organismos constitutivos.
+¿Para que sirve la Administración Electrónica? Por medio de ella, tanto los ciudadanos como las empresas pueden acceder a toda la información, los servicios y trámites en cualquier momento y sin moverse de su casa, gracias a la incorporación de las tecnologías de la información y las comunicaciones desde la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+En este nuevo escenario tecnológico y social, las oficinas tradicionales pasan a ser oficinas sin papeles, conocidas como sedes electrónicas, en las que se aumenta la productividad, la eficiencia y se simplifican, en gran medida, los diferentes procesos del día a día de las organizaciones, ofreciendo las mismas garantías. Además, todos los funcionarios y personal de la Administración pueden beneficiarse de ellos gracias a las redes internas (intranet).
+Para ello, la administración electrónica cuenta con medidas jurídicas, técnicas y organizativas que nos aseguran que los contenidos y servicios que nos prestan responden a los principios de seguridad, accesibilidad, identificación, y autenticación.
+Artículos relacionados:
+• Qué es un navegador
+• Qué significa el candado verde SSL
+DNI Electrónico y Certificados Digitales
+¿Sabías que gracias al DNIe y los certificados digitales puedes llevar a cabo multitud de trámites con la Administración y con algunas empresas privadas, de forma sencilla, rápida, sin necesidad de desplazarte y con la misma validez?
+Se trata de un sistema de seguridad que ofrece garantías para operar a través de Internet, tanto para proteger los intercambios de datos como para asegurar la identidad del usuario.
+Los servicios más utilizados por los ciudadanos son: solicitar la vida laboral, realizar la declaración de la renta, solicitar ayudas al desempleo, consultar datos personales en registros públicos, solicitud de citas previas para atención presencial, solicitud y envío de formularios, emisión de factura electrónica, pago de tasas, acceso a servicios de banca online y compañías de seguros, gas, electricidad, telecomunicaciones, etc.
+Desde Adminfacil.es te explicamos, de manera sencilla cómo funciona el DNI electrónico y los certificados digitales: el proceso de instalación, sus usos más comunes, el proceso de renovación, nuevas versiones e incluso los mitos y leyendas que todos tomamos como ciertos, pero en realidad no lo son.
+

@@ -1,0 +1,50 @@
+﻿Cómo obtener el borrador o declaración en Renta WEB con referencia
+• Con la referencia obtenida mediante RENØ podrá acceder al servicio de tramitación del borrador o declaración, Renta WEB, para generar sus declaración con los datos de los que dispone la AEAT, modificarla añadiendo los datos que considere oportunos o realizar una declaración complementaria, si es necesario.
+Acceda al portal de Renta 2018 y, dentro de "Trámites destacados", haga clic en "Servicio de tramitación borrador /declaración (RENTA WEB)".
+
+En la ventana de selección del tipo de acceso escoja "Con número de referencia" para identificarse.
+
+• A continuación, introduzca su DNI y la referencia obtenida a través del servicio RENØ (puede obtenerla utilizando la aplicación móvil Agencia Tributaria). Si aún no dispone de una referencia válida, pulse "No tengo Referencia".
+
+Indique su DNI o NIE
+
+A continuación se le requerirá un dato adicional, en función de su tipo de documento:
+o DNI: Fecha de validez / DNI permanente: Fecha de expedición
+
+o NIE: Número de soporte
+
+o DNI K, L, M: Fecha de nacimiento
+
+A continuación Responda SI o NO a la pregunta "¿Declaró usted la Renta en la campaña anterior?" Recuerde que también puede obtener la referencia identificándose con certificado electrónico o Cl@ve PIN. 
+
+Si ha marcado SI, en la siguiente pantalla deberá indicar el importe de la casilla 475 de su declaración de 2017. En caso de que el importe sea 0,00 se le requerirá adicionalmente indicar los 5 últimos dígitos del IBAN de una cuenta de su titularidad.
+
+
+Si ha marcado NO, se le solicitarán los 5 últimos dígitos del IBAN de una cuenta de la que nos conste que fue titular en 2018.
+
+Tras completar todos los datos requeridos, pulse "Obtener referencia".
+La referencia obtenida se mostrará en pantalla. Cópiela o anótela para utilizarla en los servicios de Renta. Puede obtener hasta 10 referencias al día y la última obtenida revocará siempre la anterior.
+
+Cierre las ventanas anteriores e introduzca la referencia para acceder a su declaración.
+
+Si tiene dudas respecto a cómo obtener la referencia del expediente, le recomendamos que consulte la ayuda "Cómo obtener la referencia del expediente de Renta 2018 con casilla 475 del ejercicio 2017".
+Tras identificarse con la referencia, accederá a los servicios disponibles de su expediente. Para consultar el borrador, modificarlo o presentar la declaración, seleccione "Borrador/Declaración (Renta WEB)".
+
+Si ya ha accedido a Renta WEB anteriormente, en una ventana emergente se informará de la existencia de una declaración previa, que puede recuperar desde la opción "Continuar sesión". También puede comenzar una "Nueva declaración", incorporando los datos fiscales. Podrá escoger la lengua cooficial en la que desea realizar la declaración.
+
+Datos identificativos
+Si es la primera vez que accede, se mostrará una ventana inicial con los datos identificativos del declarante y del resto de declarantes de los componentes de la unidad familiar. Revise los datos y realice las modificaciones necesarias antes de continuar. Tenga en cuenta que algunos datos como el estado civil o la información sobre hijos menores de edad o incapacitados judicialmente sometidos a patria potestad prorrogada o rehabilitada no podrán ser modificados posteriormente.
+Si no desea introducir los datos fiscales del cónyuge (si ha indicado como estado civil, "Casado/a"), debe marcar la casilla para el cálculo de la declaración individual. En caso contrario, no podrá avanzar ya que se solicita la identificación del cónyuge con referencia o Cl@ve PIN.
+
+Declaraciones con cónyuge
+En declaraciones con cónyuge, si desea comparar el resultado de la declaración en las distintas opciones de tributación, individual o conjunta, necesitará el número de referencia del cónyuge o un código PIN que autorice el acceso. En este caso pulse el botón "Referencia/Cl@ve PIN" bajo el epígrafe "Autorización cónyuge" e identifique al cónyuge mediante uno de estos sistemas.
+
+
+Traslado de datos con información adicional
+Tras aceptar la pantalla de datos identificativos, si la aplicación detecta que se deben trasladar a la declaración datos fiscales adicionales, siga las instrucciones de las siguientes ventanas para incorporar esta información.
+
+Si no necesita incorporar información adicional para generar la declaración, accederá directamente al resumen de resultados desde donde podrá tanto comprobar el resultado de la declaración para cada modalidad y completar la declaración, si fuera necesario.
+Resumen de declaración
+En el menú de la parte inferior dispone de los botones "Continuar con la declaración" (para acceder a todos sus apartados), "Datos personales", "Ver datos trasladados" (datos fiscales) y "Guardar" (para recuperar la declaración en una sesión posterior). También dispone de vídeos explicativos y, en el icono de la interrogación, el acceso al manual de ayuda para la presentación de la declaración de Renta.
+Desde el Resumen de declaraciones, dentro de cada modalidad, puede obtener una Vista previa en PDF, comprobar sus datos fiscales o presentar la declaración.
+

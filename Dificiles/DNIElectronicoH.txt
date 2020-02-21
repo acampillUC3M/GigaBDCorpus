@@ -1,0 +1,10 @@
+﻿Ideas básicas
+
+El Documento Nacional de Identidad (DNI), emitido por la Dirección General de la Policía (Ministerio del Interior), es el documento que acredita, desde hace más de 70 años, la identidad, los datos personales que en él aparecen y la nacionalidad española de su titular.  
+A lo largo de su vida, el DNI ha ido evolucionando e incorporando las innovaciones tecnológicas disponibles en cada momento, con el fin de aumentar tanto la seguridad del documento como su ámbito de aplicación.
+Con la llegada de la Sociedad de la Información y la generalización del uso de Internet se hace necesario adecuar los mecanismos de acreditación de la personalidad a la nueva realidad y disponer de un instrumento eficaz que traslade al mundo digital las mismas certezas con las que operamos cada día en el mundo físico y que, esencialmente, son:
+• Acreditar electrónicamente y de forma indubitada la identidad de la persona.
+• Firmar digitalmente documentos electrónicos, otorgándoles una validez jurídica equivalente a la que les proporciona la firma manuscrita.
+Para responder a estas nuevas necesidades, en 2006 se creó el Documento Nacional de Identidad electrónico (DNIe), de policarbonato con los datos de filiación grabados en el cuerpo de la tarjeta y cuya principal novedad es que incorpora un pequeño circuito integrado (chip), capaz de guardar de forma segura información y de procesarla internamente.
+En enero de 2015 nace el DNI 3.0. Un documento de alta seguridad que combina las más novedosas medidas de seguridad con la última tecnología aplicada a la identificación de los ciudadanos al disponer de un chip dual-interface que permite su utilización con contacto y también modo contactlesss. La incorporación de la tecnología NFC (Near Field Communication) a los dispositivos móviles de última generación elimina la necesidad de un lector de tarjetas, drivers, etc. facilitando la conexión online y la autenticación del ciudadano.
+

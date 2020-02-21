@@ -1,0 +1,51 @@
+﻿Certific@2
+Envío telemático de certificados de empresa
+Este servicio permite el envío a través de Internet, por parte de las empresas, de los certificados de empresa de ceses por suspensión o extinción de la relación laboral.
+• ¿En qué consiste?
+• ¿Cómo funciona el servicio?
+• ¿Cuáles son los beneficios?
+En todo caso las empresas pueden comunicar a los trabajadores y a las trabajadoras que vayan a finalizar su relación laboral, que en el teléfono 901 119 999 del Servicio Público de Empleo Estatal pueden obtener información sobre un posible derecho a prestaciones y sobre la documentación a aportar, agilizándose de esta forma su tramitación.
+Acceso a la aplicación
+¿En qué consiste?
+Consiste en ofrecer la posibilidad de comunicar al Servicio Público de Empleo Estatal (SEPE) a cualquier empresa que tuviera acceso a Internet los certificados de cese de la relación laboral con los trabajadores y las trabajadoras.
+Esta comunicación se puede efectuar utilizando diferentes medios:
+1. A través de la aplicación de la tecnología XML. Utilizando esta tecnología se presentan dos formas bien diferenciadas de poder hacer llegar al SEPE los certificados de cese:
+• Mediante el tratamiento de ficheros XML cuya gestión de envío es manual. Requiere la intervención de un usuario para, una vez el fichero XML ha sido creado, proceder a seleccionarlo y enviarlo al SEPE.
+• Mediante el tratamiento de ficheros XML cuya gestión de envío está automatizada a través de la utilización de servicios web. Se trata de una tarea de carácter desatendida que no requiere intervención por parte de ningún usuario.
+Esta tecnología permite la comunicación de certificados de cese tanto a empresas con una única cuenta de cotización como a empresas que tuvieran más de una cuenta de cotización.
+2. A través de la introducción online los datos de certificados de cese en un formulario web.
+volver a inicio
+¿Cómo funciona el servicio?
+El servicio funciona de diferente manera en función del medio escogido (ver página ¿En qué consiste?) para hacer la comunicación de los certificados de cese:
+1. Para aquellas empresas que se decidan por la utilización de la tecnología XML.
+Para cualquiera de los dos sistemas de envío de certificados de cese al SEPE que utilizan esta tecnología (ver página ¿En qué consiste?), las empresas deberán generar los ficheros XML conforme a un único esquema publicado por este Organismo. En este esquema se especifica la estructura de los ficheros de comunicación que las empresas deben enviar.
+Principales características en el funcionamiento de ambos servicios:
+• Para los ficheros XML enviados a través del acceso a la aplicación Certific@2, es decir, enviados mediante intervención manual, se realizan dos niveles de control:
+o Control de formato. Se realiza en tiempo real, en el mismo momento en el que se envía el fichero. En caso de detectarse error, se especifica éste y el fichero no es enviado para su procesamiento en el SEPE. En caso contrario el fichero se envía al SEPE para su procesamiento.
+o Resto de controles. Se realizan cuando el fichero ha sido enviado al SEPE. Como resultado de este segundo nivel de control, se procederá a enviar un correo electrónico informando del resultado definitivo del proceso: procesado correctamente o rechazado, en cuyo caso se adjuntarán los errores detectados.
+Además, en cada envío se pueden anexar hasta 10 ficheros XML.
+• Para los ficheros XML enviados a través de la utilización de servicios web, y al tratarse de un servicio totalmente desatendido, la empresa deberá realizar las adecuaciones informáticas necesarias para dar soporte a esta gestión.
+
+En este apartado se incluyen dos servicios que están disponibles para su uso:
+
+o Servicio web de comunicación de datos, a través del cual se realizan los envíos de los ficheros XML. Como respuesta al envío, el SEPE asigna y devuelve a la empresa un número, que identifica unívocamente al envío realizado.
+o Servicio web de consulta de datos. A partir del identificador de envío anteriormente recibido, es posible usar este servicio para conocer en qué situación se encuentra el fichero XML comunicado (recibido o en proceso), y en el caso de haber sido ya procesado, se recibirá como respuesta un fichero que contendrá el resultado definitivo del proceso: procesado correctamente o rechazado, en cuyo caso se adjuntarán los errores detectados.
+Los trabajadores y las trabajadoras incluidas en los ficheros XML a enviar por cualquiera de los dos servicios mencionados pueden pertenecer a empresas con una única cuenta de cotización o a empresas con más de una cuenta de cotización.
+2. Para aquellas empresas que se decidan por la opción de introducción de datos a través de un formulario web.
+La utilización de esta opción supone la introducción de cada uno de los datos que conforman un certificado de cese de forma similar a como se cumplimentan en el impreso en papel, con las siguientes características:
+• Grabación inmediata del certificado en las bases de datos de Certific@2, una vez los datos del mismo han sido cumplimentados correctamente.
+• Generación de la versión impresa en formato PDF.
+• Disponibilidad de todos los valores posibles en algunos de los campos (tipo de contrato, profesión, causa de suspensión/extinción, ), lo que impide que se puedan comunicar valores inexistentes.
+• Controles lógicos y condicionantes en los campos de fechas (fecha de alta en la empresa, fecha de suspensión/extinción, fecha de cotización, ), lo que impide que se puedan comunicar fechas erróneas.
+• Controles de obligatoriedad (identificación del representante, grupo de cotización, fecha de alta en la empresa, ) y controles cruzados entre diferentes campos (causa de suspensión/extinción y número ERE, ), lo que impide que se dejen de comunicar datos requeridos.
+• Controles de los importes de cotización, al estar topados con los máximos establecidos.
+• Datos de la empresa y de la persona trabajadora (nombre y apellidos y número de afiliación a la Seguridad Social) facilitados por el sistema, a partir de la identificación de la cuenta de cotización y del NIF/NIE del trabajador o de la trabajadora, respectivamente.
+• Posibilidad de consultar la misma información contenida en el reverso del impreso en papel (Normativa, instrucciones de cumplimentación y Ley de Protección de Datos), mediante botones de ayuda ubicados a lo largo del formulario.
+volver a inicio
+¿Cuáles son los beneficios?
+Este servicio de envío telemático de los certificados de empresa resulta de utilidad para las empresas, dado que se agiliza, simplifica y automatiza el proceso de facilitar esta documentación al SEPE, sustituyendo así su entrega al trabajador en formato papel.
+El Certificado de empresa de cese de la relación laboral es un documento de vital importancia para el reconocimiento de las prestaciones por desempleo, por lo que resulta importante facilitar dicha documentación al Servicio Público de Empleo, evitando el desplazamiento del trabajador a su oficina. Asímismo, será fundamental para la futura implantación de un servicio de reconocimiento de las prestaciones On-line.
+Este servicio, en colaboración con las empresas, contribuye a alcanzar el objetivo de impulsar la administración electrónica.
+Por lo que respecta a la disponibilidad del servicio (fichero XML, servicio web, formulario web), el sistema permite realizar envíos de certificados de cese durante las 24 horas del día en cualquiera de los 365 días del año.
+A esto hay que añadir el importante paso que supone en la automatización del proceso de envío la aplicación del servicio web, así como la independencia tecnológica de la utilización del formulario web, ya que no requiere ningún tipo de conocimiento especial ni desarrollo informático por parte de las empresas, teniendo como único requisito disponer de acceso a Internet.
+Documentación relacionadaTítulo del documentoDescargaFormatoTamañoFechaGuía para empresas[Pdf]2.0 Mbsagosto 2010Nota informativa[Pdf]80 Kbsoctubre 2013Manual de Usuario[Pdf]2.8 Mbsjulio 2013Preguntas frecuentes[Pdf]193 Kbsenero 2014Orden TIN/790/2010, de 24 de marzo, para el envío del certificado de empresa por medios telemáticos.[Pdf]209 Kbsmarzo 2010Orden ESS/484/2013, de 26 de marzo, regula el Sistema de remisión electrónica de datos en el ámbito de la Seguridad Social.[Pdf]193 Kbsenero 2014

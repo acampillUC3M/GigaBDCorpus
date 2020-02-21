@@ -1,0 +1,36 @@
+﻿Darse de alta de autónomos para diseñadores y programadores
+
+
+Si has decidido dar el paso y convertirte en diseñador o programador web por cuenta propia, hay varios pasos que tendrás que completar primero y que están relacionados con: la Agencia Tributaria, las gestiones en la Seguridad Social, la cuota de autónomos o el alta en el RETA.
+Para que este aburrido proceso no se convierta en un quebradero de cabeza para ti, vamos a explicarte paso a paso que debes de hacer para darte de alta como autónomo siendo diseñador, desarrollador o programador para la web.
+Al mismo tiempo, te recomendamos que eches un vistazo la información sobre contrato freelance en la webera. Allí encontrarás material necesario para emprender tu aventura como front-end o back-end por cuenta propia.
+Si quieres darte de alta como diseñador web freelance, tienes que saber que hay dos maneras de realizar las gestiones:
+• De forma presencial. En este caso lo que tendrás que hacer es personarte en las delegaciones de Hacienda y de la Seguridad Social correspondientes a tu domicilio fiscal. Ten presente que para realizar algunas de las gestiones con estos organismos deberás solicitar cita previa, infórmate bien antes de nada.
+• De forma online. Si prefieres darte de alta por Internet, ten en cuenta que para realizar tus trámites con Hacienda y con la Seguridad Social necesitarás disponer de: certificado digital o datos de acceso del sistema Cl@ve. Una vez cuentes con ellos, podrás acceder a los diferentes sistemas y realizar todas las gestiones con la Agencia Tributaria y la Seguridad Social de forma online.
+Tabla de contenidos [ocultar]
+• 1 Trámites para darse de alta como diseñador o programador freelance
+o 1.1 Trámites con la Agencia Tributaria
+o 1.2 Trámites con la Seguridad Social
+• 2 Documentación a presentar para inscribirse como programador o diseñador freelance
+Trámites para darse de alta como diseñador o programador freelance
+
+La realidad es que estas gestiones se han simplificado notablemente con el paso de los años. Sin embargo, para poder convertirse en un diseñador web por cuenta propia se deben realizar una serie de gestiones tanto con Hacienda como con la Seguridad Social. Te lo explicamos en los próximos apartados.
+Trámites con la Agencia Tributaria
+Hay dos gestiones obligatorias que tendrás que realizar con Hacienda para convertirte en diseñador o programador por cuenta propia y son las siguientes:
+• Presentar el modelo de solicitud 036 o 037 (versión 036 simplificada), comúnmente conocido como declaración censal. En cualquiera de ellos deberás incluir tus datos fiscales, es decir, tus datos personales junto con la información relativa a la actividad profesional que vas a realizar.
+• Solicitar el alta en el Impuesto de Actividades Económicas (modelo 840) y abonar el importe correspondiente en el caso de no estar exento. En el epígrafe del IAE tendrás que escoger la categoría que mejor define el trabajo que vas a realizar. El más común para actividades de diseño y desarrollo web es el grupo P763 – Programadores y analistas de informática. Si no lo tienes claro recuerda que puedes darte de alta en varios epígrafe sin ningún coste adicional.
+Trámites con la Seguridad Social
+Como diseñador o programador freelance, deberás estar incluido en alguno de los regímenes que dicta el sistema de la Seguridad Social. Para ello, deberás tramitar el alta en el Sistema Especial de Trabajadores Autónomos (RETA) (modelo TA 0521) antes del plazo máximo de 30 días desde el comienzo de la actividad profesional y el alta censal.
+Igualmente, tendrás que acudir a la seguridad con tu código CNAE o Clasificación Nacional de Actividades Económicas. Este código será distinto en función de la actividad que hayas elegido en el Impuesto de Actividades Económicas (IAE). Lo normal es que si te inscribes como diseñador o programador web selecciones el epígrafe CNAE 6201 – Actividades de programación informática.
+Documentación a presentar para inscribirse como programador o diseñador freelance
+Para terminar, te hacemos un breve resumen de la documentación que necesitas para darte de alta en autónomos como programador o diseñador web.
+En la Agencia Tributaria, tendrás que presentar los siguientes documentos:
+• Modelo 036 o 037: alta censal a través de la cual comunicas a Hacienda el inicio de tu actividad como autónomo.
+• DNI o NIF.
+• Modelo 840: alta en el Impuesto de Actividades Económicas (IAE).
+A su vez, para realizar las gestiones con la Seguridad Social, deberás disponer de la siguiente documentación:
+• Modelo TA 0521: alta en el Régimen Especial de Trabajadores Autónomos (RETA).
+• DNI o NIF.
+• Datos de la entidad gestora o mutua elegida para cubrir los riesgos laborales.
+• Número de cuenta bancaria donde domiciliarás el pago mensual de la cuota autónomos.
+

@@ -1,0 +1,33 @@
+﻿Renta Web: Cómo hacer la declaración por Internet
+
+Se acerca esa época del año en la que tanto asalariados como autónomos están en la obligación de cumplir con sus responsabilidades tributarias y presentar la Declaración de la Renta. Desde Adminfacil te explicamos cómo hacer la Declaración de la Renta de 2019, respecto al ejercicio fiscal de 2018, por Internet, mediante el servicio Renta Web, que en la campaña pasada sustituyó definitivamente al programa PADRE.
+Cómo funciona Renta Web
+En palabras de la propia Agencia Tributaria, Renta Web es «el servicio de ayuda para tramitar y presentar la declaración de Renta», que aúna los anteriores servicios de borrador y PADRE. El sistema online de Renta Web se crea con el objetivo de hacer más fácil y más activa la participación de los contribuyentes online, ya que puedes presentar y acceder a tu declaración no sólo a través de un ordenador, sino también a través de dispositivos móviles como smartphones y tablets, siendo compatible con todos los sistemas operativos.
+Además, puedes empezar la declaración en un dispositivo, por ejemplo tu portatil, y enviarla desde cualquier otro, por ejemplo la tablet. Todas estas características hacen de Renta Web un servicio más interactivo y que se ajusta a todos los perfiles de contribuyentes.
+Aunque te parezca una tarea pesada, te aseguramos que preparar, comprobar y presentar la Declaración de la Renta 2019 (IRPF 2018) por Internet, mediante el programa de Renta Web es muy fácil y que se puede llevar a cabo en 3 sencillos pasos.
+Paso 1: Identificación del contribuyente
+Lo primero que deberás hacer es acceder a la web oficial de la Agencia Tributaria, y en la página principal, dirígete al apartado de “Tramitación”, o bien al icono de «Renta» del periodo correspondiente y seleccionar “Servicio tramitación borrador / Declaración (Renta WEB)”. Desde allí, podrás confirmar tu declaración rápidamente si tu perfil es de traslado inmediato de datos.
+
+La primera vez que accedas al sistema, la pantalla inicial será la de los datos identificativos, con la opción de seleccionar el idioma en el que deseas realizar el trámite. Tienes que verificar y rellenar los datos que sean necesarios. Ten en cuenta que para calcular y presentar una declaración conjunta tienes que validar la autorización de tu pareja o del resto de declarantes. Puedes hacerlo con un número de referencia o con la Cl@ve PIN.
+Si la autorización es con número de referencia, y todavía no lo tienes, haz clic en “No tengo referencia” destacado en azul y localizado en la parte inferior de este cuadro.
+Si, por otro lado, la autorización es con Cl@ve PIN, marca la casilla correspondiente y cumplimenta los datos requeridos. Si no tienes PIN, pulsa “No tengo PIN”, que también está destacado en azul y ubicado en la parte superior del mismo cuadro, justo encima de las casillas de datos para rellenar. En ambos casos, completa con tus datos y haz clic en la casilla de “Confirmar”.
+
+Paso 2: Comprobación de resultados
+Si no tienes que aportar información adicional para trasladar datos fiscales, accederás directamente al “Resumen de resultados”. Esto es así en la mayoría de los casos salvo contadas excepciones. Una vez llegues a este punto del proceso tienes que comprobar el resultado de la declaración para cada modalidad: conjunta, declarante y cónyuge.
+Desde el “Resumen de declaraciones” también podrás ver los datos fiscales imputados para cada declarante y obtener un PDF con la copia de la declaración. Aunque recuerda, esta copia no es válida para presentarla.
+
+Paso 3: Presentación de la declaración
+Desde esta misma ventana en la que te encuentras (Resumen de declaraciones) podrás presentar la declaración de la renta 2019, en referencia al ejercicio del año 2018, en cada modalidad seleccionando el link “Presentar declaración”.
+Si lo haces, accederás a la ventana de presentación. Allí, selecciona el tipo de declaración y aparecerá pre-cumplimentada para que tu elijas entre las opciones de “Presentación inmediata” e “Imprimir declaración”. También debes seleccionar si es una declaración individual o conjunta.
+Por defecto, te aparecerán las opciones de pago fragmentado y domiciliación bancaria, pero puedes modificarlas si te interesa.
+
+Por último, pulsa “Firmar y presentar”. Recuerda que en las declaraciones conjuntas será necesario validar la autorización del segundo declarante. Nuestro consejo es que revises los datos con tranquilidad.
+Cómo consultar la devolución de la renta
+Si quieres conocer el estado de la tramitación de tu devolución, la Agencia Tributaria te ofrece la opción de “Consultar devolución”. Podrás acceder a tu expediente identificándote previamente mediante la Cl@ve PIN o con tu NIF, el primer apellido y la referencia del borrador/ declaración.
+Una vez rellenados los datos, haz clic en “Aceptar” y se te abrirá una nueva pantalla donde podrás ver tu expediente y el estado de tu tramitación. Los mensajes que pueden aparecer son:
+• “Su declaración está siendo comprobada”
+• “Su declaración se está tramitando”
+• “Su declaración ha sido tramitada por los órganos de Gestión Tributaria, estimándose conforme la devolución solicitada por usted”
+• «Su declaración ha sido tramitada no estimándose conforme los datos declarados por usted»
+Cuando estas comprobaciones se lleven a cabo, te aparecerá un mensaje indicando cuándo recibirás la devolución de tu declaración de la renta2019 (IRPF 2018).
+

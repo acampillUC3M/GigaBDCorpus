@@ -1,0 +1,32 @@
+﻿Cómo obtener el Informe de Vida Laboral con certificado digital
+
+La Tesorería General de la Seguridad Social continua incorporando y optimizando sus servicios en Internet.
+En esta entrada vamos a ver uno de ellos: Cómo obtener nuestro Informe de Vida Laboral por Internet, utilizando el certificado digital o DNI electrónico.
+Qué es el Informe de Vida Laboral
+El Informe de Vida Laboral es un documento que nos presenta todos los períodos en los que hemos cotizado a la Seguridad Social. Contiene nuestros datos respecto de las situaciones de alta o baja en los distintos regímenes de la Seguridad Social.
+Qué detalles recoge este informe
+El Informe de Vida Laboral obtenido con certificado digital es un documento (archivo con extensión .pdf) formado, al menos, por cuatro páginas:
+• Página 1: Contiene nuestros datos identificativos y un resumen del número de días en situación de alta (hasta la fecha indicada en el informe). Podrán aparecer otros textos asociados a nuestras circunstancias particulares.
+• Página 2: Refleja las situaciones, que incluye los períodos que tengamos acreditados en  la Seguridad Social. Se detallan las fechas de alta y baja, el tipo de jornada y los días cotizados en cada período y régimen.
+• Páginas 3 y 4: Contienen notas aclaratorias sobre los datos incluidos en las páginas anteriores. Explican los conceptos y abreviaturas utilizados para  que entendamos el contenido de todo el Informe de Vida Laboral.
+Cuando y cómo se puede solicitar
+Podemos solicitar el Informe de Vida Laboral en cualquier momento y obtenerlo en un minuto. La Seguridad Social nos ofrece distintas formas de obtenerlo: por teléfono, con y sin certificado digital y también tenemos la opción de obtenerlo mediante nuestro móvil recibiendo un mensaje SMS. Aquí te explicamos cómo descargarlo de forma inmediata con el certificado digital.
+La vida laboral es útil, por ejemplo, si queremos acreditar nuestra experiencia para acceder a becas y ofertas de empleo, consultar los períodos cotizados para aclarar dudas respecto a las solicitudes de prestaciones por desempleo o jubilación. Es recomendable consultarlo y comprobar que todo es correcto porque cualquier error en estos datos determinará un cálculo erróneo de prestaciones.
+Cómo realizar el trámite paso a paso
+1. Accedemos a la sede electrónica de la Seguridad Social.
+2. Dentro de Servicios en línea, pinchamos en «Ciudadanos».
+3. Observamos tres pestañas, pinchamos en la segunda:  «Servicios con Certificado Digital».
+4. Nos desplazamos hacia abajo y localizamos el servicio «Informe de Vida Laboral».
+
+Tras pinchar en el enlace, nos presenta la pantalla de acceso al trámite con certificado digital. Pinchamos en «Acceso al servicio»:
+
+A continuación el navegador nos pedirá nuestro certificado digital y luego abrirá una nueva ventana con el informe generado. Si no lo vemos, es posible que el navegador haya bloqueado la ventana. Revisa las opciones del navegador para que puedas ver la ventana con el informe (Permitir ventanas emergentes para w2.seg-social.es y luego recarga la página web):
+
+De este modo, hemos obtenido en cinco minutos el Informe de Vida Laboral, evitando desplazamientos y pérdidas de tiempo. El resultado, como hemos comentado antes, es un archivo con extensión .pdf, que se abrirá desde el navegador o bien se descargará y guardará en tu ordenador.
+Veamos el aspecto que tiene la primera página de un Informe de vida Laboral:
+
+Y la segunda página donde vemos nuestras situaciones:
+
+Qué hacer si vemos algún error en nuestro Informe
+Si observamos algún error en la información suministrada en el Informe de Vida Laboral podemos corregirlo.  Con el certificado digital tenemos la posibilidad de pedir que sea rectificado mediante el servicio de «Solicitud de rectificación de Informe de Vida Laboral» de la Sede Electrónica de la Seguridad Social.
+

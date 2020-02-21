@@ -1,0 +1,24 @@
+﻿Persona Física
+El Certificado digital FNMT de Persona Física es la certificación electrónica expedida por la FNMT-RCM que vincula a su suscriptor con unos Datos de verificación de Firma y confirma su identidad.
+Este certificado, también conocido como Certificado de Ciudadano o de Usuario, es un documento digital que contiene sus datos identificativos. Le permitirá identificarse en Internet e intercambiar información con otras personas y organismos con la garantía de que sólo Ud. y su interlocutor pueden acceder a ella.
+¿Quién puede obtener un Certificado digital de Persona Física?
+Cualquier ciudadano español o extranjero, mayor de edad o menor emancipado que esté en posesión de su DNI o NIE, podrá solicitar y obtener su certificado digital de forma gratuita para firmar y acreditar su identidad de forma segura en Internet.
+¿Cómo puedo obtener el Certificado?
+Existen 2 formas distintas para obtener su Certificado digital de Persona Física:
+• Como archivo descargable en su ordenador. Obtener Certificado software.
+• Utilizando su DNIe. Obtener Certificado con DNIe.
+¿Para qué sirve?
+El Certificado digital de Persona Física le permitirá realizar trámites de forma segura con la Administración Pública y Entidades Privadas a través de Internet, como por ejemplo:
+• Presentación y liquidación de impuestos
+• Presentación de recursos y reclamaciones
+• Cumplimentación de los datos del censo de población y viviendas
+• Consulta e inscripción en el padrón municipal
+• Consulta de multas de circulación
+• Consulta y trámites para solicitud de subvenciones
+• Consulta de asignación de colegios electorales
+• Actuaciones comunicadas
+• Firma electrónica de documentos y formularios oficiales
+Gracias a su Certificado FNMT de Persona Física podrá olvidarse de desplazamientos y esperas innecesarias.
+¿Dónde puedo usar mi Certificado?
+En el siguiente enlace, se detallan algunos de los servicios ofrecidos al ciudadano por Organismos y Entidades. El acceso a las páginas web seguras requiere que el navegador desde donde acceda tenga instalado el certificado.
+

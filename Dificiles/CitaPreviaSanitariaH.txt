@@ -1,0 +1,8 @@
+﻿Cita en Atención Primaria
+Para  citarse  en Atención Primaria necesita el código de su tarjeta sanitaria, su fecha de nacimiento y el DNI o NIE. Si la cita es para un menor sin DNI ni NIE (menores de 14 años) deberá introducir los datos del adulto que se haga responsable de la cita. No es válido el número de Pasaporte.
+Puede realizar cualquiera de las siguientes acciones:
+• Pedir cita con su médico de Familia, pediatra o profesional de Enfermería. El sistema le proporcionará las fechas y horas disponibles en la agenda del profesional seleccionado para que pueda elegir con arreglo a sus preferencias. 
+• Consultar, anular o cambiar una cita.
+Todos los centros de salud y consultorios disponen de este servicio de cita online.
+Puede imprimir o descargar, en su ordenador, un resguardo con los datos de su cita si lo desea.
+

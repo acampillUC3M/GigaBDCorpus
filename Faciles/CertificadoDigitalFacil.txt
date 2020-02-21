@@ -1,0 +1,23 @@
+﻿Cómo obtener un Certificado digital
+Todo ciudadano puede solicitar su certificado digital para realizar trámites con la Administración a través de Internet, sin tener que desplazarse a las oficinas ahorrando tiempo y dinero.
+La obtención del certificado digital es gratuita. Cómo solicitarlo con un vídeo paso a paso.
+¿Qué es y cómo se obtiene un certificado digital?
+Se trata de un complemento que se puede instalar en el navegador (Explorer, Firefox, Chrome, Safari, etc) del ordenador, tablet o smartphone con el que habitualmente nos conectamos a Internet. 
+El certificado digital sirve para identificarnos en la gestión online que queramos realizar con cualquier administración, empresas o instituciones, públicas o privadas.
+Por ejemplo sirve para solicitar nuestro certificado de vida laboral, presentar la declaración de la renta, o solicitar una prestación por desempleo.
+Si un ciudadano se conecta a la página web de la Seguridad Social y pide la vida laboral de otra persona, por ejemplo, la del Presidente del Gobierno o un compañero del trabajo, la Seguridad Social no se la dará, porque estos documentos únicamente se entregan al titular. Y la firma de identificarse y demostrar que eres el titular, es tener el certificado digital, tu firma, instalada en el navegador.
+Cómo solicitar un certificado digital
+En este video la FNMT, que es la institución que facilita los certificados digitales, nos enseña cómo solicitarlo paso a paso desde su página web http://www.fnmt.es/ceres :
+También hay disponible un manual en pdf .
+Las ventajas de disponer de un certificado digital son muchas
+Por ejemplo, un trabajador que esté en paro puede desde su ordenador realizar todas estas gestiones, obteniendo el documento legal online e imprimiéndolo en el mismo momento:
+Obtener online su certificado de vida laboral actualizado. 
+Obtener certificados de prestaciones recibidas.
+Obtener certificados de inscripción como demandante de empleo.
+Solicitar la prestación contributiva, subsidios y otras ayudas
+Renovar las prestaciones
+Modificar datos bancarios
+Presentar quejas, sugerencias o recursos administrativos
+Renovar la demanda de empleo
+Además, una vez que se obtiene el certificado digital es válido para utilizarlo ante cualquier administración, entidades públicas o privadas que lo admita, como la Agencia Tributaria, Seguridad Social, las Comunidades Autónomas, los Ayuntamientos, Tráfico, etc.
+

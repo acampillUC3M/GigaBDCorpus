@@ -1,0 +1,32 @@
+﻿Solicitud de un certificado tributario de IRPF
+• La solicitud de un certificado de IRPF en el que conste toda la información relativa a la declaración de Renta del correspondiente ejercicio fiscal está disponible en Internet tanto si dispone de identificación electrónica (certificado electrónico, DNI electrónico, Cl@ve PIN) como sin ella, con número de referencia. En el caso de que el contribuyente no hubiera presentado declaración de Renta y no estuviera obligado a presentarla, según los datos en poder de la AEAT, se expedirá un certificado negativo de Renta, que incluye las imputaciones que le constan a la Agencia Tributaria.
+Entre en la Solicitud de un certificado tributario de IRPF disponible en el apartado "Certificaciones" de la Sede Electrónica.
+• Utilice el enlace "Solicitud y recogida inmediata", independientemente de la forma de acceso, ya que en cualquier caso supone la generación automática del certificado tributario siempre que se den los requisitos para su obtención.
+
+Si se identifica con certificado, DNI electrónico o Cl@ve PIN, únicamente deberá indicar el ejercicio fiscal para el que solicita el certificado e introducir el NIF/NIE del titular solamente en el caso de que el presentador de la solicitud sea un tercero. A continuación, haga clic en "Validar solicitud".
+
+
+Revise los datos de la solicitud y haga clic en "Firmar y Enviar".
+
+Se mostrará la información que se va a enviar y los datos del firmante. Para continuar marque la casilla "Conforme" y pulse el botón "Firmar y Enviar".
+
+La obtención de la certificación es inmediata. En el paso 3 se visualiza el certificado tributario de IRPF en formato PDF. Puede visualizar el PDF en pantalla completa si hace clic sobre el botón disponible. Si tiene problemas en la visualización, le recomendamos que instale un visor apropiado, por ejemplo Adobe Reader.
+
+En el caso de que no guarde el PDF de la certificación, podrá recuperarlo en cualquier momento a través de "Consulta de certificaciones expedidas" utilizando el mismo certificado electrónico o mediante Cl@ve PIN disponible en el menú "Certificaciones" de la Sede Electrónica.
+
+En primer lugar debe seleccionar el tipo de certificado que va a descargar en el desplegable, en este caso "IRPF", y pulsar "Enviar".
+
+Para la recogida de la certificación es necesario que introduzca uno de estos dos datos, el código electrónico de la solicitud compuesto por 16 caracteres que aparece en la hoja respuesta de la solicitud o el intervalo de fechas en el que se solicitó el certificado. Le recomendamos, por tanto, que conserve el código electrónico que se devuelve al realizar la solicitud.
+
+Una vez introducidos los datos requeridos para obtener la certificación, se mostrará un resumen de los datos de la solicitud. Debe pulsar el enlace inferior "Pinche aquí para recoger el certificado" para obtener el PDF con la certificación.
+También puede recuperar la certificación a través del "Cotejo de documentos electrónicos mediante código seguro de verificación" .
+• Si no dispone de certificado electrónico, DNIe o Cl@ve PIN, tendrá que escoger el acceso con número de referencia. La referencia solicitada es la correspondiente al expediente de Renta obtenida mediante el servicio RENØ con la casilla 475 de la declaración de Renta 2017.
+Independientemente del ejercicio fiscal para el que se solicita la certificación de IRPF, la referencia que se requiere actualmente es la última de la que disponga y que haya obtenido con la casilla 475 de la Renta de 2017. En el siguiente enlace, le explicamos cómo puede obtener una referencia:
+• Cómo obtener la referencia de su expediente de Renta mediante el servicio RENØ
+• Indique su NIF y la referencia de 6 caracteres alfanumérica que haya obtenido. A continuación sólo tendrá que indicar en el desplegable el ejercicio fiscal para el que desea obtener la certificación y pulsar el botón "Validar solicitud".
+Verifique que los datos son correctos y haga clic en "Firmar y Enviar".
+En la siguiente ventana se mostrará un resumen de la información que se va a enviar. Marque la casilla "Conforme" y pulse de nuevo "Firmar y Enviar".
+De este modo también obtendrá directamente el PDF con la certificación tributaria.
+Si no fuera posible solicitar la certificación a través de la página web, puede acudir a la Administración para obtenerla. La certificación podrá entregarse en ese mismo momento o enviarse por correo ordinario a su domicilio fiscal o a través de la Dirección Electrónica Habilitada y podrá acudir el propio contribuyente y su representante o autorizado.
+Le recordamos que, para acudir a la Administración a tramitar la certificación, es necesario haber solicitado antes cita previa. En el apartado "Enlaces de interés" le facilitamos instrucciones sobre cómo solicitar cita previa a través de la página web.
+

@@ -1,0 +1,27 @@
+﻿ADMINISTRACIÓN ELECTRÓNICA
+
+​​​​
+Ofrecer a los ciudadanos la posibilidad de relacionarse con la administración a través de internet ha sido y es uno de los grandes objetivos del gobierno en la tarea de modernizar los servicios públicos
+Desde el año 2004, se han puesto en marcha toda una serie de iniciativas para impulsar el desarrollo de la administración electrónica en España y mejorar la atención a los ciudadanos.
+El principal elemento catalizador actual  de la administración electrónica son la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; que convierten en universal el derecho de los ciudadanos a relacionarse con todas las Administraciones de manera electrónica. Unas leyes para la sociedad del siglo XXI, que promueven una Administración más eficiente, eficaz, más cercana y más transparente. Por ello, desde el punto de vista tecnológico todas las Administraciones están trabajando en su implantación y para ello pueden contar con los materiales y herramientas, puestas a su disposición por el este Ministerio.
+Además, se han puesto en marcha un conjunto de soluciones, infraestructuras y servicios comunes que facilitan la implantación de la administración electrónica en las diferentes Administraciones Públicas siendo algunas de ellas piezas clave recogidas ya en la  Ley 11/2007y ahora en las leyes 39 y 40/2015. Algunos ejemplos especialmente representativos son:
+• Red SARApara la interconexión de todas las Administraciones Públicas. 
+• Cl@ve y Suite@firma,para la identidad y firma electrónica.
+• 
+• Plataforma @firma para la validación y firma electrónica. 
+• Plataforma de intermediación de datos para la sustitución de los certificados en soporte papel. De este modo, el ciudadano no tendrá que aportar documentos acreditativos de su identidad, residencia, título educativo, catastrales, etc., en los trámites que inicie. 
+• Suite de Productos relacionados con los registros electrónicos y la interconexión e intercambio de registros entre Administraciones Públicas.
+• Notificaciones electrónicas 
+• Archivo electrónico
+El espectacular avance de la administración electrónica en España no hubiera sido posible sin un completo marco legislativo que ha incidido especialmente en la interoperabilidad entre las Administraciones Públicas y en la Seguridad de los sistemas, los datos, las comunicaciones, y los servicios electrónicos.
+La puesta en marcha del Punto de Acceso General (PAG)   y de la Carpeta Ciudadana define un nuevo modelo de atención al ciudadano a través de Internet unificando el acceso a los diferentes servicios provistos por la Administraciones Públicas.
+Para más información sobre todas estas temáticas puede consultar los portales y secciones específicas al respecto
+
+Enlaces
+• Código de Administración Electrónica
+• Plan de Transformación Digital de la AGE y sus OOPP. Estrategia TIC
+• Plan de acción para la transformación digital en el MINHAFP (aprobado por el Comité Ejecutivo de la Comisión de Estrategia TIC con fecha 15 de diciembre de 2017)
+• Sedes y subsedes del Ministerio
+• Información sobre el Registro Electrónico del Ministerio
+• Normativa sobre Administración Electrónica vinculada al Ministerio
+

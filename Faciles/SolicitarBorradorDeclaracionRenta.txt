@@ -1,0 +1,37 @@
+﻿Cómo solicitar el borrador de la Declaración de la Renta 2019 (IRPF 2018)
+
+El borrador de la declaración de la renta es un servicio que ofrece la Agencia Tributaria mediante el cual se realiza una estimación del ejercicio fiscal anual de cada contribuyente con base a los datos que obtiene de cada uno: ingresos, retenciones, hipotecas, inversiones… En funcionamiento desde 2008, la declaración de la renta se fundamenta en el “borrador”.
+En primer lugar, si no pediste o confirmaste el borrador del IRPF en la campaña pasada, tendrás que solicitarlo. Podrás hacerlo a partir del 2 de abril de este año.
+Para ello, tienes que entrar en la web oficial de la Agencia Tributaria y buscar la sección de “campañas”, o bien hacerlo a través de la app móvil de la renta.
+Cómo pedir el borrador por Internet
+Si lo haces por la web, una vez que ya estás en esta pantalla, busca el icono de “Renta 2018” y haz clic sobre él.
+Al llegar a esta pantalla, las posibilidades son muchas. Puedes adquirir el número de referencia RENØ, consultar, modificar o confirmar el borrador a través de “Renta Web”, pedir cita previa con la Agencia Tributaria, informarte sobre el estado de tu devolución o llevar a cabo otro tipo de trámites relacionados con la declaración de la renta. Entre los otros trámites destacan: como hacer un cambio de domicilio, entregar documentación complementaria, inscribirse en el programa Cl@ve PIN o realizar cambios en la domiciliación.
+Para poder tener acceso al borrador online lo primero que tendrás que hacer es identificarte. Para ello, la Agencia Tributaria ha puesto a tu alcancetres opciones para la identificación telemática:
+• Con la casilla 450 de tu declaración de la renta de 2019 (IRPF 2018).
+• A través del sistema Cl@ve PIN.
+• A través de certificado electrónico o DNI electrónico.
+
+Cómo encontrar la casilla 450
+
+La casilla 450 de la declaración del año pasado se corresponde con “la base liquidable general sometida a gravamen”. La casilla está en el encabezado de la carta que acompaña al borrador y a tus datos fiscales. También puedes encontrarla en tu declaración del año pasado, si has guardado el comprobante.
+En la sede electrónica tendrás que introducir el DNI, la mencionada casilla 450 y tu teléfono móvil.
+De este modo, la Agencia Tributaria te enviará un número de referencia para que puedas entrar a consultar tu borrador de la renta a través de “Renta Web”. 
+Si no sabes cual es el importe de la casilla 450, el segundo método de identificación que hemos mencionado es la Cl@ve PIN. Se puede obtener a través de la web o de forma presencial aunque, en ambos casos, necesitarás el DNI. Si lo haces por Internet, tendrás que hacerlo a través de la sede electrónica de la Agencia Tributaria y te pedirán la fecha de caducidad de tu DNI, así como un teléfono móvil de contacto al que enviarte la Cl@ve. 
+Usar el certificado digital o DNIe es la tercera posibilidad que tienes para acceder al borrador de la renta. El acceso que te ofrece el certificado electrónico o el DNIe es más amplio que cualquier otro tipo de identificación, por lo que es muy recomendable. 
+Con certificado o DNI electrónico podrás acceder, modificar o confirmar el borrador y, además, podrás tener acceso a todos los procedimientos relacionados con la declaración de la renta.
+Cuándo sale el borrador de la Renta
+Desde 2 de abril hasta el 1 de julio podrás solicitar el borrador de la Declaración de la Renta y presentarlo a través de Internet. Y desde 1 de abril podréis solicitar cita previa si vuestra opción es el plan “Le llamamos” y desde el 6 de mayo podréis solicitar cita para acudir de forma presencial, hasta el 26 de junio de 2019.
+Desde el 14 de mayo se podrá presentar la declaración de la renta que hace referencia al ejercicio fiscal de 2018, de forma presencial, en las Oficinas de la Agencia Tributaria de cada Comunidad Autónoma, con resultado a ingresar y domiciliación de cuenta hasta el 26 de junio de 2019. Para más información consulta el calendario del contribuyente 2019.
+Cómo modificar el Borrador de la Declaración de la Renta
+Puedes modificar el borrador de la declaración de la renta si crees que tienes que aportar más datos personales o sobre tus beneficios o pérdidas que no habías incluido anteriormente. También puedes hacerlo si encuentras datos erróneos o imprecisos.
+
+Tendrás que seguir los siguientes pasos para la modificación del borrador de la declaración de la renta:
+• Entrar en la página web oficial de la Agencia Tributaria.
+• Ir al apartado “Campañas”.
+• Hacer clic en el icono “Renta 2018”.
+• Entrar en el servicio “Tramitación Borrador/ Declaración” (Renta Web).
+Error en la casilla 305
+Si ya has probado a realizar tu declaración y has obtenido el siguiente error:
+«La casilla [0305] no puede tener contenido. Sociedad/Fondo 1»
+No podrás realizar tu declaración por el momento. Actualmente la Agencia Tributaria está tratando de solventar este fallo, ya que es una casilla necesaria para indicar las ganancias y pérdidas derivadas de la transmisión de elementos patrimoniales.
+

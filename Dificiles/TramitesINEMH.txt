@@ -1,0 +1,4 @@
+﻿Trámites en línea
+Solicitudes de prestaciones
+Si al presentar cualquiera de las siguientes solicitudes se accede mediante usuario y contraseña Cl@ve, es imprescindible para firmar la solicitud, disponer de teléfono móvil y que coincida con el registrado en cl@ve.
+TrámiteDocumentaciónAyudaSolicitud de prestación contributivaManualSolicitud de subsidio por desempleoManualSolicitud de renta activa de inserciónManualSolicitud del abono acumulado y anticipado para extranjeros no comunitariosManualSolicitud de pago único de la prestación por desempleoManualSolicitud ayuda suplementaria RAI para víctimas violencia género o domésticaManualSolicitud de Renta Agraria para trabajadores eventuales agrarios en Andalucía y ExtremaduraManualSolicitud de Subsidio agrícola para Trabajadores Eventuales del SEASSManual

@@ -1,0 +1,23 @@
+﻿Duplicado de DARDE
+Completar el formulario online
+Información básica
+Descripción:
+Permitir a los trabajadores la generación de una copia auténtica del documento de alta y renovación de demanda de empleo (DARDE).
+Código SIA:993655
+Administración:
+Administración del Estado
+Departamento:Ministerio de Trabajo, Migraciones y Seguridad Social
+Centro directivo:Servicio Publico de Empleo Estatal
+Nivel de tramitación electrónica:Tramitación electrónica
+Enlace web:http://www.sistemanacionalempleo.es/demanda.html
+Tramitación electrónica
+Sistemas de identificación:DNI electrónico
+ocultar
+Información adicional
+Unidad gestora:SUBD. GRAL. DE ESTADÍSTICA E INFORMACIÓN
+Forma de inicio
+Iniciación:Interesado
+Efecto del silencio:No Tiene
+Materias
+Empleo y Seguridad social
+

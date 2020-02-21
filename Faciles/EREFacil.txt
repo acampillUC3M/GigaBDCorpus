@@ -1,0 +1,40 @@
+﻿Expedientes de Regulación de Empleo (ERE)
+El Expediente de Regulación de Empleo (ERE) es un mecanismo laboral especial dirigido a empresas en crisis que les permite reducir su plantilla.
+En este artículo analizamos las clases de ERE y los derechos de los trabajadores en el llamado “ERE de extinción” o despido colectivo.
+Tipos de ERE: Extinción, Suspensión y Reducción
+En épocas de crisis, las empresas realizan los ajustes de plantilla de distintas formas : despidiendo a trabajadores, suspendiendo el trabajo durante un periodo de tiempo o también reduciendo las horas de jornada laboral.
+Para cada uno de estos casos hay regulado un tipo específico de ERE:
+1. ERE de extinción: supone la finalización definitiva de la relación laboral entre empresa y parte de los trabajadores, lo que generalmente se conoce como despido colectivo. Es la opción más desfavorable para los trabajadores.  Explicamos este tipo de ERE al final del artículo.
+2. ERE de suspensión: consiste en establecer un nuevo calendario laboral a la plantilla de trabajadores o a una parte de ella, señalándose los días de suspensión, en la que no habrá actividad laboral. Es lo que habitualmente se conoce como “mandar al trabajador a casa”.
+3. ERE de reducción: en este caso también se establece un calendario laboral, pero en lugar de suspensión de días se reduce la jornada horaria en determinados días de la semana. El trabajador continúa en su puesto, pero trabajando menos horas o menos días.
+El ERE de extinción es definitivo, ya que empresa despide al trabajador. En los dos siguientes, suspensión y reducción, el ajuste de plantilla es temporal, por lo que realmente se habla de un ERTE (Expediente de Regulación de Empleo Temporal).
+En este artículo vamos a analizar el primero de los casos, cuando se produce la extinción de la relación laboral y se despide al trabajador.
+
+El Expediente de Regulación de Empleo (ERE) de extinción o DESPIDO COLECTIVO
+¿Qué es un despido colectivo?
+Anteriormente las empresas tenían que solicitar una autorización administrativa para poder llevar a cabo un despido colectivo, ya que son situaciones excepcionales y es necesario justificar las razones por las que se lleva a cabo la regulación de la plantilla.
+La reforma laboral ha suprimido el requisito de autorización administrativa previa y la empresa puede tomar la iniciativa de llevar a cabo el ERE. Ahora, el control sobre si realmente existen causas que justifiquen el ajuste de plantilla tienen que realizarlo los Tribunales, cuando los trabajadores afectados, sus representantes o la propia autoridad laboral impugnan el expediente.  En el primer caso que ha llegado al Tribunal Supremo, éste ha declarado la anulación del ERE que decidió una empresa madrileña y que afectó a 28 de sus trabajadores.
+Condiciones en las que la Empresa puede llevar a cabo un despido colectivo mediante un ERE
+El despido colectivo está regulado en el art. 51 del Estatuto de los Trabajadores
+Se considera que hay despido colectivo cuando la empresa, alegando causas económicas, técnicas, organizativas o de producción, lleva a cabo la extinción de contratos de trabajo que afecten, en un periodo de 90 días, al menos a:
+a) Diez trabajadores, en las empresas que ocupen menos de cien trabajadores.
+b) El 10 por ciento del número de trabajadores de la empresa en aquéllas que ocupen entre cien y trescientos trabajadores.
+c) Treinta trabajadores en las empresas que ocupen más de trescientos trabajadores.
+Se entiende que existen causas económicas cuando de los resultados de la empresa se desprenda una situación económica negativa, como pérdidas actuales o previstas, o disminución persistente del nivel de ingresos o ventas. Se entenderá que la disminución es persistente si durante tres trimestres consecutivos el nivel de ingresos ordinarios o ventas de cada trimestre es inferior al registrado en el mismo trimestre del año anterior.
+Existen causas técnicas cuando se produzcan cambios, entre otros, en el ámbito de los medios o instrumentos de producción.
+Las causas organizativas hacen referencia a cambios en los sistemas y métodos de trabajo del personal o en el modo de organizar la producción.
+Estaremos ante causas productivas cuando se produzcan cambios, entre otros, en la demanda de los productos o servicios que la empresa pretende colocar en el mercado.
+El procedimiento de los despidos colectivos
+El procedimiento para llevar a cabo el despido colectivo se regula en el art. 51 ET y en el Real Decreto 1483/2012. 
+Contempla la apertura de un periodo de consultas con los representantes de los trabajadores y la presentación de una memoria explicativa de las causas del despido colectivo, así como de la documentación contable y fiscal y los informes técnicos. 
+Actualmente no es necesaria ni la autorización previa de la autoridad laboral ni el acuerdo con los representantes de los trabajadores.  Cumplido el trámite de la comunicación, el empresario podrá notificar a los trabajadores el despido.  En control de la legalidad del ERE lo llevarán a cabo los tribunales de justicia cuando se produzca su impugnación.
+Los derechos del trabajador afectado por un ERE de extinción
+Los trabajadores afectados por un despido colectivo tienen los siguientes derechos (en cada enlace se abre un nuevo artículo):
+Solicitar una prestación por desempleo (+info), si cumplen además los requisitos de cotización suficiente.
+Percibir una indemnización por el despido (+info), que será como mínimo de 20 días por año trabajado, con un máximo de 12 mensualidades.
+Participar en un plan de recolocación (+info), a través de una agencia externa, para tener más oportunidades de encontrar un nuevo empleo.
+Poder impugnar judicialmente el despido (+info), tanto a través de sus representantes sindicales como a título individual.
+Normativa de los Expedientes de Regulación de Empleo de extinción.
+Artículo 51 Estatuto de los Trabajadores (despido colectivo)
+Real Decreto 1483/2012, de 29 de octubre, por el que se aprueba el Reglamento de los procedimientos de despido colectivo y
+de suspensión de contratos y reducción de jornada.   Es lo que se conoce como “el reglamento de los ERE”.

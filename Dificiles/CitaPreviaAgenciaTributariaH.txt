@@ -1,0 +1,32 @@
+﻿Petición de cita previa a través de internet
+• La Agencia Tributaria ofrece un servicio de solicitud de cita previa por internet para acudir a la Administración a recibir información, asistencia, resolver requerimientos, pedir certificados o cualquier otra gestión.
+Puede acceder al servicio de cita previa desde el apartado "Contacte con nosotros", desde la Sede Electrónica, en "Trámites destacados", "Cita previa" o desde el banner de la página de inicio.
+
+Será necesario solicitar cita previa para todos los trámites salvo para:
+o la presentación de documentos en el Registro y entrega de declaraciones. (Excepto modelos 036/037)
+o la solicitud de NIF para personas físicas. Si es para persona jurídica pida cita con el NIF de la persona que vaya a solicitarlo
+o la recogida de notificaciones y suscripción al servicio de avisos
+o la obtención de cartas de pago
+Al acceder al trámite desde el enlace disponible aparecerá la ventana de solicitud de cita, haga clic en "Solicitud de cita previa".
+
+En este caso, no se necesita ningún sistema específico de identificación, haga clic en "Sin identificación" en la ventana del tipo de acceso. Indique a continuación su NIF, apellidos y nombre, y pulse "Enviar".
+
+
+En el caso de que haya recibido una comunicación de la Agencia Tributaria para cuya gestión desee solicitar cita previa, debe aportar el CSV de dicha comunicación. El CSV es el Código Seguro de Verificación de 16 caracteres que aparece en el pie de la comunicación. Después, haga clic en "Solicitar Cita con CSV".
+
+En el siguiente paso, que será el de selección de procedimiento, aparecerá por defecto el relacionado con la comunicación, aunque podrá escoger otro. Del mismo modo, en la selección de centro, aparecerá marcada por defecto y en primer lugar la oficina encargada de la tramitar la notificación. No obstante, podrá indicar otra desde el desplegable aunque debe tener en cuenta que la información que le proporcionarán puede ser limitada.
+
+
+Si no dispone de CSV, seleccione directamente el procedimiento o servicio para el que se pide la cita. Los servicios se muestran agrupados en categorías. Si tiene dudas sobre cuál escoger, sitúe el cursor sobre el icono de la interrogación para obtener más información sobre cada uno de ellos.
+En este primer paso también puede solicitar el envío de un recordatorio de la cita que recibirá en ese mismo momento tanto por SMS al teléfono móvil indicado como por correo electrónico. Por último, pulse "Solicitar Cita".
+
+A continuación, escoja la oficina de la Agencia Tributaria a la que desea acudir. Dependiendo del procedimiento seleccionado, puede elegir entre una oficina que preste el servicio a su domicilio fiscal, una oficina que preste el servicio por un código postal concreto o una oficina de una provincia concreta. Marque una opción y pulse "Enviar" para continuar con la solicitud.
+
+Después seleccione la fecha de la cita. Consulte la agenda de prestación de servicio de esa oficina y escoja un día entre los que aparezcan disponibles en el calendario. Además. dependiendo de las fechas abiertas por la oficina seleccionada, también puede elegir entre las disponibles del mes siguiente.
+
+Seleccione la hora de la cita desde el desplegable y pulse "Enviar".
+
+Se mostrará un mensaje indicando que la cita se ha solicitado correctamente, el lugar de prestación y los datos de la misma. Revise la información sobre la documentación que debe aportar.
+
+En el caso de que quiera modificar o anular la cita debe acceder nuevamente al servicio de cita previa en la Sede. Al identificarse se mostrarán las citas ya asignadas con la correspondiente opción para modificarla o anularla.
+

@@ -1,0 +1,23 @@
+﻿Informe de vida laboral< Volver
+A través de este servicio podrá obtener y/o consultar on-line un informe en el que se recogen todas las situaciones de alta o baja de una persona en el conjunto de los distintos regímenes del sistema de la Seguridad Social.
+
+Acerca de este trámite
+A quién va dirigido
+Ciudadanos que estén cotizando o que lo hayan hecho alguna vez a lo largo de su vida  y que, por lo tanto, dispongan de número de afiliación a la Seguridad Social.
+
+Qué permite realizar
+Visualizar y consultar de forma inmediata el informe.
+Descargarlo en formato PDF.
+Imprimirlo.
+Si accede sin certificado digital podrá cumplimentar un formulario de solicitud de modo que el informe le será remitido por correo postal.
+
+A tener en cuenta
+En caso de observar alguna incidencia en los datos contenidos en el informe, puede comunicarla accediendo al servicio Solicitud de rectificación informe de vida laboral.
+
+Si accede sin certificado digital todos los datos introducidos en el formulario deben coincidir con los existentes en la base de datos de la Tesorería General de la Seguridad Social. Si no son coincidentes, no se enviará el informe.
+
+Próximos pasos
+Si accede sin certificado digital y una vez cumplimentado el formulario, obtendrá un número de referencia, que servirá para consultar el estado de la petición.
+La información del estado de la petición cursada se recibirá a través de un correo electrónico.
+Transcurridas 24 horas de la recepción del correo informativo, se podrá acceder al servicio Consulta de estado de solicitud de informes.
+Para acceder a este servicio compruebe los requisitos técnicos necesarios. 

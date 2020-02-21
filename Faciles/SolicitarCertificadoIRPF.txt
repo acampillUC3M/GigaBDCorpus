@@ -1,0 +1,49 @@
+﻿Cómo solicitar el certificado de IRPF al momento sin certificado digital
+
+La Agencia Tributaria dispone de un servicio con el que podemos solicitar y obtener el certificado tributario de IRPF al instante. Vamos a ver en esta entrada cómo realizar este trámite sin necesidad de certificado digital.
+¿Qué es un certificado de IRPF?
+
+Un certificado tributario de IRPF (también conocido como certificado de renta) es el justificante emitido por la Agencia Tributaria donde se reflejan todos los datos relativos a la declaración de la renta del ejercicio fiscal solicitado.
+Si el ciudadano no está obligado a presentar la declaración o no la realizó, también puede solicitar este certificado («certificado de imputaciones«). En el certificado se indica esa condición y se genera el documento con las imputaciones de renta que le correspondan.
+¿Qué necesitamos para realizar este trámite?
+• Tener a mano un teléfono móvil en el que recibiremos un SMS para poder terminar el trámite.
+• Localizar la declaración de la renta del ejercicio fiscal solicitado. En el trámite necesitaremos el valor de una casilla de la declaración.
+• Si NO presentamos la declaración de la renta o la casilla tiene valor cero, entonces la casilla se deja vacía, sin rellenar.  En su lugar nos pedirá un código de cuenta bancaria en la que figuremos como titular.
+• No necesitamos el certificado digital.
+Comenzamos el trámite
+Accedemos desde la Sede Electrónica de la AEAT al enlace: Certificados tributarios. Expedición de certificados tributarios. IRPF y pulsamos en «Solicitud y recogida inmediata».
+
+Este trámite consta de 3 pasos:
+1. Rellenar la solicitud
+2. Confirmar la solicitud
+3. Obtener Certificado
+1.1. Rellenar la solicitud. Primera pantalla donde:
+• Tecleamos nuestro NIF/NIE.
+• Seleccionamos el ejercicio fiscal del cual queremos el certificado de IRPF.
+• Rellenamos el valor de la casilla solicitada. Si es el año 2011 ó 2010 es la casilla 620. Si se trata del año 2009 ó 2008 es la casilla 698. Siempre que sea distinta de cero. Si es cero la dejamos tal cual, en blanco. También la dejaremos vacía si NO presentamos declaración ese año.
+
+Con todos los datos rellenos, pulsamos en «Validar solicitud».
+1.2. Rellenar la solicitud. Segunda pantalla: Nos pide un número de móvil, lo tecleamos 2 veces. A continuación, pulsamos en  «Validar solicitud».
+
+2. Confirmar la solicitud. Ahora revisamos que todos los datos anteriores son correctos. Si estamos de acuerdo, pulsamos en «Confirmar solicitud».
+
+En unos instantes recibimos en el móvil un mensaje de texto (SMS) similar a este:
+
+El mensaje SMS contiene el texto: «Ya tiene disponible el certificado de Renta 2011 de NIF *******. Con el CSV: 1111111. Puede consultarlo en www.aeat.es».
+3. Obtener Certificado. Llegamos al paso final del trámite. El código CSV (Código Seguro de Verificación) incluido en el SMS lo tenemos que teclear en esta pantalla para obtener el documento pdf con el certificado tributario de IRPF.
+
+Rellenamos el csv y pulsamos en «Consultar Certificación». A continuación nos muestra el certificado en pantalla, en formato pdf.
+
+Este certificado lo podremos descargar y guardar en nuestro equipo:
+
+Navegadores probados
+
+Este trámite se ha probado en Google Chrome 23.0.1271.95, Mozilla Firefox 17 e Internet Explorer 8 sobre los sistemas operativos Windows XP y Vista.
+Entradas relacionadas
+• ¿Qué es una sede electrónica?
+• Cómo obtener el certificado de IRPF al instante con certificado digital 
+Referencias
+AEAT – Solicitud y recogida online en Internet de los certificados de IRPF
+AEAT – Ficha del trámite
+AEAT -Vídeo Cómo obtener un certificado de renta
+

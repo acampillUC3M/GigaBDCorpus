@@ -1,0 +1,13 @@
+﻿Informe de datos identificativos y de domicilio 
+A través de este servicio puede obtener, imprimir y/o consultar on-line un informe con los datos identificativos y de domicilio que constan en la base de datos de la Tesorería General de la Seguridad Social.
+Acerca de este trámite
+A quién va dirigido
+Personas que tienen asignado un número de afiliación a la Seguridad Social (NAF).
+Qué permite realizar
+• Visualizar y consultar de forma inmediata el informe.
+• Descargarlo en formato PDF.
+• Imprimirlo.
+A tener en cuenta
+Los datos mostrados en el informe son: nombre y apellidos, identificador de persona física (DNI, NIE…), fecha de nacimiento y domicilio.
+Para acceder a este servicio compruebe los requisitos técnicos necesarios.
+

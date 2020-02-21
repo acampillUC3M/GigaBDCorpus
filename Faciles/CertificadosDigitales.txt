@@ -1,0 +1,23 @@
+﻿Certificados digitales
+Un certificado digital o certificado electrónico es una de las maneras que permite la Ley para que una persona física o jurídica demuestre su identidad en Internet y pueda firmar documentos electrónicos, con el mismo valor que en el mundo presencial. Del mismo modo que al hacer un trámite en una oficina se nos pide el DNI para demostrar que somos quien decimos ser o que firmemos un impreso, al hacer un trámite online se nos puede pedir que nos identifiquemos con nuestro certificado o que firmemos un formulario antes de enviarlo. Por este motivo, un certificado digital es un instrumento muy útil que nos puede ahorrar tiempo y desplazamientos innecesarios a la hora de realizar cualquier tipo de trámite con las Administraciones Públicas.
+Tabla de contenidos [mostrar]
+Tipos de certificado
+Además de servir para personas físicas o jurídicas, un certificado digital puede venir en soporte software o hardware.
+• 
+o Si es software, el certificado está almacenado en un archivo. Un ejemplo sería el certificado de la Fábrica Nacional de Moneda y Timbre (en adelante, FNMT).
+ 
+• Si se trata de un certificado hardware, el certificado está contenido en una tarjeta física. Es el caso del DNI electrónico.
+
+Cómo funciona el certificado digital
+Un certificado es emitido por una Autoridad de Certificación, que es una empresa pública o privada que garantiza que ese certificado pertenece a la persona que lo solicitó. Así, cada vez que presentemos nuestro certificado en una página web, ésta se comunicará con la Autoridad de Certificación que emitió ese certificado para comprobar que sigue siendo válido. Gracias a ello, el certificado digital también nos posibilita firmar documentos electrónicos. El ejemplo más claro es un PDF, como el de la declaración de la Renta, que podemos firmar electrónicamente con dicho certificado. Además, una vez que se obtiene el certificado digital es válido para utilizarlo ante cualquier administración, entidades públicas o privadas que lo admita, además de la Agencia Tributaria, mencionada anteriormente, la Seguridad Social, las Comunidades Autónomas, los Ayuntamientos, Tráfico, etc.
+Validez del certificado
+Un certificado deja de ser válido si ha caducado o ha sido revocado, ya que tiene una vigencia definida, tras la cual dejará de tener validez. No obstante, antes de que esto ocurra podemos solicitar su renovación. El certificado de la FNMT tiene una vigencia de tres años, mientras que los certificados del DNI electrónico tienen una vigencia de dos años y medio.  Por otro lado, siempre es posible que perdamos nuestro certificado, o lo olvidemos en un ordenador público. Si eso ocurre, dado que con él se puede suplantar a su titular, es imprescindible comunicarlo a la Autoridad de Certificación que lo emitió para que lo revoque, es decir, para que a partir de ese momento ya no tenga validez.
+¿Es seguro?
+ Los certificados digitales aceptados por la Administración cumplen unos requisitos de seguridad muy estrictos, por lo que no debemos tener miedo a obtener nuestro certificado. Eso sí, es importante seguir unas pautas básicas de seguridad al emplearlo, que explicaremos más detalladamente en este blog. ¿Qué certificado debería usar? Aunque no son los únicos admitidos, recomendamos emplear el certificado digital de la FNMT o el DNI electrónico. En entradas sucesivas se explicarán los pasos a seguir para obtener y utilizar ambos. Referencias Ley 11/2007, de acceso electrónico de los ciudadanos a los servicios públicos Ley 59/2003, de firma electrónica RD 1553/2005, por el que se regula el DNI electrónico
+Cómo solicitar el certificado digital de la FNMT
+En las siguientes páginas encontrarás todo lo necesario para empezar con el certificado digital de la FNMT. Los pasos pueden variar en función del navegador que utilices, por lo que hemos preparado una página para cada navegador.
+
+
+Google Chrome
+Mozilla Firefox
+

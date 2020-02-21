@@ -1,0 +1,32 @@
+﻿Anular la cita previa del INEM SEPE
+En el sistema de cita previa telefónica o por Internet que ha puesto en marcha el SEPE (INEM), se asigna la fecha de cita de forma automática, sin posibilidad de elegir día y hora, pero si una vez asignada la cita no le interesa, puede anularse.
+Cómo anular la cita previa del SEPE (INEM) paso a paso
+Video explicativo para anular la cita previa (1 minuto)
+Guía paso a paso
+La anulación hay que hacerla obligatoriamente a través de INTERNET, aunque usted hubiera pedido la cita previa telefónicamente.
+PASO 2: pulse en “anular cita”
+En la parte de la derecha encontrará el enlace que indica “Anulación de cita”. Haga clic en él.
+PASO 3: introduzca datos de identificación
+2) Introduzca sus datos de identificación, como se ve en la imagen.
+1) (DNI o NIE),
+2) El día en que tenía asignada la cita previa, poniendo día, mes y año, todo con dos dígitos: por ejemplo, el uno de noviembre de 2016 se escribiría como 01/11/16
+3) Copie el código de seguridad de letras que verá en la imagen que aparezca en su ordenador (en cada ordenador aparecerá un código distinto). Si no lo ve bien, puede pulsar el símbolo del altavoz y escuchará en su ordenador el código leído de forma automática, para que lo escriba en el espacio de abajo.
+Los tres datos, DNI o NIE, fecha y código, son obligatorios.
+Si los datos son correctos, el sistema nos deja avanzar hacia la siguiente pantalla.
+PASO 4: confirme la anulación
+Confirmación de que desea anular su cita previa.
+Si definitivamente quiere anular la cita, pulse el botón “anular” y verá una pantalla de confirmación como esta:
+Si todo se ha tramitado correctamente, recibirá un mensaje indicando que la cita previa ha sido anulada, como el que ve en la imagen.
+Si no sabe cómo se pide una cita previa por internet, lo explicamos también paso a paso aquí > Guía para pedir la cita previa por internet, paso a paso.
+Preguntas frecuentes sobre la anulación de la cita previa
+¿Qué sucede si no puedo anular la cita previa?
+Si el sistema no le permite anular su cita, no podrá pedir una nueva hasta el día siguiente a la fecha que le dieron para acudir a la oficina.
+ * Ejemplo: Estamos a 10 de Agosto, pedimos cita y  nos dan para el día 15 de Agosto. Si la confirmamos y no la podemos anular, no será posible pedir una nueva hasta el 16 de Agosto.
+¿Me sancionarán si no me presento a la cita que me han asignado?
+No. Nadie haya sido sancionado por no presentarse a la cita previa Es lógico, ya que para pedir la cita no se pasa una estricta política de seguridad.  El problema de no presentarse a la cita es que hasta que no pase el día asignado no se podrá pedir una cita nueva y además se causa un perjuicio a la organización de las oficinas de empleo.
+¿Le puedo dar mi cita a otra persona para que la aproveche?
+No es posible, porque las citas van identicadas con nombre y  DNI o NIE.
+Si no sé qué día me va a asignar la cita el sistema ¿qué puedo hacer?
+La cita previa se puede solicitar de dos maneras, por teléfono y por internet, pero SOLO POR INTERNET tienes la posibilidad de no confirmar la cita si el día asignado provisionalmente no te conviene. De este modo, al llegar al final del proceso y no confirmar la cita es como si no se hubiera pedido y entonces existe la posibilidad de dejar pasar unas horas (o algún día) y volverlo a intentar, a ver si el sistema da una cita que sea más conveniente. Por eso recomendamos siempre pedir la cita por internet (+info).
+Si yo no puedo ir a la cita previa ¿puede hacer el trámite otra persona con mi autorización?
+Si, puede presentar la documentación en su nombre, con una autorización por escrito. Aquí tiene un ejemplo de autorización (+info).

@@ -1,0 +1,9 @@
+﻿Solicitud de certificación electrónica de Matrimonio (para uno mismo) EMITIDO AL MOMENTO
+Tramitación on-line en CL@VE con Certificado Digital
+Tramitación telemática completa
+Comprueba si tu equipo cumple con los requisitos para realizar el trámite
+Puede solicitar y obtener en el momento su propia Certificación de Matrimonio de forma electrónica completando el formulario al que se accede desde esta página.
+La certificación que se solicita debe ser de uno mismo, ya que en el resto de casos hay que realizar ciertas comprobaciones adicionales y no se puede proporcionar en el momento. Para comprobar esto, el solicitante debe disponer de certificado digital para identificarse de forma única.
+Importante: Solamente puede presentar su solicitud por esta vía si la fecha del hecho es posterior al 1 de Enero de 1950.
+A partir de los datos proporcionados se verificará la disponibilidad por medios telemáticos de la información. Si está disponible, su certificación aparecerá en el momento. De no ser así, el sistema le avisará de que ha sido imposible generar su certificación.
+

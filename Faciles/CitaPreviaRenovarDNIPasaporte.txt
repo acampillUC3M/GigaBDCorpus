@@ -1,0 +1,49 @@
+﻿Cómo solicitar cita previa para renovar el DNI o el pasaporte
+
+Cada cierto tiempo es necesario renovar el Documento Nacional de Identidad (DNI) o bien expedir un nuevo Pasaporte para viajar al extranjero.
+Si bien para realizar el trámite es imprescindible desplazarnos personalmente, desde hace tiempo es obligatorio solicitar cita previa, pudiendo hacerlo a través de Internet, reduciendo el tiempo dedicado a la gestión, o bien por vía telefónica. A continuación te explicamos cómo.
+Cita previa por Internet
+Para pedir nuestra cita para el DNI o Pasaporte por Internet,, hay que dirigirse a la web https://www.citapreviadnie.es o bien pinchar en el siguiente enlace. Es posible que aparezca una pantalla con un aviso similar a éste (en Google Chrome):
+
+O éste ( En Mozilla Firefox):
+
+Sin entrar en más detalle, hacemos clic en «Proceed anyway (Chrome)» / «Añadir excepción (Firefox)» y continuamos. Dependiendo del navegador que se esté utilizando, el texto del aviso puede ser diferente. Tras ignorarlo se llega a la página de inicio:
+
+Después de pinchar en «Iniciar la solicitud», veremos la pantalla siguiente:
+
+Ya sea para solicitar DNI o pasaporte, debemos introducir los siguientes datos relativos a nuestro DNI:
+• 
+o Número de documento y letra
+o Equipo de expedición (situado en el reverso del DNI): El equipo de expedición es un código alfanumérico de 9 caracteres que identifica a la oficina de Policía que emitió el documento. Es un código variable, ya que cambiará cuando si renovamos el DNI en una oficina diferente de la de la vez anterior. Este campo no será obligatorio si decidimos identificarnos con el NIE.
+o Fecha de validez (situada en el anverso del DNI).
+Además, es necesario introducir los caracteres aleatorios que aparecen en pantalla. Tras rellenar la solicitud, hay que pinchar en «Enviar datos».
+Nota: Si hemos perdido el DNI y por lo tanto no tenemos los datos que se nos piden, hay que pinchar en el siguiente enlace.
+A continuación, se nos solicitará el trámite que queremos hacer:
+
+Las opciones son:
+• 
+o Solicitar DNI
+o Solicitar pasaporte
+o Solicitar DNI y pasaporte
+o Solicitar documentos para menores (DNI niños) o personas a nuestro cargo.
+Tras elegir el trámite deseado, se solicita la Provincia en la que se desea efectuar. Es posible pinchar en el mapa o en la lista de la derecha de la pantalla. En este caso, voy a elegir Madrid:
+
+En la siguiente pantalla aparecerán las oficinas disponibles en la provincia seleccionada:
+
+Debajo de cada oficina hay información sobre el horario y la disponibilidad de cita en los próximos días. Es posible filtrar las oficinas por localidad pinchando en «Cita rápida» o bien pinchar directamente en la oficina deseada. En la pantalla siguiente podemos ver la disponibilidad de citas en la oficina seleccionada:
+
+Al seleccionar mes y día, veremos el número de citas que hay en cada hora. Tras pinchar en la hora elegida, vemos la siguiente pantalla:
+
+En ella aparecen los detalles de la cita. Es posible introducir nuestro teléfono móvil para que se nos envíe un mensaje de texto con los detalles de la cita. Si todo es correcto, hay que pinchar en «Confirmar». Tras ello la cita queda confirmada:
+
+En esta última pantalla podemos consultar la documentación que hay que llevar el día de la cita, anular la cita, imprimir el justificante en formato PDF o solicitar otro trámite.
+Este trámite se ha probado correctamente en Google Chrome 24.0.1312.52 y en Mozilla Firefox 18.0 sobre el sistema operativo Linux Mint 13. No obstante, dada la simplicidad del trámite y la ausencia de firma electrónica, debería funcionar en cualquier navegador y sistema operativo.
+Cita previa por teléfono
+Si por el contrario no queremos realizar estos pasos, la Administración ha establecido el número 060 para pedir cita previa para el DNI y el Pasaporte por teléfono.
+Llamando a este teléfono, podemos solicitar una cita nueva, consultar una cita anterior o anularla para pedir una nueva. Te recomendamos de todas formas que compruebes en la www.citapreviadnie.es tu oficina más cercana.
+Este número funciona las 24 horas del día a través de un robot de atención automática, pero si prefieres recibir atención personalizada, los agentes están disponibles en el siguiente horario:
+• De lunes a viernes de 9:00 a 19.00 horas.
+• Sábados de 9:00 a 14:00 horas.
+• Durante el mes de agosto, De lunes a viernes de 9:00 a 15:00 horas, y los sábados igualmente de 9:00 a 14:00 horas.
+Ten en cuenta que llamar al 060 no es gratis. El coste dependerá del que determine tu operador para llamar a un teléfono fijo nacional. Si por el contrario te encuentras en el extranjero, deberás llamar a un 902 con el prefijo +34: +34 902 887 060.
+

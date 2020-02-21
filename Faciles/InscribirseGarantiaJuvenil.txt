@@ -1,0 +1,38 @@
+﻿Cómo inscribirse en la Garantía Juvenil
+Ya está disponible en enlace en la web del Ministerio de Empleo para que los jóvenes se puedan inscribir en el Sistema de Garantía Juvenil.
+Cómo inscribirse en Garantía Juvenil desde la oficina de empleo
+MUY IMPORTANTE:
+Desde la entrada en vigor de la reforma de la Garantía Juvenil, se ha simplificado mucho el proceso de inscripción en Garantía Juvenil. Ahora en 2018 es suficiente con que el joven que quiera formar parte de este programa se inscriba como demandante de empleo, es decir, se apunte al paro (+info). Para ello basta con que se dirija a su oficina de empleo con la documentación de identificación y acreditativa de titulaciones y estudios cursados. Desde la oficina de empleo, al darse de alta como demandante de empleo o renovar su demanda (si ya la tenía), le darán de alta en el chero único de Garantía Juvenil.
+El procedimiento que explicamos a continuación era el único que existía hasta el 23 de diciembre de 2016. Sigue estando vigente, pero requiere más trámites que el de apuntarse en la oficina de empleo.
+Procedimiento de inscripción anterior (todavía vigente)
+Si no ha elegido la inscripción a través de la oficina de empleo, el alta habría que hacerla necesariamente a través de Internet, desde en la página oficial de Garantía Juvenil, en dos pasos:
+1. En primer lugar, identificarte, para que el sistema sepa quien es la persona que se está inscribiendo.
+2. Una vez identificado en el sistema, apuntarte.
+1) Identificación
+ Accede a la sección de Inscripción de la web de la Garantía Juvenil:
+https://garantiajuvenil.sepe.es/login.action
+Te puedes identificar de dos formas:
+OPCIÓN “A” DE IDENTIFICACIÓN :   Acceso con DNI o certificado electrónico
+La forma más sencilla y rápida de acceder al registro es a través de DNI electrónico o, certificado electrónico reconocido.  Si no tienes certificado electrónico, sácatelo. Es un trámite que te ahorrará mucho tiempo en el futuro, ya que con él podrás acceder a todas las páginas de la Administración (INEM, Seguridad Social, Tráfico, Hacienda, etc etc). Desde nuestra web te explicamos con un video cómo obtener tu certificado digital (certificado electrónico) (+info).  También tienes información sobre cómo obtenerlo desde la web del SEPE (+info)
+OPCIÓN “B” :   Acceso con usuario y contraseña
+Si no tienes certificado digital o DNI electrónico, tendrás que pedir usuario y contraseña para acceder al Portal. Aquí te explicamos > cómo se obtiene el usuario y contraseña para entrar en Garantía Juvenil (+info)
+Acceso para discapacitados
+Con carácter general, hay que inscribirse a través de Internet, salvo las personas que se encuentran en riesgo de exclusión social que cuenten con el certificado que lo acredite y/o discapacidad reconocida. Estas personas se podrán inscribir mediante la presentación del formulario de inscripción que una vez cumplimentado se podrá entregar en distintas dependencias de la Administración para que llegue al organismo encargado de dar las altas.
+Bien, suponemos que ya puedes identificarte, bien porque tienes dni electrónico, certificado digital o porque te han enviado por email tu nombre de usuario y contraseña.  Ahora veremos cómo se hace la inscripción en el Portal.
+2) Inscripción en el sistema
+Una vez que tenemos la identificación, entraremos en la página oficial de Garantía Juvenil (enlace), pulsa en el botón rojo que indica “Iniciar suscripción”
+Se abrirá una nueva pantalla en la que elegirás la forma de identificarte, como hemos explicado en los puntos anteriores, tendrá que ser con DNI electrónico, certificado electrónico o bien usuario y contraseña.
+Los enlaces que ves “DNI electrónico” o “Certificado electrónico” conducen a guías en las que explican como obtener cada uno de ellos. Para seguir con el proceso de inscripción pulsa en el botón que indica “acceso”.
+Elige ahora el acceso con clave de usuario, o DNI electrónico o Certificado electrónico:
+Y finalmente, si hemos elegido certificado digital, se escoge el certificado instalado en el navegador:
+Y con esto, se llega al FORMULARIO DE INSCRIPCION, en el que hay que completar los datos de identificación, estudios, experiencia laboral, intereses y la declaración final.
+Es necesario rellenar todos los datos del formulario para estar inscrito. Una vez enviados, los datos del formulario serán revisados por la administración, que confirmará la inscripción definitiva, comunicándoselo al joven.
+¿Cuales son los requisitos para que un joven se pueda apuntar a la Garantía Juvenil?
+Los requisitos para inscribirse en Garantía juvenil son estos:
+Tener nacionalidad española o ser ciudadanos de la Unión o de los Estados parte del Acuerdo Económico Europeo o Suiza que se encuentren en España en ejercicio de la libre circulación y residencia. También podrán inscribirse los extranjeros titulares de una autorización para residir en territorio español que habilite para trabajar.
+Estar empadronado en cualquier localidad del territorio nacional español.
+Tener más de 16 años y menos de 30 en el momento de solicitar la inscripción en el Fichero del Sistema Nacional de Garantía Juvenil.
+No haber trabajado, ni recibido acciones educativas ni formativas en el día anterior a la presentación de la solicitud.
+(antes de la reforma se pedía no haber trabajado ni recibo formación en los 30 días anteriores. Ahora basta con que no se haya trabajado ni estudiado el día anterior)
+Presentar una declaración escrita de tener interés en participar en el Sistema Nacional de Garantía Juvenil, adquiriendo un compromiso de participación activa en las actuaciones que se desarrollen en el marco de la Garantía Juvenil.
+

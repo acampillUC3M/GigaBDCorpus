@@ -1,0 +1,26 @@
+﻿El IPREM en 2019
+El IPREM (Indicador Público de Renta de Efectos Múltiples) es un indicador que utiliza el gobierno para calcular todos los años la revalorización de las prestaciones sociales, como las de desempleo, ayudas a la vivienda, becas, etc.
+¿Cuál es el valor en este año 2019 y cómo se calcula?
+¿Qué es el IPREM?
+Anteriormente el indicador utilizado para actualizar la revalorización de las prestaciones sociales era el Salario Mínimo Interprofesional (SMI). Sin embargo, fue sustituido por un nuevo indicador, llamado IPREM (Indicador Público de Renta de Efectos Múltiples).
+El IPREM se ja en la Ley de Presupuestos Generales del Estado todos los años. En 2018, como los presupuestos fueron los del año anterior prorrogados, el importe del IPREM no varío y tampoco ha tenido aumento en 2019, ya que por el momento el gobierno no ha decidido actualizarlo.
+2019. IPREM anual: 6.454,08 euros
+Año Disposiciones Legales Efectos Euros/día Euros/mes
+2019 Sin modificación legal 01.01.19 17,93 euros 537,84 euros
+2018 Ley 6/2018, de 03.07 01.01.18 17,93 euros 537,84 euros
+2018 Ley 3/2017, de 27.06 29.06.17 17,93 euros 537,84 euros
+2017 Ley 3/2017, de 27.06 29.06.17 17,93 euros 537,84 euros
+2017 Ley 48/2015, de 29.10 01.01.17 17,75 euros 532,51 euros
+2016 Ley 48/2015, de 29.10 01.01.16 17,75 euros 532,51 euros
+2015 Ley 36/2014, de 26.12 01.01.15  17,75 euros 532,51 euros
+2014 Ley 22/2013, de 23.12 01.01.14 17,75 euros 532,51 euros
+¿Cómo afecta el IPREM de cada año a lo que se cobra en las ayudas de desempleo?
+La cuantía mensual del subsidio por desempleo es igual al 80% del Indicador Público de Renta de Efectos Múltiples (IPREM), de cada año.
+En el año 2019, los subsidios del Servicio Público de Empleo serán por lo tanto de 430,27 euros/mes, el mismo valor que en 2018.
+Eso es así en los casos en los que se cobra el subsidio al 100%, pero hay que tener en cuenta los llamados subsidios parciales, que se dan en los casos en los que el último de los contratos ha sido a tiempo parcial y provoca que el subsidio se cobre reducido en la misma proporción a la jornada de trabajo.
+Las ayudas extraordinarias, como la Renta Activa de Inserción (RAI), o el Subsidio Extraordinario por Desempleo (SED) también tienen ese mismo importe (430,27 euros) y el Plan Prepara, 400 o 450, en función de las responsabilidades familiares.
+Del mismo modo, otras ayudas, como las Rentas Autonómicas de Inserción, también pueden estar referenciadas al IPREM, de modo que se cobra cada año un tanto por ciento de ese importe. Por ejemplo, la Renta Garantizada de Ciudadanía de Castilla y León es el 80% del IPREM, con lo que se cobra al mes el 80 % de 537,84, es decir, los 430,27 €.
+Más información y normativa legal
+El indicador público de renta de efectos múltiples (IPREM) fue creado mediante el Real Decreto-ley 3/2004, de 25 de junio (pdf BOE), para la racionalización de la regulación del salario mínimo interprofesional y para el incremento de su cuantía.
+
+

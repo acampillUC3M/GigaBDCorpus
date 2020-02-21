@@ -1,0 +1,15 @@
+﻿Tanto si ha finalizado tu contrato como si has agotado la prestación contributiva por desempleo, puedes saber qué prestación te corresponde, en el primer caso, o si tienes derecho a subsidio, en el segundo.
+Ten en cuenta que el resultado que se obtiene a través del simulador no es vinculante para el SEPE, ni genera derecho alguno a tu favor.
+Puedes calcularlo a través de la sede
+Programa de autocálculo de la prestación
+Es una aplicación que permite al ciudadano simular, en base a los datos que él mismo introduce al contestar unas breves y sencillas preguntas que le realizará el programa, la posible prestación a la que podría tener derecho, su duración e importe.
+
+No tiene ningún carácter vinculante para el Servicio Público de Empleo Estatal (SEPE), ya que no se realiza ninguna comprobación sobre la veracidad o coincidencia con los datos que constan en las bases de datos del SEPE.
+
+Su acceso es libre, no se exige ninguna autenticación.
+
+Las situaciones que se contemplan en el programa son:
+
+Prestación que pueda corresponder por finalización de contrato (prestación contributiva o subsidio por desempleo por cotización insuficiente) .
+Subsidio por desempleo por agotamiento de la prestación contributiva.
+Programa de autocálculo de la prestación

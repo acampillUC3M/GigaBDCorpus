@@ -1,0 +1,22 @@
+﻿La prestación por desempleo en los ERE de extinción
+En este artículo tratamos el tema de la prestación por desempleo que recibirá un trabajador que se haya visto afectado por un ERE de extinción.
+El ERE de extinción
+Estamos en lo que se conoce como un “despido colectivo”, en el que la empresa rescinde de forma definitiva su relación laboral con el trabajador.
+La situación después de un despido colectivo, en lo que a las prestaciones por desempleo se refiere, no es distinta a la del resto de modalidades de cese en el trabajo (despidos individuales, n del contrato, etc).
+* Nota: Los expedientes de regulación de empleo temporal, (ERTE), que no implican un despido definitivo sino la suspensión o reducción de la jornada de trabajo, también generan el derecho a prestaciones por desempleo, con una serie de particularidades que serán analizadas en el próximo artículo.
+Requisitos para cobrar el paro tras un despido colectivo:
+1. Haber cotizado por desempleo como mínimo durante 360 días en los 6 años anteriores al despido y que estas cotizaciones no se hayan utilizado para solicitar anteriormente otra prestación o subsidio.
+2. No estar en edad de jubilación ni realizar trabajos por cuenta propia, salvo en las excepciones previstas en la ley.
+3. Estar inscrito como demandante de empleo (apuntado al paro)  y suscribir el compromiso de actividad.
+¿Cuánto se cobra de prestación por desempleo?
+Lo que se cobra es un porcentaje de la base reguladora del trabajador, que es el primer concepto que hay que calcular.
+I) La base reguladora
+La base reguladora es el promedio de las bases de accidentes de trabajo y enfermedades profesionales (excluida la retribución por horas extraordinarias) correspondientes a los últimos 180 días cotizados anteriores al ERE.  Dicho de un modo más sencillo: se calcula la media diaria de las bases de cotización que ha tenido el trabajador durante los últimos seis meses cotizados.
+II) El porcentaje
+Una vez que se conoce la base reguladora del trabajador, por ejemplo, 30 €/día, la prestación por desempleo paga un porcentaje de esa base reguladora.
+– Durante los primeros seis meses el importe diario que se cobrará será el 70% de la base reguladora del trabajador.
+– A partir del séptimo mes (día 181), el paro se reduce y solo se recibe el 50% de la base.
+Por ley se establecen cada año los importes máximos y mínimos que se pueden cobrar por la prestación contributiva.
+Datos para 2018 (+información)
+¿Qué sucede si tras el ERE el trabajador no tiene acumulados 360 días de cotizaciones por desempleo sin consumir?
+En estos casos en los que no se llega al año de cotización, se puede solicitar el subsidio por cotización insuficiente (+info), en el que exigen al menos tres meses de cotización si se tiene responsabilidades familiares (hijos o cónyuge a cargo) o bien seis meses si no hay dichas responsabilidades. En ambos casos, para recibir este subsidio es necesario que el trabajador se encuentre en situación de carencia de rentas.

@@ -1,0 +1,68 @@
+﻿Solicitar certificado de vida laboral 
+Obtener rápidamente el informe de vida laboral por SMS o por Internet para descarga inmediata. Solicitud por teléfono o en las oficinas de la Seguridad Social. Guía paso a paso 2019.
+
+Cómo obtener el certificado de vida laboral:
+Actualizado: mayo 2019
+Hay varias formas de obtener el informe de vida laboral. Elija la que más le interese:
+1. Recibiendo un SMS. Una vez que se recibe el SMS de la Seguridad Social, la vida laboral se puede descargar por Internet en el mismo momento (solicitar vida laboral por sms)
+2. Descarga por Internet con certificado digital. Si tiene certificado digital o usuario clave, puede descargar la vida laboral por Internet en el mismo momento (solicitar vida laboral con certificado)
+3. Solicitud por Internet, solo con datos de usuario. Si no tiene certificado digital o dni electrónico, puede pedir la vida laboral desde internet y la recibirá por correo en su domicilio.(solicitar vida laboral sin certificado)
+4. Solicitud por teléfono. Solo disponible en algunas provincias. Se pide la vida laboral en el teléfono de la Tesorería y lo envían por correo a su domicilio (solicitar por teléfono)
+5. En las oficinas de la Tesorería General de la Seguridad Social. Aunque teóricamente en las oficinas no se entregan en mano las vidas laborales, hay un ordenador de acceso público y le facilitan la clave para que allí mismo se descargue usted la vida laboral.
+A continuación explicamos paso a paso cada una de las opciones.
+1. Pedir vida laboral por SMS
+Este es un sistema nuevo. Usted recibe en su teléfono móvil un SMS con un código y con este código, desde la página web teléfono móvil, que será al que envíen el SMS con la clave, y que los datos que se le solicitan en el formulario de autenticación coincidan exactamente con los registrados en la Base de Datos de la Seguridad Social.
+Puede acceder a este servicio pulsando este enlace: obtener vida laboral por SMS (enlace oficial PULSE AQUÍ)
+Una vez acceda al servicio se mostrará una pantalla para rellenar sus datos identificativos: documento de identificación (DNI, NIE) número de la Seguridad Social, teléfono móvil y fecha de nacimiento.
+A continuación recibirá un mensaje SMS en su teléfono móvil con una contraseña, válida por un corto período de tiempo, que deberá introducir en la pantalla de acceso al servicio, tras lo cual podrá obtener el informe solicitado e imprimirlo directamente o descargarlo en formato pdf. 
+La pantalla en la que deberá introducir el SMS es como ésta:
+Cuando introduzca el código que la Seguridad Social le ha enviado a su móvil, compruebe que su navegador permita la apertura de ventanas emergentes (popups), ya que el informe de vida laboral se abrirá en una nueva ventana desde la que lo podrá guardar o imprimir.
+
+2. Pedir vida laboral por Internet con certificado digital
+Si dispone de certificado digital puede descargar el informe de vida laboral online, en el mismo momento. 
+Para quienes estén habituados a realizar trámites en Internet con el certificado digital, esta es la opción más cómoda, ya que permite descargarse en el mismo momento (online) el certificado en formato pdf y con código electrónico de validación.
+A continuación tiene el enlace de la Seguridad Social para descargar la vida laboral online si se tiene certificado digital: 
+en la venta que se le abra, haga clic donde indica “Acceso al servicio” con Certificado Digital: 
+Descarga de vida laboral con certificado digital (PULSE AQUÍ).
+También puedes ver este vídeo sobre cómo descargar la vida laboral con certificado
+¿Ha tenido algún problema técnico al utilizar su certificado digital?
+Actualmente la Seguridad Social no admite el uso de determinados navegadores para la descarga, como las últimas versiones de Chrome o Firefox y cuando se emplean aparece un error de “Acceso no autorizado” por problemas de java. En las pruebas que hemos hecho, el certificado tan solo lo pudimos descargar correctamente con Microsoft Explorer, por lo que recomendamos leer antes aquí > los requisitos técnicos para la descarga del informe que publica la Seguridad Social.
+Si no tiene certificado digital, ni clave, con sus datos de usuario podrá pedir por Internet la vida laboral y la Seguridad Social se la enviará por correo postal. La recibirá en su domicilio en una semana aproximadamente.
+Haga clic en este enlace de la Seguridad Social >  Solicitar vida laboral sin certificado (PULSE AQUÍ) .
+Se le abrirá una ventana como la que aparece abajo, en la que tendrá que introducir todos los datos que le solicitan.
+Entre otros, le pedirán su número de DNI (NIE o pasaporte)  y el de la Seguridad Social, además de otra información como un email y teléfono de contacto.  Introduzca los datos, para que el formulario quede completo.  Tenga en cuenta estas recomendaciones:
+Los campos marcados con  * son obligatorios. Cuando se trate de un sin número, debe introducirse en el campo Número un cero.
+El número de afiliación a la Seguridad Social que sea inferior a diez dígitos, deberá completarse con ceros a su izquierda, tras los dos primeros dígitos pertenecientes a la provincia.
+Si le es posible, introduzca los datos sin acentos, aunque este hecho provoque incorrecciones ortográficas.
+El Nº de identificación se debe completar con las letras correspondientes, según sea el tipo de identificación elegido.
+No es necesario completar el Nº de identificación con ceros, ni poner guiones ni espacios entre los dígitos y las letras.
+Para introducir la Localidad deberá seleccionar una Provincia válida y, tras esto, pulsar en el enlace Mostrar localidades situada junto a la casilla Localidad.
+Una vez que está todo completo, pulse el botón que indica “aceptar”.  A continuación aparecerá esta pantalla:
+
+Se genera un resguardo con el número de referencia, hora y fecha de la solicitud. El informe lo envía la Seguridad Social a su domicilio, por correo postal. También recibirá en su email una confirmación de que el proceso se ha realizado de forma correcta.
+
+4. Pedir la vida laboral por teléfono
+En la mayoría de las provincias la Seguridad Social permite solicitar la vida laboral por teléfono, sin embargo, NO es posible solicitarla por este medio en: Álava, Alicante, Ávila, Barcelona, Córdoba, Guipúzcoa, Granada, Santa cruz de Tenerife, Soria,
+información de la Tesorería General de la Seguridad Social. El horario es de lunes a viernes de 9 de la mañana a 7 de la tarde.  Al comienzo, el sistema es automático (reconocimiento de voz) y hay que seguir las indicaciones que nos van dando:
+1. Introduzca los dos primeros dígitos del su provincia código postal
+2. Pulse 3 (información general) para contactar con un gestor, que le indicará los pasos a seguir
+3. Le pedirán una serie de datos de contraste, para verificar que es usted el titular. Entre ellos, el DNI o documento de identificación y el número de la Seguridad Social.
+4. Continúe dando el resto de datos:  domicilio,  etc.
+5. Seleccione el tipo de certificado que desea: completo, entre dos fechas y con otras restricciones.
+6. Finalmente, cuando se ha terminado el proceso, le informan de que en unos 6 días aproximadamente se lo enviarán por correo postal al domicilio que tienen en la Tesorería de la Seguridad Social. Asegúrese de que tienen los datos de su domicilio actualizados.
+
+5. Pedir vida laboral en las oficinas de la Seguridad Social
+En las oficinas de la Tesorería General de la Seguridad Social no se entrega en mano la vida laboral, pero suele haber un
+ordenador de acceso público en el cual usted mismo puede solicitar la vida laboral e imprimirla en el mismo momento. Lo que
+hacen en la oficina es darle la clave de acceso para que se pueda descargar la vida laboral desde ese ordenador.
+Puede localizar su oficina de la Tesorería General en este directorio (+info)
+¿Qué información hay en el certificado de vida laboral?
+El informe de vida laboral tiene una primera página en la que figuran los datos identificativos del trabajador, el número de
+días en situación de alta a la fecha de expedición del informe, notas informativas y otros posibles textos en función de las
+circunstancias concretas de cada persona en su relación con la Seguridad Social.
+La segunda y siguientes páginas indican  los distintos períodos que tenga acreditados la persona titular del informe en el
+sistema de la Seguridad Social. Si cuando lea el certificado tiene alguna duda, puede consultarla con la Tesorería de la
+Seguridad Social, bien en sus oficinas o en el teléfono de información 901502050.
+También puede descargarse este documento en pdf: NOTAS ACLARATORIAS del informe de vida laboral donde se explica cada
+uno de los conceptos del informe.
+

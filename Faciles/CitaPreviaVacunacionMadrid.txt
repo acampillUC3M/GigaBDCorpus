@@ -1,0 +1,18 @@
+﻿Cómo solicitar cita previa en el centro de vacunación internacional (Madrid)
+
+Si tenemos pensado realizar un viaje a algún país del tercer mundo es conveniente revisar si es necesario ponerse alguna vacuna como las de la fiebre amarilla y la meningitis meningocócica.
+En todas las provincias es posible pedir cita previa con los Centros de Vacunación Internacional. El Ministerio de Sanidad, Servicios Sociales e Igualdad dispone de un listado en su página web.
+Si vivimos en Madrid tenemos la opción de acudir al centro situado en Francisco Silvela 57. Es muy recomendable pedir cita previa, para lo que no hace falta disponer de certificado digital.
+Comenzamos
+Accedemos a la página de entrada y pinchamos en «Entrar». Se recomienda pedir cita previa al menos un mes antes de comenzar el viaje 
+En la siguiente pantalla hay que introducir nuestros datos personales (DNI, nombre, apellidos y año de nacimiento). También hay que introducir el captcha. Si no se ve bien el dibujo es posible cargar otro pinchando en el botón de la derecha. Tras ello hay que pinchar en «Aceptar»:
+A continuación accederemos al menú principal, en el que podemos solicitar una cita previa, consultar las citas concertadas o anular una cita. En este caso hacemos clic en «Solicitar cita»:
+En el siguiente paso hay que elegir el centro de vacunación internacional al que se desea acudir. Como viene seleccionado el centro de Francisco Silvela, tan sólo hay que pinchar en «Siguiente»:
+Tras ello hay que introducir algunos datos de contacto (necesarios para que el sistema envíe el justificante de la cita) y los datos relativos al viaje: fecha de inicio, países que se van a visitar y duración. Tras introducir todos los datos hay que hacer clic en «Siguiente»:
+A continuación hay que elegir el día y la hora en la que queremos acudir a la consulta. Para ello hay que pinchar en el día en el calendario de la izquierda, y a continuación elegir la franja horaria deseada. Al hacer clic en ella, aparecerá una alerta para que confirmemos los datos. Pinchamos en «Aceptar»:
+En la siguiente pantalla veremos todos los datos introducidos para que los confirmemos. Es importante marcar las dos casillas de confirmación situadas en la parte inferior izquierda. Tras ello, hacemos clic en «Confirmar»:
+La cita ya está confirmada. Veremos los datos introducidos en pantalla, que también se han enviado al correo electrónico que hemos proporcionado. También existe la opción de imprimir un justificante haciendo clic en «Imprimir». ¡Buen viaje!
+Navegadores probados
+
+Este trámite se ha probado correctamente en Google Chrome 26 sobre el sistema operativo Linux Mint 13. No obstante, dada la simplicidad del trámite y la ausencia de firma electrónica, debería funcionar en cualquier navegador y sistema operativo.
+

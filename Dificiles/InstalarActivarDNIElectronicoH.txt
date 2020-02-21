@@ -1,0 +1,53 @@
+﻿ Que hace falta para utilizarlo
+Para la utilización, del DNI, es necesario contar con determinados elementos hardware y software que nos van a permitir el acceso al chip de la tarjeta y, por tanto, la utilización de los certificados contenidos en él.
+Mientras que el DNIe sólo permite el acceso mediante contacto, el DNI 3.0 dispone de un chip Dual interface, que permite también la conexión inalámbrica a través de la antena NFC.
+
+
+MEDIANTE CONTACTO
+• Elementos hardware
+o Requiere el siguiente equipamiento físico:
+• Un Ordenador personal (Intel -a partir de Pentium III- o tecnología similar).
+• Un lector de tarjetas inteligentes que cumpla el estándar ISO-7816.
+o Para elegir un lector que sean compatible con el DNI 3.0, verifique que, al menos:
+• Cumpla el estándar ISO 7816 (1, 2 y 3).
+• Soporta tarjetas asíncronas basadas en protocolos T=0 (y T=1).
+• Soporta velocidades de comunicación mínimas de 9.600 bps.
+• Soporta los estándares API PC/SC (Personal Computer/Smart Card)
+• Elementos software
+o Sistemas operativos: El DNIe puede operar en diversos entornos (Windows 7 y superiores GNU/Linux, MAC, Unix)
+o Navegadores: El DNI 3.0 es compatible con todos los navegadores, como Microsoft Internet Explorer, Google Chrome, Mozilla Firefox
+o Controlador del Lector:
+• Para operar con un lector de tarjetas inteligentes, será necesario instalar un driver que, normalmente, se distribuye con el propio lector.
+• Controladores / Módulos criptográficos de la tarjeta DNI 3.0
+Para poder interaccionar adecuadamente con las tarjetas criptográficas en general y con el DNI 3.0 en particular, el equipo ha de tener instalados unas "piezas" de software denominadas módulos criptográficos. En un entorno Microsoft Windows, el equipo debe tener instalado driver denominado Minidriver o CardModule y PKCS#11. En los entornos UNIX / Linux o MAC podemos utilizar el DNI 3.0 a través de un módulo criptográfico denominado PKCS#11.
+• Instalación automática CardModule:
+Para aplicativos Microsoft como Internet Explorer o para Google Chrome basta con tener el equipo conectado a Internet e insertar la tarjeta en el lector. El servicio Windows Update buscará automáticamente el driver de la tarjeta y lo instalará al tratarse de un dispositivo Plug & Play. Instalación Automática CardModule Explorer y Chrome; Instalación Automática CardModule Mozilla Firefox
+• Instalación manual CardModule:
+Si por cualquier razón no se puede realizar la instalación automática, hay disponible un instalable para realizar la instalación de modo manual. Instalación Manual CardModule
+• Instalación PCKS11:
+Para instalar el módulo criptográfico PKCS11 se deben seguir las recomendaciones contenidas en Instalación Módulos PKCS#11
+• 
+Inicio /
+• Cómo utilizar el DNIE /
+• Qué hace falta para utilizarlo
+
+MEDIANTE ANTENA SIN CONTACTO (NFC: Near Field Communication):
+La tecnología NFC se basa en la proximidad entre dispositivos. Una antena interna de radiofrecuencia conecta directamente el smartphone o tablet con el DNI 3.0 permitiendo el acceso a los distintos servicios telemáticos. Bastará con situar el DNI 3.0 en la parte posterior de su teléfono o tablet para que la antena NFC del dispositivo energice la antena contenida dentro del chip de la tarjeta y se establezca la comunicación. Por motivos de seguridad y conectividad, la distancia entre ambos ha de ser menor a 1 cm ya que si no, la conexión se interrumpiría impidiendo el acceso a cualquier dato o autenticación.
+• Elementos hardware
+o Un dispositivo con NFC que cumpla el estándar ISO 14443, tipo A o B, ya que el DNI 3.0 es compatible con ambas implementaciones del estándar ISO 14443. Éste puede ser un Smartphone, una tablet o un lector NFC. Para elegir un dispositivo compatible con el DNI 3.0, verifique que cumple "ISO 14443 - Partes 1/2/3/4. Protocolo de transmisión T=CL"
+• Elementos software
+o APP que utilice el DNI 3.0 para identificar al usuario y acceder a un servicio específico o para firmar electrónicamente un documento con igualdad jurídica que la firma manuscrita.
+Para su instalación, proceda a descargar la APP desde un repositorio oficial (Google Play/Apple Store….).
+o Para elegir un lector que sean compatible con el DNI 3.0, verifique que, al menos:
+• Cumpla el estándar ISO 7816 (1, 2 y 3).
+• Soporta tarjetas asíncronas basadas en protocolos T=0 (y T=1).
+• Soporta velocidades de comunicación mínimas de 9.600 bps.
+• Soporta los estándares:
+• API PC/SC (Personal Computer/Smart Card)
+• CSP (Cryptographic Service Provider, Microsoft)
+• API PKCS#11
+
+Tanto el CSP como el PKCS#11 específico para el DNI 3.0 podrán obtenerse en la dirección Área de Descargas
+¡¡RECUERDE!!: Para configurar correctamente el lector de tarjetas con los requisitos exigidos por el DNI 3.0 es recomendable seguir las instrucciones del fabricante del dispositivo. En algunos casos, será necesario instalar un driver específico que varía en función del modelo de lector y del sistema operativo.
+Para aplicativos Microsoft como Internet Explorer o para Google Chrome basta con tener el equipo conectado a Internet e insertar la tarjeta en el lector. El servicio Windows Update buscará automáticamente el driver de la tarjeta y lo instalará al tratarse de un dispositivo Plug & Play.
+

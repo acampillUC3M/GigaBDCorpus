@@ -1,0 +1,24 @@
+﻿El programa de autocálculo de prestaciones. ¿Cuánto cobraré de paro?
+El SEPE (INEM) dispone en su web de un programa online de autocálculo, para conocer qué prestación o subsidio por desempleo corresponde a cada trabajador.
+Con él, se puede realizar una simulación sobre el paro que correspondería en cada caso, en función de las cotizaciones por desempleo y circunstancias personales.
+El programa de autocálculo online de prestaciones por desempleo
+Actualizado: 01/06/2019
+La simulación solo tiene valor informativo, pero en la mayor parte de los casos hemos comprobado que si los datos se introducen correctamente, el resultado del simulador es correcto. Esta herramienta puede ser muy útil en los casos en los que el trabajador tiene que tomar una decisión sobre pedir su prestación o guardarla para más adelante.
+En el siguiente VIDEO explicamos cómo utilizar el simulador y más abajo, la guía escrita paso a paso.
+Cómo acceder al programa de autocálculo del paro
+1) Pulse directamente este enlace oficial:
+https://sede.sepe.gob.es/dgsimulador/introSimulador.do
+Se le abrirá una nueva ventana como la que aparece más abajo, donde tendrá que elegir según si ha terminado un contrato (por n de contrato, despido, etc) o bien si lo que ha agotado es una prestación y quiere conocer a qué subsidio tendría derecho.
+2) Luego se le abrirán una serie de ventanas en las que tiene que ir introduciendo los datos que le pide el sistema y luego pulsar el botón “continuar”. 
+Por ejemplo, esta es la primera:
+3)  En función de los datos que vaya introduciendo, el sistema le pide información a través de distintas pantallas: meses que ha trabajado, si ha cobrado antes el paro o no, su sueldo, si tiene hijos, etc.
+4) Al final de introducir todos los datos, tendrá el resultado de la simulación, por ejemplo, este:
+¿Qué información necesitará tener a mano para hacer su autocálculo?
+Para obtener una simulación del cobro de su paro, debe contar con esta información:
+Saber si ha cobrado alguna prestación por desempleo en los últimos seis años y si la ha cobrado, el número de días que ha cotizado después.  Para esto puede necesitar tener un certificado de vida laboral, que puede obtener como explicamos en cómo pedir un certificado de vida laboral (+info)
+Conocer la base de cotización de contingencias profesionales o base de Accidente de Trabajo y Enfermedad Profesional de los últimos 6 meses.  Este dato lo encontrará en las nóminas que le entrega la empresa.
+Si ha trabajado con contratos a tiempo parcial durante los últimos seis meses, debe saber el porcentaje de parcialidad de esos contratos.
+¿Qué información da el resultado de la simulación?
+El programa le indica, a título informativo y sin que ello comprometa al SEPE, la duración en meses de la prestación, el importe que cobraría cada mes y la retención que llevaría en concepto de cotización a la Seguridad Social.  Se basa en los datos que se introducen en el simulador, no en la información que pueda disponer el SEPE de cada ciudadano y aplica la normativa de los diferentes subsidios y prestaciones por desempleo.
+En cualquier caso, si se va a tomar una decisión que depende de esta información, siempre recomendamos confirmarla con la oficina de empleo, pidiendo cita previa o bien a través del teléfono de información del SEPE.
+

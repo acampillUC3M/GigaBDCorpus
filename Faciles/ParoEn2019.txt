@@ -1,0 +1,44 @@
+﻿Cuánto se cobra de paro en 2019: topes mínimo y máximo de prestaciones y ayudas
+Explicamos las cantidades que se cobran de paro en 2019 y sus topes máximos y mínimos, tanto en prestación contributiva como en subsidios por desempleo y ayudas extraordinarias.
+¿Cuánto se cobra de paro en 2019?
+Actualizado: mayo de 2019
+El importe de lo que se cobra de paro se calcula de forma distinta, según estemos hablando de la prestación contributiva (el paro por haber cotizado un año o más), los subsidios por desempleo (ayuda familiar, mayores de 52, insuficiencia de cotización, etc) o las ayudas extraordinarias (RAI y SED).
+A continuación, explicamos cada uno de ellos, por lo que le recomendamos que directamente pase al apartado que le interese según su situación particular.
+1) Topes mínimo y máximo de la prestación contributiva por desempleo
+El importe que se cobra en la prestación contributiva por desempleo (el paro que se puede cobrar con 360 o más días cotizados) se calcula en función de la llamada “base reguladora”, es decir, la media de la base de cotización que el trabajador tuvo durante los últimos seis meses. Cuanto más altas son las nóminas de un trabajador, mayor es su base de cotización y cuanto más cotizó, más paro podrá cobrar en su prestación contributiva por desempleo.
+La ley establece el siguiente sistema para calcular lo que se cobra:
+Los seis primeros meses de paro el trabajador cobrará el 70% de su base reguladora
+Y a partir del mes séptimo, cobrará el 50 %.
+Así, a cada trabajador se le calcula individualmente lo que cobrará de paro por día y como hemos visto, dependerá de lo que cotizó los últimos seis meses. A más cotizaciones, más se cobra. Hay un programa de autocálculo que facilita hacer estos números, pero podemos poner un ejemplo muy simplificado:
+Ejemplo: supongamos que Juan tiene una nómina de 1.000 euros brutos al mes y que esa es su base de cotización al desempleo (1.000 €). Pues bien, durante los primeros seis meses, Juan cobrará del paro en la prestación contributiva el 70% de la base de cotización, es decir, el 70% de 1.000 €, que son 700 euros al mes de paro. Y a partir del mes séptimo, Juan cobrará el 50% de la que fue su base de cotización, es decir, cobrará 500 euros al mes de paro.
+Ahora bien, hay que tener en cuenta que más allá de los cálculos que hagamos, la prestación contributiva tiene por ley unos topes mínimos y máximos. Estos importes son para situaciones en las que el último contrato es a jornada completa.
+Los importes mínimos y máximos en 2019 (actualizados) son:
+Cantidades mínimas de la prestación contributiva en 2019
+Lo que hemos visto anteriormente es el sistema general de cálculo, pero las cantidades de lo que se puede cobrar de paro, tanto por arriba como por abajo, tienen unos topes legales.
+Prestación mínima contributiva
+Prestación contributiva mínima sin hijos es el 80% del IPREM + 1/6, es decir, 501,98 euros.
+Prestación contributiva mínima con uno o más hijos (107% IPREM + 1/6), es decir, 671,40 euros.
+Estos límites se aplican cuando se ha trabajado a jornada completa. En caso de haber trabado a tiempo parcial, se reduce el límite en proporción de la parcialidad, por ejemplo, si se trabajaba a media jornada, los topes serían 248,50 / 250,99 si no se tienen hijos, y 334,87 / 335,70 si se tienen hijos.
+Cantidades máximas de la prestación contributiva en 2019
+Por mucho que haya cotizado un trabajador, hay un tope máximo que por ley puede cobrar de paro en 2019.
+Prestación contributiva máxima sin hijos (175% IPREM): 1.098,09 euros.
+Prestación contributiva máxima con un hijo (200% IPREM): 1.254,86 euros.
+Prestación contributiva máxima con dos o más hijos: 1.411,83 euros.
+Existe en el SEPE un programa de autocálculo de la prestación contributiva, para conocer online de forma aproximada lo que se cobrará en cada situación.
+2) ¿Cuánto se cobra en 2019 en los subsidios por desempleo?
+En los subsidios por desempleo se cobra por ley una cantidad ja todos los meses, el 80% de un índice llamado IPREM. En 2019, el 80% del IPREM es 430,237 euros, que es la cantidad que se cobra cada mes en los subsidios por desempleo.
+Ahora bien, hay que comentar algo MUY IMPORTANTE: Los 430,27 euros mensuales son siempre para los casos en los que el último contrato del trabajador (el que dio derecho a cobrar el subsidio) fuera a jornada completa. Si el último contrato que tuvo el trabajador fue a tiempo parcial, el subsidio se cobra “parcializado” en la misma proporción.
+Por ejemplo:  Un trabajador tiene acumuladas cotizaciones durante seis meses y su último contrato de 15 días fue de media jornada.
+Cobrará el 50% del subsidio de desempleo, es decir, 215,13 euros mensuales.
+La parcialización de los subsidios a veces da lugar a situaciones injustas, como explicamos en este ejemplo y es uno de los grandes riesgos de los contratos a tiempo parcial. La parcialidad afecta a todos los subsidios (ayuda familiar, cotización insuficiente, etc), salvo el subsidio de mayores de 52 años, que es la excepción, porque siempre se cobra al 100 % (430 euros), aunque el último de los contratos haya sido a tiempo parcial.
+3) Importe de las ayudas extraordinarias en 2019 (SUBSIDIO SED y RAI)
+En las ayudas extraordinarias esto es lo que se cobra en 2019:
+En la Renta Activa de Inserción (RAI), se cobran 430,27 euros mensuales
+En el Subsidio Extraordinario por Desempleo (SED) se cobra lo mismo que en los subsidios ordinarios, 430,27 euros mensuales.
+Estas ayudas, al igual que sucede con los subsidios, no han tenido subida en 2019 respecto al año anterior, ya que no hay modificación del IPREM.
+Otros valores económicos de 2019
+La renta máxima para acceder a los subsidios, la RAI y el SED, es el 75% del SMI, por lo que en 2019 hablamos de un tope de rentas de 675 € euros mensuales (ha aumentado respecto al del año anterior, porque el tope de rentas depende del Salario
+Mínimo Interprofesional, que si ha tenido subida en 2019.
+El interés legal del dinero en 2019 es del 3.00 %.
+El Salario Mínimo Interprofesional 2019 es de 900 euros al mes en 14 pagas (10.800 euros al año).
+El IPREM en 2019: 537,84 euros mensuales, 6.454 euros al año.

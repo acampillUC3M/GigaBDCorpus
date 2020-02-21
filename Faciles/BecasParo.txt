@@ -1,0 +1,46 @@
+﻿Becas y paro
+¿Es posible recibir una beca mientras se cobra el paro?
+Hay que analizar tres casos distintos, según que quien vaya a recibir la beca esté cobrando una prestación o un subsidio por desempleo y según el tipo de beca.
+1. Compatibilidad entre la beca y prestación por desempleo
+Si lo que está cobrando es un subsidio, no una prestación, pase directamente al punto 2º.
+Veamos lo que indica el SEPE sobre esta cuestión:
+“Es compatible cobrar la prestación contributiva por desempleo con “las becas y ayudas que se obtengan por asistencia a acciones de formación ocupacional o para realizar prácticas en entidades públicas o privadas que formen parte del plan de estudios y se produzcan en el marco de colaboración entre dichas entidades y el centro docente de que se trate”.  
+Es decir: se puede cobrar el paro (la prestación contributiva) y recibir al mismo tiempo una beca de tipo formativo.
+El art. 221 LGSS las establece las incompatibilidades de las prestaciones y subsidios por desempleo:
+1. La prestación o el subsidio por desempleo serán incompatibles con el trabajo por cuenta propia, aunque su realización no implique la inclusión obligatoria en alguno de los regímenes de la Seguridad Social, o con el trabajo por cuenta ajena, excepto cuando éste se realice a tiempo parcial, en cuyo caso se deducirá del importe de la prestación o subsidio la parte proporcional al tiempo trabajado.
+2.  (Las prestaciones) serán, asimismo, incompatibles con la obtención de pensiones o prestaciones de carácter económico de la Seguridad Social, salvo que éstas hubieran sido compatibles con el trabajo que originó la prestación por desempleo.
+Visto lo anterior,
+a) Si la beca es de tipo FORMATIVO, sería COMPATIBLE con el cobro de la prestación por desempleo.
+La razón es que no existe relación laboral y no hay alta en la Seguridad Social. Son los casos en los que la beca o ayuda está asociada a un programa de formación ocupacional (formación para desempleados en centros concertados, por ejemplo) o reglada en centros que tengan concertadas las prácticas con entidades públicas o privadas. Hay que asegurarse de que estamos realmente ante una beca y no en un contrato para la formación o  en un contrato en prácticas, porque a veces se confunden las denominaciones.
+b) Si la beca es COLABORATIVA y REMUNERADA, con una prestación de trabajo, entonces sería INCOMPATIBLE con el cobro del paro.
+Hay que tener especial atención al nuevo régimen general de la seguridad social para los becarios, ya que se están dando casos en los que la Tesorería da de alta de ocio al becario y se produce automáticamente la baja en la prestación por desempleo.
+Es de interés la siguiente consulta/respuesta del SEPE INEM sobre las Becas de Investigación que exigen dedicación exclusiva :
+Pregunta:
+¿Es compatible una beca de investigación con mi prestación por desempleo?
+Respuesta:
+La protección por desempleo es incompatible con las becas de investigación, en primer lugar, porque se pactan en régimen de dedicación exclusiva y ello conlleva una falta de disponibilidad de su titular ante la búsqueda activa de empleo y los servicios públicos de empleo, inherente a la condición de beneficiario de prestaciones. En segundo lugar, dichas becas no son compatibles con la prestación o el subsidio por desempleo al no tener la consideración de ayudas que se obtengan por asistencia a acciones de formación ocupacional. Por último y desde que el 04.11.2003 se incluyera a los becarios de investigación en el Régimen General de la Seguridad Social, quedan asimilados a trabajadores por cuenta ajena y, por tanto, no podrá simultanear esta actividad con las prestaciones por desempleo.
+Referencia normativa: Art. 221.1 del Texto Refundido de la Ley General de la Seguridad Social aprobado por R.D. Legislativo 1/1994, de 20 de junio. Art. 15.1 del R.D. 625/1985, de 2 de abril, que desarrolla la Ley de Protección por Desempleo. Art. 6 del R.D. 1326/2003.
+En estos casos, cuando la beca es remuneratoria, es obligatorio informar a la oficina de empleo.
+En función de la duración de la jornada de trabajo, habrá que suspender totalmente el pago de la prestación (si la beca remunerada es jornada completa) o bien, si  el contrato no es a jornada completa, cabría la posibilidad de simultanearlo con la prestación por desempleo.  Si la prestación se ha suspendido, se reanudará cuando termine el contrato, cobrándose el mismo importe y con los mismos días pendientes que quedaban anteriormente.
+2. Las becas y los subsidios por desempleo
+Para recibir los subsidios y las ayudas por desempleo hay unos límites de rentas. Siempre se tiene en cuenta la renta del quien recibe el subsidio, que nunca puede superar los 675 euros mensuales (tope para el año 2019)  y además, para los subsidios que tienen en cuenta la unidad familiar, se analizan también los ingresos de todos los miembros de la familia y se saca la media mensual para cada miembro, que tampoco debe superar el tope de 675 euros mensuales.
+Las becas que se reciben, ¿se consideran como rentas y hay que incluirlas en el conjunto para ver si superamos el límite máximo que admite el subsidio?
+Veamos lo que índice en respuesta a una consulta el SEPE INEM
+“Se consideran rentas las becas o ayudas para cursar estudios, prácticas profesionales o investigación. No se consideran rentas, ni del solicitante o beneficiario del subsidio, ni de los miembros de su unidad familiar, las becas o ayudas públicas para suplir gastos de transporte, alojamiento o manutención, que se obtengan por la asistencia a acciones de formación ocupacional previstas en el Plan Nacional de Formación e Inserción Profesional u otras subvencionadas con fondos del Servicio Público de Empleo Estatal.”
+Por lo tanto hay distintos casos posibles:
+¿Se tiene que considerar como renta de la familia la beca que el Ministerio de Educación concede a un hijo para estudios académicos no profesionales?
+No, las becas escolares no debe formar parte de la renta familiar. Aunque a veces el INEM sostuvo lo contrario, el Tribunal
+Supremo lo dejó claro en STS de 2010 (ver en pdf)
+Y si la beca no es del Ministerio de Educación, sino que es una beca por colaboración en un proyecto de investigación vinculado a una actividad profesional  ¿se tiene que considerar entonces como renta a declarar?
+Si, en ese caso hay que considerar la beca como renta e incluirla en el cálculo.
+Consideramos interesante esta aclaración que publica el SEPE en su página web:
+Pregunta:
+    ¿Se puede compatibilizar el cobro de la prestación con la realización de prácticas formativas remuneradas en una empresa que tiene convenio con mi universidad ? Respuesta:
+    La realización de un contrato de prácticas (Convenio Universidad – Empresa) es compatible con el percibo de prestación o subsidio, pues se entiende que la remuneración se produce por la asistencia a esa acción de formación ocupacional y siempre que no se pacte en régimen de dedicación exclusiva y, por tanto, suponga la falta de disponibilidad de su titular para una búsqueda activa de empleo. En el caso de los perceptores de subsidio por desempleo, la remuneración de las prácticas será computable como renta individual del interesado para el límite del 75% del Salario Mínimo Interprofesional (SMI). No son compatibles con las prestaciones por desempleo los contratos en prácticas que implican el alta en cualquiera de los regímenes de la Seguridad Social, excepto en los casos de contratos a tiempo parcial, que serán compatibles, pero reduciendo la parte proporcional al tiempo trabajado del importe de la prestación.
+Es decir, lo primero que hay que tener en cuenta es que este tipo de contratos  de prácticas los llamamos normalmente “becas”, pero realmente son contratos. 
+– Si la colaboración no implica alta en Seguridad Social ni dedicación exclusiva, la persona que está cobrando el subsidio puede mantener la beca mientras cobra el subsidio, aunque tendrá que tener en cuenta que esos ingresos hay que declararlos como renta, para ver que no se pase del tope.
+– Si la colaboración implica alta en Seguridad Social y dedicación completa, entonces es incompatible con seguir cobrando el paro, porque no existiría disponibilidad para trabajar. Hay que informar a la oficina de empleo para que suspenda el pago del subsidio.
+– Si la colaboración implica alta en Seguridad Social y dedicación a tiempo parcial, se puede hacer compatible con el cobro del subsidio, aunque habrá que reducirlo en la misma proporciona las horas que se trabaje.  A un contrato de media jornada, corresponderá medio subsidio y siempre sin que se sobrepase el tope de 483,98 euros mensuales.
+3. Las becas mientras se reciben ayudas extraordinarias, como la RAI
+Para ayudas concretas que no sean ni prestación ni subsidio por desempleo, hay que tener en cuenta su normativa específica:
+Para la Renta Activa de Inserción por ejemplo, la norma dice que la RAI es compatible con “becas y ayudas, de cualquier naturaleza, que se obtengan por la asistencia a acciones de formación profesional vinculadas al Plan Nacional de Formación e Inserción Profesional”.   

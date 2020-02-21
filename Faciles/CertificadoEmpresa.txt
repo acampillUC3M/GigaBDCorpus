@@ -1,0 +1,34 @@
+﻿El certificado de empresa. Imprescindible para solicitar la prestación
+Uno de los documentos imprescindibles para pedir el paro es el certificado de empresa.
+La oficina de empleo debe tener los correspondientes a las empresas en que se haya trabajado durante los últimos seis meses.
+¿Cómo se obtienen estos certificados?
+¿Qué es el certificado de empresa?
+Actualizado: 30/05/2019
+El certificado de empresa es el documento que emite la empresa con el que se acredita la situación legal de desempleo del trabajador y la causa de la misma, es decir,  en él se indica el motivo por el que ha cesado la relación laboral con su empleado.  El n de la relación laboral se puede deber a un despido, finalización del contrato temporal, cese por no superar el periodo de prueba, ERE, baja voluntaria, etc.
+El SEPE, salvo comprobaciones posteriores, toma en principio como válido el motivo de cese del trabajo que la empresa comunica en el certificado.  Por ejemplo, si en el certificado la empresa comunicase como motivo del cese la >baja por voluntad del trabajador, no se podría solicitar la prestación por desempleo.
+El certificado de empresa también sirve para calcular el importe de la prestación o subsidio por desempleo que cobrará el trabajador, ya que en el certificado se indican cuáles han sido las bases de cotización y con ellas se calcula el paro.
+¿Tiene la empresa obligación de emitir este certificado?
+Si. La empresa está obligada en cualquier caso a emitir el Certificado de Empresa, con toda la información para que el trabajador pueda solicitar la prestación por desempleo o un subsidio o ayuda extraordinaria.
+Normalmente el certificado lo envía directamente la empresa al Servicio Público de Empleo Estatal (SEPE, antiguo INEM) a través de una aplicación informática, Certic@2  que es obligatoria en las empresas con mayor número de empleados. Por ello en la mayor parte de los casos el documento no se le entregará en mano al trabajador, sino que se envía telemáticamente a la oficina de empleo.
+El Certificado se suele entregar en mano en aquellas empresas que por su actividad ja discontinua o temporal tengan diversos periodos de actividad o inactividad o sucesivos contratos temporales dentro del mes.
+Si la empresa ha enviado el Certificado de forma electrónica, ¿puede el trabajador pedir una copia del certificado en la oficina de empleo?
+Si. Según la Orden TIN/790/2010, de 24 de marzo, que regula el envío de los Certificados, el Servicio Público de Empleo entregará una copia del certificado al trabajador si este lo solicita.
+¿Hay algún modo de consultar a través de internet si la empresa ha enviado el certificado de empresa del trabajador?
+Si, a través de la página del SEPE.  Si se tiene DNI electrónico, certificado digital o clave de usuario, se puede consultar desde la propia página web a través de este enlace > Consulta Certificados Empresa Online
+¿Qué hacer si la empresa no entrega el Certificado o ha desaparecido?
+Si la empresa se niega a entregar el documento, el trabajador debe solicitar la prestación de todos modos, para evitar que se le pase el plazo.  Además de la solicitud de la prestación, adjuntará el impreso “Declaración de carencia de documentación en la solicitud de prestaciones”, disponible en la oficina de empleo. El INEM (SEPE) requerirá directamente al empresario la entrega de la documentación.
+Si la empresa ha desaparecido, el trabajador deberá señalarlo en el mismo impreso. El Servicio Público de Empleo Estatal intentará ponerse en contacto con ella, directamente o por medio de la Inspección de Trabajo y Seguridad Social. En casos de fuerza mayor el Certificado de Empresa o los documentos de cotización (TC) pueden sustituirse por otros medios de prueba, según indiquen en la oficina de empleo.
+¿Tiene que tener algún formato especial el Certificado de Empresa?. El modelo oficial
+El documento debe venir firmado y sellado por el representante legal de la empresa, y debe incorporar el contenido que gura en el modelo oficial disponible en las oficinas de empleo de cada Comunidad. Un ejemplo se puede descargar en pdf desde este enlace descargar en pdf Modelo de Certificado de Empresa Información que debe contener el certificado y que es necesaria para solicitar la prestación por desempleo:
+Causa de la extinción de la relación laboral (n de contrato, despido, baja voluntaria, ERE, excedencia, no superación del periodo de prueba, etc).  Es muy importante, pues en función del motivo se podrá tener o no derecho a una prestación.
+Tipo de contrato, jornadas de trabajo,
+Cotizaciones por contingencias comunes y de desempleo
+Vacaciones anuales retribuidas y no disfrutadas, etc
+¿Además del Certificado de Empresa, deben entregarse otros documentos?
+La mayor parte de las empresas, grandes y medianas, están obligatoriamente incluidas en un sistema informático que las conecta con la Tesorería General de la Seguridad Social, el Sistema RED (Remisión electrónica de documentos) . Con este cruce de datos el SEPE conoce las cotizaciones del trabajador.
+Si la empresa no estuviera integrada en el RED, deberá entregar al trabajador los TC2 de los 180 días de trabajo anteriores al cese.
+Si soy un empresario y quiero acogerme al sistema de envío telemático de los Certificados.
+Regulación legal y modelo oficial de certificado de empresa
+BOE Orden TIN 790 2010 sobre presentación del Certificado de Empresa
+Descargar el modelo de Certificado de Empresa
+

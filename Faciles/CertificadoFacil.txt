@@ -1,0 +1,29 @@
+﻿Certific@2
+La aplicación certic@2 permite a las empresas y a sus representantes realizar comunicaciones de datos sobre sus trabajadores al Servicio Público de Empleo, evitando la entrega física de documentación.
+Las gestiones más habituales que se hacen a través de este sistema informático son:
+Transmisión y consulta de certificados de empresa de cese de relación laboral
+Transmisión de altas de trabajadores afectados por ERES
+Transmisión de comunicaciones de períodos de actividad y otras situaciones de los trabajadores fijos discontinuos, o durante los períodos de suspensión laboral o reducción de la jornada en un ERE
+Transmisión previa de datos sobre despidos colectivos, suspensión de la relación laboral y reducción de jornada.
+Acceso web a Certific@2 desde el portal del SEPE:
+Entre en sepe.es>empresas>certic@2 o utilice el acceso directo que hay debajo de la imagen:
+
+¿Cómo funciona Certific@2 ?
+Para poder acceder a esta aplicación, el empresario o su representante (gestor administrativo, asesor laboral o graduado social) necesita disponer de un DNI electrónico (+info), o bien un Certificado digital (+info) o tener la clave de usuario que facilita el
+Servicio Público de Empleo a través del sistema Contrat@.
+Qué se pretende con el programa Certific@2
+Agilizar los trámites ante el SEPE para que el ex trabajador no tenga que esperar colas y que cobre la prestación el día 10 del mes siguiente al que dejó de trabajar.
+Por ejemplo, Raúl acaba su contrato el 20 de agosto y ese mismo día le dicen que envían el certificado de empresa a través de certic@2. En el SEPE no le dan cita hasta el día 1 de septiembre por lo que no cobrará hasta el 10 de octubre, ¡un mes y 20 días después de acabar el contrato! Si al día siguiente del n del contrato RAúl pide la tarjeta del paro –DARDE- y tiene el DNI electrónico podrá tramitar él mismo desde su casa la prestación, ahorrándose un mes sin cobrar nada.
+Evitar extravíos de documentación porque se eliminan intermediarios entre la empresa y el SEPE, ya que el trabajador no tiene que llevar físicamente los documentos a la oficina de empleo.
+Evitar errores en la mecanización de los datos del certificado de empresa. Cuando una persona se presenta en el SEPE con el certificado de empresa, el funcionario tendrá que grabar en su programa datos como por ejemplo, las bases de cotización que
+son fundamentales para determinar la cantidad que le corresponde cobrar a fin de mes.
+
+Facilitar la entrega del certificado: este sistema permite remitir el certificado de empresa las 24 horas del día, los 7 días de la
+semana, ahorrando al trabajador el amargo trago de tener que volver a la empresa únicamente a por el certificado.
+Potenciar la Administración Electrónica: el certificado de empresa emitido a través de certica@2 tiene la misma validez
+jurídica para el SEPE que el emitido en papel.
+¿Quien puede utilizar el sistema certific@2?
+Todas las empresas, independientemente de su tamaño. Hasta marzo de 2013 las empresas de menos de 10 trabajadores
+estaban exentas de tramitar los certificados de empresa de esta manera pero con la entrada en vigor de la Orden ESS/484/2013
+ya solo quedan exceptuados los profesionales taurinos, representantes de comercio, sistema de empleados de hogar, de la
+industria resinera y de los trabajadores del mar

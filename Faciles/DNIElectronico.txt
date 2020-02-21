@@ -1,0 +1,32 @@
+﻿DNI Electrónico
+El DNI electrónico (DNIe) es el documento oficial que acredita la identidad de cada ciudadano de manera virtual, permitiéndole además firmar digitalmente todo tipo de documentos electrónicos, con la misma validez legal que la firma manuscrita.
+El DNIe, emitido en España por la Dirección General de la Policía, incorpora los datos del DNI tradicional y un pequeño chip capaz de almacenar y procesar información de forma segura. Este chip contiene los mismos datos e imágenes identificativas que aparecen en el documento, junto con los certificados digitales para autenticación y de firma electrónica.
+El DNI electrónico lanzado en 2015, conocido como DNI 3.0, multicplica las ventajas existentes:
+• Aumenta la seguridad de los procesos de identificación del usuario y disminuye el riesgo de fraude considerablemente.
+• Ahorra múltiples desplazamientos ya que permite la firma de documentos sin requerimiento presencial del interesado
+• Permite ejercer el voto electrónico a distancia en los países en donde esté implementado este dispositivo electoral.
+• Permite hacer pagos online con la Administración.
+• Poder acceder a servicios, tanto privados como públicos, las 24 horas del día los 7 días de la semana cualquier localización.
+Cómo utilizar el DNI electrónico
+Para obtener el DNI electrónico o DNI 3.0 de forma ágil y evitar esperas debes solicitar cita previa en cualquiera de las oficinas de expedición repartidas por todo el Estado.
+Puedes solicitar cita previa para el DNI por internet o por teléfono. Recuerda que una vez obtengas la cita, debes llevar fotos tamaño carnet y pagar las tasas correspondientes.
+
+El DNI electrónico identifica a la persona y facilita la firma de documentos de forma digital
+Junto con tu DNI electrónico, recibirás un sobre con un código de seguimiento de seguridad o PIN, una clave confidencial, personal e intransferible que te permite identificarte, realizar trámites y firmar documentos con seguridad y confianza.
+Las oficinas de expedición disponen de puntos de actualización donde puedes cambiar el PIN que has recibido por una clave que sea más fácil de recordar.
+El siguiente paso es la instalación del lector y los controladores del DNI electrónico. Una vez que tienes tu DNI electrónico y el PIN necesitas un lector. Recuerda que cuando lo compres, debes asegurarte que está homologado. Y no te preocupes, ya que estos dispositivos vienen con la información necesaria para su correcta instalación. Conéctalo al puerto USB y sigue las instrucciones.
+Cuando introduzcas tu DNI electrónico en el lector aparecerá una ventana que te pedirá el PIN. Ya puedes realizar todas las gestiones que necesites, además el DNI 3.0 no sólo se utiliza en la Administración Pública, sino que puedes utilizarlo también para servicios del sector privado, incluyendo transacciones seguras con entidades bancarias.
+Trámites que se pueden realizar con DNI electrónico
+• Obtener el informe de vida laboral
+• Consultar la referencia catastral de un inmueble
+• Comunicar el cambio de domicilio ante la administración
+• Obtener el certificado de nacimiento
+Artículos relacionados con el DNI electrónico
+• Cómo consultar la cita previa del DNI o Pasaporte
+• Cita previa DNI para niños
+• Cómo instalar el lector de DNI electrónico
+• Cómo funciona el PIN del DNI Electrónico
+• Como instalar y activar el DNI electrónico
+• Cómo renovar el DNI por Internet
+• DNI electrónico VS Certificado digital
+

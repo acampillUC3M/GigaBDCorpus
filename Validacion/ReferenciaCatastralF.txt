@@ -1,0 +1,70 @@
+﻿Cómo consultar la referencia catastral de un inmueble
+Información telefónica
+ 
+La referencia catastral es un código oficial y obligatorio que identifica a los bienes inmuebles y que es asignado por el Catastro. Consta de veinte caracteres (números y letras). Un bien inmueble es, por ejemplo, el piso o casa donde vivimos, también lo es un trastero o un local, entre otros.
+
+Ejemplo de referencia catastral urbana
+Ejemplo de referencia catastral urbana
+
+Tabla de contenidos [ocultar]
+
+1 Para qué sirve la referencia catastral
+2 Cómo conocer la referencia catastral de un inmueble
+3 Consultar la referencia catastral con certificado, DNI o Cl@ve PIN
+4 Consultar la referencia catastral sin certificado, DNI o Cl@ve PIN
+Para qué sirve la referencia catastral
+Gracias a la referencia catastral puedes saber  con exactitud de qué bien inmueble estás hablando en compra-ventas, herencias, donaciones… evitando así confundir unos bienes con otros. Además, se trata de uno de los datos que debes incorporar o revisar en tu declaración de la renta de cada año.
+
+Cómo conocer la referencia catastral de un inmueble
+Tu mismo tienes la opción de consultar o buscar una referencia catastral. Por ejemplo, puedes  consultar la referencia catastral de tu vivienda habitual sin importar si es alquilada, es de tus padres o cualquier otra circunstancia.
+
+
+ 
+Por Internet, puedes conocer la referencia catastral de un inmueble accediendo a la sede electrónica del Catastro. En esta entrada te explicamos cómo realizar este trámite con y sin certificado digital.
+
+Acceso restringido: Con certificado digital, DNI electrónico o Cl@ve PIN puedes acceder por “Mi catastro > Inmuebles».
+Acceso libre: Sin certificado digital o sin DNI electrónico ni Cl@ve PIN, podemos acceder al «Buscador de inmuebles y visor cartográfico«.
+Sede electrónica del catastro
+La sede electrónica del catastro ofrece acceso libre al mismo a través del buscador de inmuebles y visor cartográfico
+
+Para el acceso libre por el buscador, no es necesario ser el titular del bien inmueble, pero ten en cuenta que la información presentada desde el buscador y desde mi catastro no es la misma.
+
+
+ 
+Solo podrás ver los datos protegidos del inmueble (titular y el valor catastral entre otros) si eres el titular o estás autorizado. En ambos casos, obtendrás la referencia catastral del inmueble que es lo que te interesa ahora mismo.
+
+Consultar la referencia catastral con certificado, DNI o Cl@ve PIN
+Este acceso es el indicado para que puedas consultar aquellos inmuebles de los que eres titular, ya sea al 100% o una parte. Solo el titular catastral y las personas o entidades autorizadas pueden acceder a los datos protegidos. Una vez hagas clic en «Mi catastro > Mis inmuebles»  te pedirá el certificado digital o cl@ve PIN que tendrás que usar para identificarte:
+
+Autenticación en la sede electrónica del catastro
+Autenticación en la sede electrónica del catastro
+
+Si haces clic en “Aceptar” verás la siguiente pantalla. En ella tienes que escribir la “Finalidad” de tu consulta (interés particular, personal o lo que sea) para seguir. Este campo es obligatorio. La “CCAA”, “Provincia”, “Municipio” y “Tipo Bien” son opcionales. No necesitas poner nada.
+
+Consulta de mis inmuebles
+
+Haz clic en “Aceptar” y verás el resultado de la consulta:Datos de mis inmuebles
+
+Como resultado, tendrás a tu disposición los datos de tus inmuebles que cumplen las condiciones de búsqueda indicadas en el paso anterior. Entre estos datos, puedes ver la “Referencia Catastral”, justo debajo de “Apellidos y Nombre”.
+
+Consultar la referencia catastral sin certificado, DNI o Cl@ve PIN
+
+Recuerda que puedes acceder a la información catastral que no contenga datos protegidos. La localización del inmueble, su referencia catastral, superficie, uso o destino, son algunos de los datos que se pueden conocer de cualquier inmueble.
+
+Desde Acceso libre, pinchamos en  Consulta de cartografía, datos catastrales y búsqueda de referencia catastral y veremos la siguiente pantalla donde indicaremos cómo buscar un inmueble. En este caso, vamos por la opción Localización, la seleccionamos:
+
+Acceso por Localización
+
+Tienes que rellenar la provincia y el municipio. Primero elige la provincia y luego el municipio. También puedes usar la “Búsqueda de municipios”. En la siguiente imagen tienes el ejemplo con la provincia Sevilla y municipio que contenga “SAN”, al pinchar en Búsqueda de municipios te enseñará los que llevan “SAN”. De la lista de municipios elige, por ejemplo, “Santiponce” y pincha sobre él.
+
+Elección de municipio
+
+Nos falta indicar el tipo de vía y su nombre. Como sucede con el municipio, también se dispone de ayuda para buscar vía, número y kilómetro.
+
+Acceso a datos no protegidos del bien inmueble
+
+Una vez que tienes la vía, su nombre y su número, pincha en “Datos y Consulta Descriptiva y Gráfica” y verás esta pantalla con la Referencia Catastral del inmueble.
+
+Vista de la Referencia Catastral
+
+Nota: a veces la ubicación de un inmueble no coincide con el número actual de su entrada, escalera, portal, piso, etc. Puede ocurrir que la numeración sobre plano de una vivienda o finca no se corresponda con la que espás como suya. Es útil visualizar el mapa gratuito para conocer exactamente la ubicación del inmueble y coger su referencia catastral correcta.

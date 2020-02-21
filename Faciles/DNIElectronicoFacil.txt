@@ -1,0 +1,30 @@
+﻿El DNI electrónico
+Más del 82% de la población española dispone del DNI electrónico, del que se han expedido 38.000.000, pero muy pocos lo utilizamos. ¿Pero exactamente qué es?¿Para qué sirve?¿Es seguro?¿cuáles son sus ventajas?¿cómo puedo obtenerlo?
+¿Qué es el DNI electrónico (DNIe)?
+El Documento Nacional de Identidad de toda la vida lleva incorporado un chip electrónico de color dorado desde el año 2006.
+Este chip está colocado en la cara delantera a la izquierda debajo de las letras “España“. Además de identificar a su titular, como ya hacía antes el DNI, con el chip se le podrá identificar en Internet y será capaz de realizar gestiones con las
+Administraciones Públicas y con las empresas privadas a través del  propio ordenador y sin moverse de casa.
+
+¿Cómo puedo obtenerlo?
+Para poder renovar el DNI o hacerse uno nuevo en la Policía Nacional, tendrá que pedir cita previa en www.citapreviadnie.es o en el 902 247 364. En la oficina del DNI, le entregarán el nuevo DNIe con un folleto informativo del DNIe y un folio donde figurará un PIN o contraseña y que la podrá cambiar por una que se acuerde mejor.
+¿Es seguro? ¿Cómo se utiliza?
+Es más seguro que el antiguo DNI ya que es más difícil de falsificar y en caso de robo o extravío solo podrán utilizarlo por Internet con las claves que Vd. solo conoce.
+Para empezar a utilizarlo tendrá que activar el DNIe en la máquina del PAD (Punto de Actualización del DNIe) que está donde le entregaron el DNIe.
+Ya en casa deberá disponer de un ordenador con conexión a Internet y lector de DNIe. Si no tuviera el lector (por ejemplo, si es una tablet o un portátil) cuestan en torno a los 15 euros en tiendas de informática y se conectan  mediante el puerto USB.
+¿No es lo mismo el DNI electrónico que un certificado digital?
+No son lo mismo, pero tienen mucho en común. Los dos son emitidos por la Fábrica Nacional de Moneda y timbre (FNMT) y los trámites que se pueden hacer con el DNIe y el certificado electrónico son prácticamente los mismos. La validez de los documentos emitidos es la misma.
+Sobre la obtención del certificado digital tiene un artículo y un vídeo publicados en esta sección:  cómo obtener su certificado digital (+info).
+
+Los documentos que presente con el DNIe tienen exactamente la misma validez que si Vd. lo hubiera presentado en persona y se hubiera identificado ante el funcionario de turno.
+Estos son solo unos ejemplos de lo que puede hacer con el DNIe: puede presentar escritos (solicitudes, recursos, alegaciones…) ante muchas Administraciones a través de su sede electrónica. En sus páginas en Internet hay un apartado denominado “Sede electrónica” donde podrá presentar virtualmente los escritos que elija de su ordenador. A la finalización del proceso el sistema le expedirá un recibo de que ha entregado el documento.
+También hay algunas Administraciones que utilizan la sede electrónica como su propio Tablón Edictal para publicar las notificaciones que no han podido entregar en mano a los interesados (por ejemplo, la Agencia Tributaria).
+En la Seguridad Social podrá pedir la vida laboral, la pensión de jubilación, darse de alta y baja en el Régimen de Trabajadores de Autónomos (RETA); en Justicia podrá pedir certificados de nacimiento, matrimonio, defunción, últimas voluntades, antecedentes penales; en Hacienda, podrá comunicar el cambio de residencia, presentar la declaración de la renta, IVA,
+Impuesto de Sociedades, solicitar certificados tributarios, participar en subastas o consultar el estado en que se encuentra su solicitud. La Dirección General de Tráfico también permite con el DNIe conocer el saldo de puntos del carnet de conducir, pagar las tasas y presentar escritos
+Varias Comunidades Autónomas y Ayuntamientos permiten el pago de las tasas y precios públicos, así como la obtención de certificados de empadronamiento, la inscripción en oposiciones, la renovación de licencias de caza y pesca, utilizando el DNIe.
+Naturalmente, también podrá hacer muchos trámites en la web del Servicio Público de Empleo Estatal (SEPE INEM), a través de la sede electrónica (acceder).
+En la web del sepe.es podrá tramitar directamente su prestación y su subsidio, podrá solicitar su prestación, pedir certificados de prestaciones, buscar empleo, consultar el estado en que se encuentra su solicitud, lo que va a cobrar o sus datos personales, cambiar la cuenta bancaria o comunicar la baja porque empieza a trabajar.
+Todos estos trámites se pueden hacer online durante las 24 horas del día, tanto con el DNI electrónico, como con el certificado digital.
+Cada Servicio Autonómico de Empleo pone a disposición de sus usuarios un catálogo de servicios que pueden utilizar con el DNIe. Por ejemplo, muchos de ellos permiten renovar la tarjeta del paro con el DNIe, otros permiten obtener certificados de los periodos que gura inscrito, cambiar los datos personales, inscribirse en ofertas de empleo, etc. En definitiva, todo depende de cada Comunidad Autónoma.
+¿Hacia dónde vamos?
+Las Administraciones Públicas están potenciando cada vez más la utilización de las nuevas tecnologías para agilizar las tareas burocráticas, evitar colas y ahorrar papel. Se están aumentando los servicios que se facilitan utilizando el DNIe. Por ejemplo, diversas jefaturas provinciales de tráfico están suprimiendo el pago de las tasas en metálico y su abono se realizará utilizando el DNIe en la sede electrónica del organismo; y en el SEPE se están incrementando los subsidios que se pueden hacer on line.
+

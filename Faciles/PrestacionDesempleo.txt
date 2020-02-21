@@ -1,0 +1,65 @@
+﻿La prestación por desempleo
+La prestación contributiva facilita una ayuda económica para aquellos trabajadores que han perdido involuntariamente su trabajo y tienen 360 o más días de cotizaciones por desempleo sin consumir.
+¿Qué es la prestación contributiva?
+Actualizado: 02/06/2019
+Es una prestación por desempleo que se denomina “contributiva” porque la cantidad que se va a cobrar y el tiempo durante el que se cobrará dependen de las cotizaciones por desempleo que tenga acumuladas el trabajador. A más contribución, más prestación se recibe.
+La prestación por desempleo no debe confundirse con los subsidios por desempleo, que son prestaciones no contributivas, es decir, asistenciales, ya que están destinadas a quienes carecen de rentas. El Servicio Público de Empleo Estatal (SEPE, antes INEM) es quien paga tanto la prestación contributiva como los subsidios por desempleo.
+Requisitos para solicitar la prestación contributiva por desempleo
+1. Haber cotizado por desempleo como mínimo durante 360 días en los 6 años anteriores a quedarse en paro y que estas cotizaciones no se hayan utilizado para solicitar anteriormente otra prestación o subsidio. Si el trabajador queda en paro y no llega a tener estas cotizaciones, tendría que solicitar un subsidio o una ayuda extraordinaria.
+2. Encontrarse en situación legal de desempleo. Significa “estar en paro”. La ley solo permite pedir el paro en situaciones muy concretas. Hay que haber perdido un trabajo por razones ajenas al trabajador, como un despido (individual o colectivo, procedente o improcedente), el n de un contrato temporal o en periodo de pruebas, la suspensión, reducción o extinción de un ERE, n del contrato por la muerte, jubilación o incapacidad del empresario, por la incapacidad permanente total del trabajador para la profesión habitual, etc. Una baja voluntaria, por ejemplo, no permite solicitar a continuación la prestación por desempleo.
+3. Estar dado de alta (o en alta asimilada) en un régimen que contemple la prestación por desempleo, normalmente el régimen general de la Seguridad Soficial.  Hay casos especiales en los que no hay derecho a prestación por desempleo, como, por ejemplo, los empleados del hogar, o los trabajadores autónomos que no se hayan acogido voluntariamente a la cotización por cese de actividad.
+4. Estar inscrito como demandante de empleo (apuntado al paro)  y suscribir el compromiso de actividad
+5. No estar en edad de jubilación ni realizar trabajo por cuenta propia, salvo en las excepciones previstas en la ley.
+¿Cuánto se cobra con la prestación contributiva?
+Lo que se cobra es un porcentaje de la base reguladora del trabajador, que es el primer concepto que hay que calcular.
+I) Cálculo de la base reguladora
+La base reguladora es el promedio de las bases de accidentes de trabajo y enfermedades profesionales (excluida la retribución por horas extraordinarias) correspondientes a los últimos 180 días cotizados anteriores a la situación legal de desempleo o al momento en que cesó la obligación de cotizar.  Dicho de un modo más sencillo: se calcula la media diaria de las bases de cotización que ha tenido el trabajador durante los últimos seis meses cotizados.
+II) Cálculo del porcentaje
+Una vez que se conoce la base reguladora del trabajador, por ejemplo, 30 €/día, la prestación por desempleo paga un porcentaje de esa base reguladora.
+Durante los primeros seis meses el importe diario que se cobrará será el 70% de la base reguladora del trabajador.
+A partir del séptimo mes (día 181), el paro se reduce y solo se recibe el 50% de la base.
+Por ley se establecen cada año los importes máximos y mínimos que se pueden cobrar por la prestación contributiva.
+Para el 2019 la cuantía mínima de la prestación contributiva sin hijos es de 501,98 € y con uno o más hijos, 671,40 €. La cuantía máxima sin hijos es de 1.098,09 €, con un hijo 1.254,96 € y con dos o más 1.411,83 €. Estos importes máximo y mínimo se reducen proporcionalmente cuando hay contratos a tiempo parcial.
+En el caso de desempleo por la pérdida de un trabajo con contrato a tiempo parcial, el importe mínimo o máximo se calcula en función del número de horas trabajadas durante el periodo de los 180 últimos días cotizados.
+El Servicio Público de Empleo tiene un programa de autocálculo online de la prestación, de modo que introduciendo unos datos se puede hacer una simulación de lo que se cobrará de paro. Está disponible en este enlace > programa de autocálculo de prestaciones. 
+Se cobra como mínimo cuatro meses y como máximo dos años. Todo depende de las cotizaciones que el trabajador tenga acumuladas durante los últimos 6 años. A más días de cotización acumulada, más tiempo cobrará el paro.
+Días cotizados Días que se reciben de prestación
+Desde 360 hasta 539 días cotizados 120 días de prestación
+Desde 540 hasta 719 días cotizados 180 días de prestación
+Desde 720 hasta 899 días cotizados 240 días de prestación
+Desde 900 hasta 1.079 días cotizados 300 días de prestación
+Desde 1.080 hasta 1.259 días cotizados 360 días de prestación
+Desde 1.260 hasta 1.619 días cotizados 420 días de prestación
+Desde 1.440 hasta 1.619 días cotizados 480 días de prestación
+Desde 1.620 hasta 1.799 días cotizados 540 días de prestación
+Desde 1.800 hasta 1.979 días cotizados 600 días de prestación
+Desde 1.980 hasta 2.159 días cotizados 660 días de prestación 2.159
+Desde 2.160 días cotizados 720 días de prestación
+No se tienen en cuenta las cotizaciones que hubieran servido para una prestación o subsidio anterior, es decir, no se puede utilizar una misma cotización para recibir dos ayudas.
+En caso de haber trabajado a tiempo parcial, cada día trabajado se considera como un día cotizado, con independencia de la jornada. Si con el contrato a tiempo parcial se trabajaba 5 o más días a la semana, el periodo de cotización será igual al periodo de duración del contrato. Si la jornada se distribuye en menos de 5 días de trabajo a la semana, se multiplicará el total de días por el coeficiente 1,4.
+Mientras se cobra esta prestación, ¿se cotiza a la Seguridad Soficial?
+Si. En la prestación contributiva se cotiza. El SEPE (INEM) paga el 100% de la cotización empresarial a la Seguridad Soficial y por otro lado, el trabajador paga su cuota también, que es el 4.7 % de la base reguladora.  El SEPE lo abona todo a la Seguridad Soficial y la parte del trabajador se la descuenta de la nómina de la prestación, además del IRPF correspondiente.
+Plazos y procedimiento para pedir la prestación contributiva
+Necesariamente hay que hacer dos trámites:
+Primero: Inscribirse como demandante de empleo, es decir, obtener la tarjeta del paro.  
+Segundo: Solicitar la prestación en el plazo de los 15 días hábiles siguientes al último día trabajado.  No se cuentan los sábados, domingos ni festivos. Si la empresa le ha pagado las vacaciones por no haberlas disfrutado, se cuentan como días en activo y para pedir el paro habrá que esperar a que pasen esos días. Sobre los plazos, tiene información adicional aquí > plazos para pedir el paro
+¿Dónde se solicita esta prestación?
+Hay dos formas de pedir la prestación:
+A) En las oficinas del Servicio Público de Empleo Estatal (SEPE, antiguo INEM).  En todas las oficinas de España es obligatorio solicitar cita previa por teléfono o por Internet.
+B) O pedir la prestación a través de internet, en el portal del SEPE (INEM).  Este es el enlace vigente > solicitar prestación por internet
+Documentación necesaria
+1) Para pedir la prestación económica es obligatorio tener la tarjeta del paro, es decir, haberse inscrito previamente como demandante de empleo ( ¿cómo inscribirse?). Sin esta tarjeta el SEPE no puede tramitar ninguna solicitud.
+2) Cumplimentar el impreso oficial de solicitud de la prestación contributiva-. El impreso se entrega en las oficinas de empleo o bien se puede descargar desde este enlace: Impreso para solicitud de la prestación contributiva (pdf).
+El impreso lleva incorporada la declaración de los hijos a cargo y sus rentas, los datos de domiciliación bancaria, el compromiso de actividad y la autorización de petición de información a la AEAT (Agencia Tributaria).
+3) Documentos de identificación vigentes (DNI, NIE o pasaporte) del solicitante y de los hijos o hijas que conviven o están a su cargo y que figuren en la solicitud (bastará con la exhibición de los documentos) y Libro de Familia, o documento equivalente en el caso de extranjeros, legalizado y traducido.
+4) El certificado de empresa, de todas aquellas en las que se haya trabajado durante los últimos seis meses. Lo cierto es que la mayor parte de las empresas lo envían por vía telemática al SEPE y no se lo entregan en mano al trabajador (+información) Solo en el caso de que la empresa no lo envíe al SEPE, el trabajador lo tendría que llevar en mano, firmado y sellado, en el momento de hacer la solicitud de la prestación.
+5) Contratos de trabajos a tiempo parcial que haya tenido en los últimos 6 años anteriores al cese. Esto suele ser necesario para calcular los días cotizados por el hecho de haber trabajado con parcialidad..
+Otra información complementaria sobre la prestación contributiva
+También te pueden interesar estos artículos relacionados:
+El programa de autocálculo de la prestación: cómo saber fácilmente lo que vas a cobrar de paro.
+Ayudas cuando se tienen cotizaciones, pero no se llega a los 360 días: el minisubsidio
+Guía rápida para pedir el paro en 5 pasos.
+Impresos. Documentación oficial y referencias legales
+Impreso de solicitud, hoja informativa y guía explicativa (pdf) para solicitar la prestación contributiva.
+Ley General de la Seguridad Social (art. 266 y siguientes)
+

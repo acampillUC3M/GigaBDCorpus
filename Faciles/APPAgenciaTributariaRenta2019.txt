@@ -1,0 +1,55 @@
+﻿Cómo funciona la APP Agencia Tributaria para la Renta 2019
+
+La Agencia Tributaria pone a disposición pública una nueva aplicación móvil gratuita que facilitará el presentar la declaración de la Renta 2019 (IRPF 2018) desde nuestro propio teléfono, de forma más sencilla.
+Hacienda ha calculado que unos 4,8 millones de contribuyentes podrán confirmar su declaración mediante este sistema, de forma paralela al sistema Renta Web para ordenadores de escritorio.
+Aunque la campaña no arrancará hasta el 4 de abril, todos los que no necesiten aportar información adicional al borrador de la Rentapodrán confirmarlo desde el móvil. Por contra, mientras que los contribuyentes que deban modificar o añadir datos al borrador serán redirigidos al programa Renta Web para que la incluyan. También podremos acceder a la web oficial de la Agencia Tributaria en su versión móvil para consultar cualquier otro dato o trámite relacionado.
+Tabla de contenidos [ocultar]
+• 1 Novedades de la app de la Agencia Tributaria
+• 2 Cómo usar la app
+o 2.1 Inicio e identificación
+o 2.2 Menú principal
+o 2.3 Renta 2018
+o 2.4 Consulta de declaraciones anteriores
+• 3 Cuándo se puede usar la app
+Novedades de la app de la Agencia Tributaria
+Según el propio organismo de Hacienda, la nueva aplicación «ofrece una gestión de identidad digital basada en el sistema de referencias» gracias a la cual podemos:
+• Identificarnos en nuevos servicios
+• Consultar nuestros datos fiscales
+• Consultar declaraciones del IRPF de ejercicios anteriores.
+• Además, se ha incorporado la suscripción en el sistema de avisos personalizados que permite recibir en nuestro móvil notificaciones con nuestras declaraciones de IRPF u otros impuestos.
+Cómo usar la app
+Podremos descargar la aplicación desde la APP Store de iOS o Google Play para dispositivos Android. Acto seguido, para usarla tendremos que concederle los siguientes permisos:
+• Permiso de cámara, para el lector de QR del código CSV que envía la Agencia Tributaria
+• Permiso de acceso a archivos multimedia
+• Permiso de localización
+Inicio e identificación
+Con la nueva app, podemos acceder de dos maneras
+1. De forma anónima por servicios generales, no personalizados.
+2. Identificándonos con número de referencia, Cl@ve PIN o certificado digital
+
+
+Además, podremos guardar nuestro perfil de usuario y el de nuestro cónyuge u otros contribuyentes.
+
+Menú principal
+Una vez hayamos accedido a la app, bien con identificación o de forma anónima, tendremos acceso a 5 pantallas principales:
+1. Renta 2018: Para presentar el borrador de la Renta
+2. Ren0: Gestión de numero de referencia. Este número puede conseguirse a través de la casilla 450 de la declaración del año anterior, de nuestro NIF y su fecha de validez, de la Cl@ve PIN o de nuestro certificado electrónico.
+3. Avisos: Novedades y otras notificaciones personalizadas
+4. Otros servicios: Más servicios de la Agencia Tributaria
+
+Renta 2018
+En el menú de la Renta tendremos 5 apartados principales:
+1. Presentación de la declaración
+2. Visualización de datos fiscales
+3. Solicitud de cita previa con la Agencia Tributaria
+4. Consultar el estado de tramitación de nuestra devolución
+5. Consultar nuestras declaraciones anteriores
+
+Consulta de declaraciones anteriores
+En esta pantalla podremos elegir las declaraciones de la renta de ejercicios anteriores que tenga registradas la Agencia Tributaria.
+
+Cuándo se puede usar la app
+Esta iniciativa pública es una de las principales las novedades de la campaña de la renta de 2019 (IRPF de 2018), que según el calendario del contribuyente se desarrollará entre el 2 de abril y el 1 de julio, en cuanto a servicios previos a presentar la declaración.
+De esta forma, desde el 14 de marzo podremos descargar la nueva aplicación y los datos fiscales y solicitar el número de referencia para acceder a los servicios asociados a la renta. Además, ya ha comenzado el envío de notificaciones postales y se prevé ampliar el servicio de asistencia telefónica gracias al programa «le llamamos».
+A través de este programa, el contribuyente podrá solicitar una cita a través de Agenciatributaria.es o por teléfono (901 22 33 44, 901 12 12 24) para que un funcionario de la Agencia Tributaria le llame a partir del 3 de abril, en el horario que prefiera, entre las 9:00 y las 20:30.
+

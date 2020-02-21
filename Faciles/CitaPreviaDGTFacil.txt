@@ -1,0 +1,46 @@
+﻿Cita Previa en Tráfico (DGT) por Internet y Teléfono
+La Dirección General de Tráfico (DGT) es un organismo dependiente del Ministerio del Interior de España, responsable de ejecutar la política de vías y carreteras, incluyendo la prestación al ciudadano de los servicios administrativos relacionados.
+Si necesitas realizar cualquier tipo de trámite de tráfico o relacionado con tu vehículo o carnet de conducir, es probable que debas acudir a alguna de las jefaturas provinciales de tráfico. Para ello, actualmente es necesario solicitar cita previa con la DGT. 
+El servicio de cita previa se implantó inicialmente en las Jefaturas de Tráfico de Madrid, Alcorcón, Barcelona y Sabadell y se extendió progresivamente al resto de España.
+Trámites que se pueden realizar con cita previa
+• Gestión y pago de multas y sanciones.
+• Información sobre el carnet de conducir, incluyendo cómo recuperar los puntos en caso de pérdida.
+• Matriculación o cambio de titularidad de un vehículo (altas y bajas).
+• Notificaciones de cambio de domicilio.
+• Presentación de alegaciones en caso de conflicto.
+• Renovación del permiso de conducir o para solicitud por primera vez.
+• Renovación y canje de permisos de tráfico comunitarios.
+Cómo pedir cita previa con la DGT por Internet
+La forma más sencilla de solicitar cita previa por Internet es a través la web de la DGT, donde podrás ampliar información y conocer los días y horas disponibles para la cita. Tan sólo debemos seleccionar la que más le convenga y dejar nuestros datos (nombre, apellidos y NIF) en el formulario correspondiente. La cita siempre se concederá dentro de los 15 días siguientes a nuestra petición.
+Una vez en la web de la DGT (www.dgt.es), te explicamos cómo pedir tu cita previa paso a paso..
+1. Accedemos al servicio de cita previa desde el botón «Trámites y multas«.
+2. Una vez en la pantalla «Cita previa en Jefaturas», se nos recordarán los requisitos y documentación necesaria para la cita. Aquí podremos solicitar una cita nueva, o consultar o anular cita para las jefaturas o para el canje de nuestros permisos de conducción (carnet de conducir).
+
+ 
+3. Elegimos la Oficina donde deseamos solicitar la cita y el tipo de trámite.
+4. En la siguiente pantalla, elegimos el área que nos interesa. Cada área cubre distintos tipos de trámites. Para cada oficina las áreas pueden ser distintas. Por eso, es aconsejable leer detenidamente la descripción de cada área y seleccionar la que más se ajuste a nuestro trámite. Los datos obligatorios necesarios para reservar la cita y los horarios de atención pueden ser diferentes en cada área. Por ejemplo, en el caso de la oficina de Madrid, presenta dos áreas:
+• Sanciones: Consulta de sanciones y consultas relativas al permiso por puntos.
+• Otros: Conductores, vehículos, algunos canjes.
+
+En este ejemplo hemos elegido el área «Otros» de la oficina de Madrid. Pulsamos «Continuar» para seguir rellenando los datos específicos de la cita.
+En este caso, los datos obligatorios para concertar la cita son el NIF del interesado, el NIF del representante y los caracteres de la imagen situada al final del formulario. Rellenamos el NIF del interesado. Si el representante, la persona que acudirá a la oficina, coincide con el interesado en el trámite, entonces rellenamos ambos campos con el NIF del interesado. Podemos utilizar el botón «Copiar interesado».
+
+Una vez rellenos como mínimo los datos obligatorios, pulsamos «Solicitar» para continuar con la selección del día y la hora de la cita previa:
+
+Decidimos el día que queremos la cita y desplegamos la lista de los horarios disponibles para ese día. En este ejemplo, elegimos como día el jueves 19/09/2013.  Seleccionamos la hora que nos interesa y pulsamos el botón «Continuar» situado justo debajo del día elegido. A continuación, nos presenta la pantalla de confirmación de la cita acordada:
+
+Si estamos de acuerdo con todo, pulsamos «Confirmar». En la siguiente pantalla vemos la cita confirmada. Ya tenemos fecha y hora para acudir a la Oficina de Tráfico! Ahorraremos tiempo y esperas.
+
+Podemos obtener un recordatorio de la cita pulsando en «Obtener recordatorio». Esto descargará un documento pdf llamado «recordatorioCita.pdf» donde se recogen los datos de la cita previa que hemos concertado:
+
+Ejemplo de recordatorio de cita obtenido:
+
+Cita previa DGT por teléfono
+Para solicitar una cita por teléfono o para modificar o anular una cita ya realizada hay que llamar al teléfono 060. El contestador automático nos irá indicando los pasos a seguir y qué datos necesitan. Ten en cuenta que el teléfono no es gratuito y que aunque no es de tarificación adicional, el precio por minuto y el establecimiento de llamada dependerán de tu operador telefónico.
+Además, tanto para la cita por teléfono como por Internet tenemos que tener en cuenta los siguientes requisitos y situaciones.
+1. El sistema solo te permite reservar dos citas distintas en un mismo día.
+2. Podemos reservar cita previa dentro de los diez días siguientes.
+3. Podría ocurrir que en algún momento este servicio nos presente el siguiente mensaje: «Se ha producido un error en la aplicación, inténtelo de nuevo más tarde». En este caso tendremos que volver a intentarlo en otro momento.
+
+Además, el sistema de Captcha («Introduce los caracteres de la imagen») del formulario de datos a veces se resiste y cuesta un poco distinguir entre mayúsculas y minúsculas en algunas letras y otras que se confunden. Con el botón «Limpiar» conseguimos una serie de caracteres nueva pero se limpian también todos los datos introducidos.
+

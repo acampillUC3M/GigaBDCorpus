@@ -1,0 +1,173 @@
+﻿Calendario contribuyente 2019 HTML
+
+• La obligatoriedad de presentar autoliquidaciones periódicas según el impuesto y el obligado tributario, puede ser:
+o Trimestral, para empresarios individuales en estimación objetiva o directa, profesionales, sociedades y entes sin personalidad jurídica.
+o Mensual, para empresarios individuales, profesionales, sociedades y entes sin personalidad jurídica con volumen de operaciones superior a 6.010.121,04 € en 2018 (grandes empresas) y para sujetos pasivos del IVA, que lleven de forma obligatoria los libros registro a través de la Sede electrónica de la AEAT y las Administraciones públicas, incluida la Seguridad Social.
+Las formas de presentación de los modelos pueden ser las que a continuación se indican, salvo que se establezca la obligatoriedad de utilizar alguna en particular y teniendo en cuenta que con carácter general la presentación de los modelos de declaración se efectuará por Internet.
+o PAPEL
+Los modelos 01, 04, 05, 06 (sólo gestores administrativos e ITV electrónica), 030, 036, 037, 043, 044, 045, 102, 140, 145, 146, 147, 150, 247, 362, 363, 503, 600, 610, 615, 620, 630, 650, 651, 655, 777, 840 y 848 se pueden cumplimentar en la página web de la AEAT, en el apartado “Modelos y formularios”, imprimir en papel y presentar en las oficinas de la AEAT, y siempre que no se refieran a obligados a presentar por Internet con certificado electrónico.
+o ELECTRÓNICAMENTE
+• Pre-declaración (autoliquidaciones obtenidas en papel impreso del servicio de impresión de la AEAT). Se obtiene cumplimentando los formularios disponibles en la Sede electrónica de la AEAT, o bien utilizando los modelos de declaración obtenidos al utilizar los programas de ayuda desarrollados por la Agencia Tributaria, u otros que obtengan un fichero con el mismo formato e iguales características y especificaciones que aquél. Será necesaria la conexión a Internet para que los datos queden grabados a la espera de su confirmación mediante la presentación de la declaración.
+Cumplimentado el formulario on line se debe validar y generar un documento PDF que se imprimirá para su presentación en las oficinas de la AEAT si el resultado de la declaración es “a devolver”, negativa o “a compensar”, o en entidades colaboradoras si el resultado es “a ingresar” o "a devolver".
+Los modelos 036, 037, 102, 111, 115, 121, 122, 130, 131, 210, 211, 303, 309, 650, 651, 655, 695 y 696 podrán presentarse por Internet mediante pre-declaración impresa.
+• Electrónica por Internet. La declaración se confeccionará y presentará on line. Con carácter general utilizando los programas o formularios de ayuda se podrá obtener un fichero con la declaración que se presentará a través de Internet con la debida autentificación.
+Disponen de formulario de ayuda o modelo de declaración a cumplimentar (también por Internet) los modelos: 06, 030, 034, 036, 037, 039, 100, 102, 111, 113, 115, 117, 121, 122, 123, 124, 126, 128, 130, 131, 136, 140, 143, 149, 151, 165, 179, 180, 182, 184, 187, 188, 190, 193, 198, 200, 202, 206, 210, 211, 213, 216, 217, 220, 221, 222, 230, 231, 232, 233, 250, 280, 282, 296, 303, 308, 309, 322, 341, 345, 347, 349, 353, 360, 361, 364, 365, 368, 390, 410, 411, 430, 480, 510, 548, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 566, 568, 570, 572, 576, 580, 581, 582, 583, 586, 587, 588, 589, 591, 595, 596, 650, 651, 655, 681, 682, 683, 684, 685, 695, 696, 714, 720, 763, 840 y 848.
+• SMS para el modelo 390 y también para los modelos 190 y 347 pero exclusivamente para las comunidades de propietarios y hasta 15 registros declarados.
+• Telefónicamente para los modelos: 030, 100, 140 y 143.
+Los principales modelos y plazos generales de presentación de autoliquidaciones con domiciliación bancaria de pago son:
+o Modelos 100, 151 y 714: hasta 26 de junio.
+o Modelo 102: hasta 22 de septiembre (para contribuyentes que hayan domiciliado el primer plazo).
+o Modelos 111, 115, 117, 123, 124, 126, 128 y 216 (obligación trimestral): 1 al 16 de abril, 1 al 17 de julio, 1 al 16 de octubre y 1 al 15 de enero.
+o Modelos 111, 115, 117, 123, 124, 126, 128, 216, 230 y 430 (obligación mensual): 1 al 15 de cada mes, excepto: marzo del 1 al 16 de abril, junio del 1 al 17 de julio y septiembre del 1 al 16 de octubre.
+El mes de julio del modelo 430, hasta el 15 de septiembre.
+o Modelos 130 y 131 (obligación trimestral): 1 al 16 de abril, 1 al 17 de julio, 1 al 16 de octubre y 1 a 25 de enero.
+o Modelo 136 (obligación trimestral): 1 al 16 de abril, 1 al 17 de julio, 1 al 16 de octubre y 1 al 15 de enero.
+o Modelos 200, 206, 220 y 221: 1 al 20 de julio (períodos impositivos que coincidan con el año natural).
+o Modelos 202-0A y 222-0A: 1 al 20 de octubre.
+o Modelos 202 y 222: 1 al 16 de abril, 1 al 16 de octubre y 1 al 15 de diciembre.
+o Modelo 210: (excepto ganancias derivadas de transmisiones de inmuebles): 1 al 16 de abril, 1 al 17 de julio, 1 al 16 de octubre y 1 al 15 de enero. Para rentas imputadas de inmuebles urbanos: 1 de enero al 23 de diciembre.
+o Modelo 213: 1 al 25 de enero.
+o Modelos 303 y 353 (obligación mensual): 1 al 25 de cada mes, excepto enero del 1 al 23 de febrero, febrero del 1 al 26 de marzo, mayo del 1 al 26 de junio y octubre del 1 al 27 de noviembre.
+o Modelo 303 (obligación trimestral): 1 al 16 de abril, 1 al 17 de julio, 1 al 16 de octubre y 1 al 25 de enero.
+o Modelos 410 y 411: 1 al 26 de julio.
+o Modelo 560:
+• Obligación mensual: 1 al 15 de cada mes, excepto: marzo del 1 al 16 de abril, junio del 1 al 17 de julio y septiembre del 1 al 16 de octubre.
+• Obligación trimestral: 1 al 16 de abril, 1 al 17 de julio, 1 al 16 de octubre y 1 al 15 de enero. 
+• Obligación anual: 1 al 16 de abril.
+o Modelos 561, 562 y 563:
+• Obligación mensual: 1 al 15 del tercer mes siguiente al que finaliza el mes, excepto: enero del 1 al 16 de abril, abril del 1 al 17 de julio y julio del 1 al 16 de octubre.
+• Obligación trimestral: 1 al 15 del segundo mes siguiente al que finaliza el trimestre, excepto: 1T hasta el 16 de abril.
+o Modelos 566 y 581 (obligación mensual): 1 al 15 del mes siguiente al que finaliza el mes, excepto: marzo del 1 al 16 de abril, junio del 1 al 17 de julio y septiembre del 1 al 16 de octubre.
+o Modelo 583:
+• Obligación trimestral: 1 al 15 de mayo, septiembre, noviembre y febrero.
+• Obligación anual: 1 al 27 de noviembre.
+o Modelo 587: 1 al 15 de mayo, septiembre y enero.
+o Modelo 588: 1 al 27 de noviembre.
+o Modelo 589:
+• Pago fraccionado: del 1 al 16 de octubre.
+• Autoliquidación anual: del 1 al 16 de abril.
+o Modelos 595 y 582 (obligación trimestral): 1 al 16 de abril, 1 al 17 de julio, 1 al 16 de octubre y 1 al 15 de enero..
+• 
+Novedades:
+o Se aprueba el modelo 179 “Declaración informativa trimestral de la cesión de uso de viviendas con fines turísticos”: mes natural siguiente a la finalización de cada trimestre natural. Exclusivamente para el ejercicio 2018, la declaración informativa tiene carácter anual, siendo su plazo de presentación entre el 1 y el 31 de enero de 2019. Se presentará en formato XML, mediante un servicio o formulario web de presentación.
+o Se aprueba el modelo 233 “Declaración informativa por gastos en guarderías o centros de educación infantil autorizados”: mes de enero de cada año. Exclusivamente para el ejercicio 2018 se presentará entre el 1 de enero y el 15 de febrero de 2019. Se presentará de forma electrónica por Internet mediante la utilización de un formulario web.
+o El modelo 340 "Declaración informativa de operaciones incluidas en los libros registro del Impuesto General Indirecto Canario" correspondientes al mes de diciembre de 2018, se presentará desde el 1 de enero hasta el 15 de marzo de 2019.
+o El modelo 347 se presentará con carácter indefinido en el mes de febrero.
+o A partir del 1 de julio de 2019 el programa de ayuda PADIS del Modelo 200 ya no estará disponible y será sustituido por el formulario de ayuda -Sociedades web- para períodos impositivos iniciados a partir del 1 de enero de 2018.
+• 
+Recuerde:
+o El 2 de abril de 2019 se inicia el plazo de presentación por Internet de las declaraciones de Renta y Patrimonio 2018.
+Si quiere que sea la Agencia Tributaria quien le llame para la presentación de su declaración de la Renta, concierte previamente cita, a partir del 1 de abril, por Internet y en los siguientes números:
+• 901 12 12 24 / 91 535 73 26
+• 901 22 33 44 / 91 553 00 71
+o La presentación electrónica por Internet podrá realizarse con DNI electrónico, certificado electrónico, Cl@ve PIN o número de referencia. Para todos los modelos podrá utilizarse el DNI electrónico y/o el certificado electrónico, de personas físicas, representantes de personas jurídicas y cualquier otra entidad. La Cl@ve PIN y el número de referencia sólo podrán ser utilizados por personas físicas.
+o Las personas físicas disponen del DNI electrónico, certificado electrónico, Cl@ve PIN o número de referencia para presentar, en su caso, declaraciones informativas, censales, determinadas autoliquidaciones, comunicaciones y solicitudes de devolución, de naturaleza tributaria.
+La Cl@ve PIN, de uso exclusivo por personas físicas, se podrá utilizar para presentar los modelos 04, 030, 034, 036, 037, 038, 100, 102, 111, 115, 117, 121, 122, 123, 124, 126, 128, 130, 131, 136, 140, 143, 149, 151, 179, 180, 182, 187, 188, 190, 193, 198, 216, , 233, 282, 296, 303, 308, 309, 341, 345, 347, 349, 360, 361, 364, 365, 368, 390, 560, 568, 572, 576, 584, 585, 586, 587, 589, 590, 650, 651, 655, 714, 720, 848. El número de referencia permite, sólo a las personas físicas, realizar gestiones relativas al IRPF.
+o Las S. A. y S. L., así como los contribuyentes adscritos a las Unidades de Gestión de Grandes Empresas o a la Delegación Central de Grandes Contribuyentes, están obligados a presentar por Internet con certificado electrónico sus declaraciones informativas, autoliquidaciones y con carácter general también sus declaraciones censales.
+o El resto de entidades (cooperativas, asociaciones, fundaciones) presentarán las autoliquidaciones por Internet con certificado electrónico o pre-declaración impresa y las declaraciones informativas por Internet con certificado electrónico.
+o Las Administraciones públicas están obligadas a la presentación por Internet con certificado electrónico.
+o Quedan exonerados de presentar el modelo 390 "Declaración-Resumen anual del IVA" los contribuyentes que, realizando liquidaciones trimestrales de IVA, tributen sólo en territorio común y realicen actividades en régimen simplificado y/o operaciones de arrendamiento de bienes inmuebles urbanos (aunque realicen, además, actividades por las que no exista obligación de presentar autoliquidaciones periódicas), así como los sujetos pasivos que lleven los libros registro a través de la Sede electrónica de la Agencia Tributaria debiendo cumplimentar la información adicional solicitada, en la autoliquidación del último período de liquidación del Modelo 303 de IVA del ejercicio.
+o El sistema de llevanza de libros registro a través de la Sede electrónica de la Agencia Tributaria –SII- consistente en el suministro electrónico de los registros de facturación, es obligatorio desde 1 de julio de 2017, para empresarios, profesionales y otros sujetos pasivos cuyo período de liquidación coincida con el mes natural: grandes empresas (volumen de operaciones de acuerdo con el artículo 121 LIVA superior a 6.010.121,04 € en el año anterior), grupos de IVA e inscritos en el REDEME (Registro de Devolución mensual del IVA).
+Quienes no estén obligados a acogerse al SII lo podrán hacer de forma voluntaria, ejerciendo la opción en el modelo 036: modelo 036 presentado a lo largo de todo el ejercicio. La opción se entenderá prorrogada para los años siguientes mientras no se renuncie a su aplicación. La renuncia se realizará en el modelo 036: mes de noviembre anterior al inicio del año en que surta efecto.
+Aquellos que apliquen el SII están exonerados de presentar los modelos 347 “Declaración de operaciones con terceras personas” y 390 “Declaración-resumen anual del IVA”.
+
+MODELO 030. DECLARACIÓN CENSAL DE ALTA EN EL CENSO DE OBLIGADOS TRIBUTARIOS, CAMBIO DE DOMICILIO Y/O VARIACIÓN DE DATOS PERSONALES
+Para comunicar la variación de datos identificativos, el estado civil, solicitar etiquetas identificativas, etc. Además, quienes no desarrollen actividades económicas podrán:
+o Solicitar el alta en el censo de obligados tributarios o el NIF cuando no dispongan de DNI o NIE y participen en operaciones con trascendencia tributaria.
+o Comunicar el cambio de domicilio: con carácter general, 3 meses desde el cambio (los que realicen actividades económicas presentarán el modelo 036/037).
+MODELOS 036/037. DECLARACIÓN CENSAL
+o Declaración de alta: antes de iniciar las correspondientes actividades o del nacimiento de la obligación de retener o ingresar a cuenta. 
+o Declaración de modificación: 1 mes desde el día siguiente de la modificación.
+o Declaración de baja: 1 mes desde el cese o la cancelación efectiva de los asientos en el Registro Mercantil. 6 meses desde el fallecimiento del obligado tributario (la presentarán los herederos).
+o Solicitud NIF: mes siguiente a la constitución o establecimiento en territorio español de personas jurídicas y entidades sin personalidad jurídica, y siempre antes del inicio de la actividad.
+o Inscripción en el Registro de devolución mensual (REDEME): con carácter general, mes de noviembre anterior al año en que deban surtir efectos.
+o Opciones o renuncias a regímenes especiales: con carácter general, mes de diciembre anterior al año en que deban surtir efectos.
+o Opción por el pago fraccionado sobre la parte de la base imponible del período de los 3, 9 u 11 primeros meses de cada año natural (artículo 40.3 LIS): mes de febrero anterior al año en que deba surtir efectos, solo para periodos impositivos que coincidan con el año natural. Si el periodo impositivo no coincide con el año natural, la opción se podrá ejercitar en el plazo de 2 meses a contar desde el inicio del periodo impositivo o dentro del plazo comprendido entre el inicio de dicho periodo impositivo y la finalización del plazo para efectuar el primer pago fraccionado correspondiente al referido periodo impositivo cuando este último plazo fuera inferior a 2 meses.
+o Opción sujeción al IVA para 2019 y sucesivos y comunicación sujeción al IVA por los sujetos pasivos en régimen agrícola, sujetos pasivos exentos sin derecho a deducción y personas jurídicas que no actúen como empresarios o profesionales si sus adquisiciones intracomunitarias de bienes no han superado los 10.000 €: en cualquier momento y 1 mes desde que se alcanza dicho límite, respectivamente.
+o Comunicación de sujeción al IVA en ventas a distancia: 1 mes desde que superen los 35.000 €.
+o Opción o renuncia por ingresar las cuotas del Impuesto a la importación liquidadas por la Aduana en la declaración correspondiente al período en que se reciba el documento en el que conste la liquidación practicada: con carácter general, en noviembre.
+o Comunicación de la condición de revendedor de teléfonos móviles y consolas de videojuegos, ordenadores portátiles y tabletas digitales: con carácter general, en noviembre.
+MODELO 038
+Relación de operaciones realizadas por entidades inscritas en registros públicos: mensualmente se declaran las del mes natural anterior.
+MODELO 039. COMUNICACIÓN DE DATOS. GRUPO DE ENTIDADES
+o Comunicación de inicio de actividades y opción por la prorrata especial: en el plazo de presentación de la autoliquidación del período en el que comience la realización habitual de entregas de bienes o prestaciones de servicios.
+o Comunicación de modificaciones o incorporación de entidades de nueva creación: en el plazo de presentación de la autoliquidación del período en que se produzca la modificación o incorporación.
+o Inscripción en el REDEME y opciones o renuncias: con carácter general, mes de diciembre anterior al año en que deban surtir efectos.
+IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS
+Modelo 113. Comunicación de las ganancias patrimoniales por cambio de residencia a otro Estado Miembro de la Unión Europea o del Espacio Económico Europeo con efectivo intercambio de información tributaria: entre la fecha del desplazamiento y la fecha de finalización del plazo de declaración del Impuesto correspondiente al primer ejercicio en que el contribuyente no tuviera tal condición como consecuencia del cambio de residencia y variaciones, dos meses desde que se produzcan.
+Modelo 121. Impuesto sobre la Renta de las Personas Físicas. Deducciones por familia numerosa o por personas con discapacidad a cargo. Comunicación de la cesión del derecho a la deducción por contribuyentes no obligados a presentar declaración: plazo establecido en cada ejercicio para presentar la declaración de Renta.
+Modelo 122. Impuesto sobre la Renta de las Personas Físicas. Deducciones por familia numerosa, por personas con discapacidad a cargo o por ascendiente con dos hijos separado legalmente o sin vínculo matrimonial. Regularización del derecho a la deducción por contribuyentes no obligados a presentar declaración: entre la fecha en que los pagos anticipados se hayan percibido de forma indebida hasta que finalice el plazo para la presentación de la declaración de Renta del ejercicio en que se haya percibido el pago anticipado de forma indebida.
+Modelo 140. Solicitud de abono anticipado de las deducciones por maternidad y de comunicación de variaciones que afecten a su pago: cuando opte por la modalidad de abono anticipado y 15 días naturales siguientes a las variaciones, respectivamente.
+Modelo 143. Solicitud de abono anticipado de las deducciones por familia numerosa, por ascendiente con dos hijos o personas con discapacidad a cargo y de comunicación de variaciones que afecten a su pago: cuando opte por la modalidad de abono anticipado y 15 días naturales siguientes a las variaciones, respectivamente.
+Modelo 145. Comunicación de la situación personal y familiar del perceptor de rentas del trabajo, o de su variación, al pagador: antes del inicio de cada año natural o al inicio de la relación.
+Modelo 146. Pensionistas con dos o más pagadores. Solicitud de determinación del importe de las retenciones: enero y febrero de cada año.
+Modelo 147. Comunicación voluntaria de los trabajadores por cuenta ajena que vayan a adquirir la condición de contribuyentes por el IRPF, por desplazarse a territorio español, para la práctica de retenciones: desde los 30 días anteriores a la entrada en territorio español hasta los 183 días siguientes al comienzo del trabajo o hasta el 30 de junio del año siguiente cuando el comienzo es posterior al 2 de julio.
+Modelo 149. Comunicación de la opción, renuncia y exclusión del Régimen especial de tributación por el Impuesto sobre la Renta de no Residentes por personas físicas que adquieran su residencia fiscal en España por desplazarse a territorio español. Opción: 6 meses desde el inicio de la actividad. Renuncia: noviembre y diciembre anteriores al inicio del año natural en que deba surtir efectos. Exclusión: 1 mes desde el incumplimiento de los requisitos para aplicar el régimen. Fin de desplazamiento: 1 mes desde que hubiera finalizado el mismo. 
+Modelo 156. Declaración informativa anual de cotizaciones de afiliados y mutualistas a efectos de la deducción por maternidad. Con carácter general: 1 a 31 de enero del año siguiente al que corresponda la declaración. Excepciones: hasta el 1 de abril. 
+Modelo 185. Declaración informativa mensual de cotizaciones de la Seguridad Social y Mutualidades: 10 días naturales siguientes al mes al que se refiera la información. 
+Modelo 186. Declaración informativa de nacimientos y defunciones: mes natural siguiente.
+IMPUESTO SOBRE SOCIEDADES
+Modelos 202-0A Impuesto Sociedades. Pago fraccionado régimen general y 222-0A Pago fraccionado Régimen de Tributación de los Grupos de Sociedades. Para contribuyentes sometidos a normativa foral de País Vasco y que tributen conjuntamente en ambas Administraciones: 1 a 25 de octubre.
+Modelo 217. Autoliquidación del impuesto sobre sociedades: gravamen especial sobre dividendos o participaciones en beneficios distribuidos por sociedades anónimas cotizadas de inversión en el mercado inmobiliario: 2 meses desde el día del acuerdo de distribución de beneficios por la junta general de accionistas u órgano equivalente.
+Modelo 221. Prestación patrimonial por conversión de activos por impuesto diferido en crédito exigible frente a la Administración Tributaria: mismo plazo de presentación que el Impuesto sobre Sociedades (25 días naturales siguientes a los seis meses posteriores a la conclusión del período impositivo).
+Modelo 231. Declaración de información país por país: 12 meses siguientes a la finalización del período impositivo (1 de enero al 31 de diciembre cuando el período impositivo coincida con el año natural). Se presentará comunicación previa por las entidades residentes en territorio español que formen parte de un grupo obligado a presentar el modelo 231 antes de la finalización del período impositivo al que se refiere la información.
+Modelo 232. Declaración informativa de operaciones vinculadas y de operaciones y situaciones relacionadas con países o territorios calificados como paraísos fiscales: mes siguiente a los diez meses posteriores a la conclusión del período impositivo al que se refiera la información a suministrar. 1 a 30 de noviembre cuando el período impositivo coincida con el año natural.
+IMPUESTO SOBRE LA RENTA DE NO RESIDENTES SIN ESTABLECIMIENTO PERMANENTE
+Modelo 206. Documento ingreso/devolución: 25 días naturales siguientes a los 6 meses posteriores a la conclusión del período impositivo.
+Modelo 210. No residentes sin establecimiento permanente. Autoliquidación. Con carácter general: a ingresar, del 1 a 20 de abril, julio, octubre y enero. Cuota cero, del 1 a 20 de enero del año siguiente al de devengo. A devolver, desde el 1 de febrero del año siguiente al de devengo y en el plazo de 4 años desde el fin del período de declaración e ingreso de la retención. Rentas de transmisiones de inmuebles: 3 meses habiendo transcurrido 1 mes desde la transmisión. Rentas imputadas de inmuebles urbanos: año natural siguiente al devengo.
+Modelo 211. Retención en la adquisición de inmuebles a no residentes sin establecimiento permanente: 1 mes desde la transmisión del inmueble.
+Modelo 213. Gravamen especial sobre inmuebles de entidades no residentes: enero.
+Modelo 216. Declaración-documento de ingreso de retenciones e ingresos a cuenta de rentas de no residentes obtenidas sin establecimiento permanente: 1 a 20 de enero, abril, julio y octubre. Para grandes empresas, mensual.
+Modelo 247. Comunicación voluntaria de los trabajadores por cuenta ajena que vayan a adquirir la condición de contribuyentes por el Impuesto sobre la Renta de no Residentes por desplazarse al extranjero. El plazo de presentación depende de la duración del desplazamiento.
+Modelo 250. Gravamen especial sobre dividendos y rentas de fuente extranjera por la transmisión de valores de entidades no residentes: 25 días naturales siguientes a la fecha de devengo.
+Modelo 282. Declaración informativa anual de ayudas recibidas en el marco del REF de Canarias y otras ayudas de estado, derivadas de la aplicación del Derecho de la Unión Europea: mismo plazo establecido para la presentación de la correspondiente autoliquidación del Impuesto sobre la Renta de las Personas Físicas, del Impuesto sobre Sociedades o del Impuesto sobre la Renta de No Residentes.
+Modelo 291. Declaración informativa de cuentas de no residentes: 1 a 31 de enero.
+Modelos 294 y 295. Acciones y participaciones y posición inversora en instituciones de inversión colectiva comercializadas por entidades residentes en el extranjero: primer trimestre del año.
+Modelo 296. Declaración anual de retenciones e ingresos a cuenta: 1 a 31 de enero.
+MODELO 282 DECLARACIÓN INFORMATIVA
+Modelo 282. Declaración informativa anual de ayudas recibidas en el marco del REF de Canarias y otras ayudas de estado, derivadas de la aplicación del Derecho de la Unión Europea: mismo plazo establecido para la presentación de la correspondiente autoliquidación del Impuesto sobre la Renta de las Personas Físicas, del Impuesto sobre Sociedades o del Impuesto sobre la Renta de No Residentes.
+IMPUESTO SOBRE EL VALOR AÑADIDO
+Modelo 04. Solicitud de aplicación del tipo del 4% a vehículos para el transporte habitual de discapacitados en silla de ruedas o movilidad reducida: antes de adquirir el vehículo. 
+Modelo 034. Declaración de inicio, modificación o cese de operaciones en los regímenes especiales aplicables a los servicios de telecomunicaciones, de radiodifusión o de televisión y a los prestados por vía electrónica en el IVA, a presentar por quienes deseen acogerse a cualquiera de los regímenes especiales y designen a España como Estado miembro de identificación.
+o Declaración de inicio: antes del inicio de las actividades o cuando ya se hubieran iniciado hasta el décimo día del mes siguiente a este inicio.
+o Declaración de modificación: hasta el décimo día del mes siguiente a la modificación. 
+o Declaración de cese: al menos quince días antes del final del trimestre anterior al que se pretenda dejar de utilizar el régimen.
+Modelo 308. Solicitud de devolución por sujetos pasivos ocasionales por entregas de medios de transporte nuevos: 30 días naturales desde la entrega. Solicitud de devolución por sujetos pasivos en el régimen simplificado del IVA y ejerzan la actividad de transporte de viajeros o de mercancías por carretera, por adquirir determinados medios de transporte: 20 días naturales del mes siguiente a su adquisición. Solicitud de devolución por entes públicos o establecimientos privados de carácter social en la adquisición de bienes que se entreguen a organismos reconocidos que los exportan (actividades humanitarias, caritativas o educativas): 3 meses desde su entrega.
+Modelo 309. Adquisiciones intracomunitarias de medios de transporte nuevos (no empresarios y profesionales): antes de la matriculación definitiva. Procedimientos administrativos o judiciales de ejecución forzosa (excepto transmisión de inmuebles): 1 mes desde el pago del importe de la adjudicación. Incumplimiento del requisito de no transmisión posterior por actos inter vivos del vehículo (beneficiarios del tipo reducido del IVA en entregas o adquisiciones intracomunitarias de vehículos): 4 años siguientes a su fecha de adquisición.
+Modelo 303 y 322. Opción o revocación de la aplicación prorrata especial, para actividades en curso: presentación de la autoliquidación del último período hasta el 30 de enero del año siguiente.
+Modelo 360. Solicitud de devolución del IVA soportado en otros Estados miembros por empresarios y profesionales establecidos en el territorio de aplicación del impuesto y en el territorio peninsular español e Islas Baleares por empresarios y profesionales establecidos en las Islas Canarias, Ceuta o Melilla: desde el día siguiente de cada trimestre o año hasta el 30 de septiembre del año natural siguiente.
+Modelo 361. Solicitud de devolución del IVA soportado en el territorio peninsular español e Islas Baleares por empresarios y profesionales no establecidos en el territorio de aplicación del impuesto ni en la Comunidad, Islas Canarias, Ceuta o Melilla: desde el día siguiente de cada trimestre o año y hasta el 30 de septiembre del año natural siguiente.
+Modelos 362 y 363. Solicitud de reembolso y de reconocimiento previo de exención en el marco de relaciones diplomáticas, consulares y de los organismos internacionales reconocidos: 6 meses tras finalizar cada trimestre natural y antes de realizar la operación, respectivamente.
+Modelo 364. Solicitud de reembolso de las cuotas tributarias soportadas relativas a la OTAN, a los Cuarteles Generales Internacionales de dicha Organización y a los Estados parte en dicho Tratado: seis meses posteriores a la finalización del trimestre al que correspondan las cuotas soportadas.
+Modelo 365. Solicitud de reconocimiento previo de las exenciones relativas a la OTAN, a los Cuarteles Generales Internacionales de dicha Organización y a los Estados parte en dicho Tratado: con carácter previo a la realización de cada operación..
+IMPUESTO ESPECIAL SOBRE DETERMINADOS MEDIOS DE TRANSPORTE
+Modelos 05 y 06. Solicitud de no sujeción, exención y reducción de base imponible con reconocimiento previo y declaración de exenciones y no sujeciones sin reconocimiento previo, respectivamente: antes de la matriculación definitiva.
+Modelo 568. Solicitud de devolución por reventa y envío de medios de transporte fuera del territorio: 1 a 20 de enero, abril, julio y octubre.
+Modelo 576. Autoliquidación. Se declararán las operaciones sujetas y no exentas: tras solicitar la matriculación definitiva del medio de transporte y antes de que se haya producido. Si el hecho imponible no es la matriculación definitiva: 15 días naturales desde el devengo del impuesto.
+IMPUESTOS ESPECIALES DE FABRICACIÓN
+Modelo 511. Relación mensual de notas de entrega de productos con el impuesto devengado a tipo reducido o con aplicación de un supuesto de exención, expedidos por el procedimiento de ventas en ruta: 5 días hábiles siguientes a la finalización del mes a que corresponde la información.
+Modelos 540 de los comprobantes y recibos de entrega expedidos para documentar los avituallamientos a aeronaves y 541 a embarcaciones, realizadas por el procedimiento de ventas en ruta y de las notas de entrega expedidas dentro del procedimiento de venta en ruta, NE: mes siguiente a su expedición.
+Modelos 542 recibos y comprobantes de entrega expedidos durante un trimestre para documentar los avituallamientos a aeronaves y 543 a embarcaciones, no realizados por el procedimiento de ventas en ruta; 546 de suministro de gasóleo marcado a embarcaciones con devolución del Impuesto sobre Hidrocarburos y 547 relación de abonos realizados a detallistas de gasóleo bonificado por las entidades emisoras de medios de pago específicos, efectuados durante un trimestre: 1 al 20 del mes siguiente al de la finalización del trimestre.
+Modelos 544 y 545. Relaciones de pagos efectuados mediante cheques - gasóleo bonificado y tarjetas - gasóleo bonificado y la relación de suministros de carburantes realizados en el marco de las relaciones internacionales con devolución del Impuesto sobre Hidrocarburos efectuados durante un trimestre: 1 al 20 del mes siguiente al de la finalización del trimestre.
+Modelo 551. Relación mensual de documentos simplificados de acompañamiento expedidos: mes siguiente a las expediciones referidas.
+Modelos 553, 554, 555, 556, 557, 558, 570 y 580 se utilizarán exclusivamente para las declaraciones relativas a fábricas y depósitos fiscales: 1 al 20 del mes siguiente al de la finalización del mes en que se producen los devengos para el Impuesto sobre Hidrocarburos y Tabaco, 1 al 20 del segundo mes siguiente al que finaliza el trimestre en que se han producido los devengos, o 1 al 20 del tercer mes siguiente a aquel en que se han producido los devengos para el Impuesto sobre el Alcohol y Bebidas Alcohólicas.
+Modelos 559 y de relación de beneficiarios del régimen de cosechadores, para la liquidación y pago del Impuesto sobre el Alcohol y Bebidas Derivadas en los regímenes de destilación artesanal y de cosechero. Liquidación de la tarifa 1ª: momento en que se solicite la autorización para destilar. Liquidación de la tarifa 2ª: trimestre natural o mensual para sujetos pasivos que liquiden el IVA mensual: 20 primeros días naturales del segundo mes siguiente al en que finaliza el trimestre o del tercer mes siguiente al que finaliza el mes.
+DDC y DCC. Declaración desglose de cuotas centralizadas: en los mismos plazos que su declaración-liquidación única.
+IMPUESTOS MEDIOAMBIENTALES 
+Modelo 588. Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre: dentro del mes de noviembre del mismo año natural en el que se produzca el cese.
+INTRASTAT (ESTADÍSTICA COMERCIO INTRACOMUNITARIO)
+Modelos N-I, N-E, O-I, O-E. Obligados a suministrar la información estadística: 12 primeros días naturales del mes siguiente al que se realizaron las operaciones.
+Modelo 763 Autoliquidación: durante el mes siguiente a la finalización de cada trimestre natural.
+IMPUESTO SOBRE ACTIVIDADES ECONÓMICAS
+Modelo 840
+o Declaración de alta: para contribuyentes no exentos del IAE, 1 mes desde el inicio de la actividad. Para contribuyentes que vengan aplicando alguna exención del impuesto y dejen de cumplir los requisitos: mes de diciembre anterior al año en que el sujeto pasivo resulte obligado.
+o Declaración de variación: 1 mes desde la fecha de variación (efectos ejercicio siguiente al de la variación). 
+o Declaración de baja: 1 mes desde el cese. Sujetos pasivos del impuesto que apliquen alguna de sus exenciones: durante el mes de diciembre anterior al año en el que el sujeto pasivo quede exonerado de tributar por este impuesto. En caso de fallecimiento del sujeto pasivo: 1 mes desde el fallecimiento (causahabientes).
+Para los Sujetos pasivos exentos de IAE, la presentación de los modelos 036 y 037 sustituye a la presentación del modelo 840.
+Modelo 848. Comunicación del importe neto de la cifra de negocios: 1 de enero a 14 de febrero del ejercicio en que deba surtir efectos la comunicación.
+• Recuerde:
+Si el vencimiento coincide con una festividad local o autonómica, el plazo finaliza el primer día hábil siguiente al señalado en este calendario.
+Este calendario se ha confeccionado en diciembre de 2018, con proyectos normativos en tramitación.
+Para consultar la normativa publicada y más información tributaria:
+901335533/915548770 y www.agenciatributaria.es
+

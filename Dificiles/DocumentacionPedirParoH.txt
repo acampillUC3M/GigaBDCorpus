@@ -1,0 +1,20 @@
+﻿Solicitud de prestaciones
+• Guía de uso
+• Guía de configuración para firma electrónica
+A través de esta opción podrás realizar tu solicitud de prestaciones por desempleo en línea y sin necesidad de desplazamientos.
+Hay disponibles las siguientes solicitudes:
+• Solicitud de prestación contributiva. También puedes reconocer tu prestación en el momento a través de la web.
+• Solicitud de subsidio por desempleo. También puedes realizar la prórroga de tu subsidio en el momento a través de la web..
+• Solicitud de renta activa de inserción
+• Solicitud del abono acumulado y anticipado para personas extranjeras no comunitarias
+• Solicitud de pago único de la prestación por desempleo
+• Solicitud ayuda suplementaria RAI para víctimas de violencia de género o doméstica
+• Solicitud de Renta Agraria para trabajadores eventuales agrarios en Andalucía y Extremadura
+• Solicitud de Subsidio agrícola para Trabajadores Eventuales del SEASS
+Para la solicitud de prestación por desempleo, el trámite podrá completarse con el anexado de la documentación que se indica en el resguardo de solicitud que el sistema facilita al finalizar la gestión.
+Tu solicitud quedará registrada telemáticamente, lo que otorga validez a tu presentación como si ésta se hubiera efectuado de forma presencial. Para que este registro pueda efectuarse desde tu ordenador, es precisa la instalación de un componente adicional (ActiveX) y la configuración de tu navegador según se describe en las siguientes instrucciones: Configuración navegador (pdf - 632 KB).
+Para poder tramitar solicitudes de prestaciones por desempleo a través de la Sede Electrónica del SEPE, es imprescindible acceder a través de certificado digital o DNIe o usuario y contraseña obtenida a través del sistema de cl@ve y estar inscrito como demandante de empleo autonómico o, si reside en Ceuta y Melilla, en el Servicio Público de Empleo Estatal (SEPE).
+Para finalizar los trámites que requieren firma, es imprescindible, cuando se accede con usuario y contraseña cl@ve, disponer de teléfono móvil y que coincida con el registrado en cl@ve.
+Antes de realizar tu solicitud, puedes consultar cuál es la que corresponde a tu situación de desempleo utilizando este programa de simulación de prestaciones.
+Importante: Si eres trabajador del mar puedes utilizar este servicio de solicitud por Internet para tramitar tu prestación. Para más información consulta la red de Oficinas de Empleo Marítimo.
+

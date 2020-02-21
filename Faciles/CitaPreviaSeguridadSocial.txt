@@ -1,0 +1,78 @@
+﻿Cómo pedir cita previa en la Seguridad Social
+
+El Instituto Nacional de la Seguridad Social (INSS) dispone desde hace tiempo un servicio de cita previa por Internet, por teléfono y a través de su APP móvil. Esta cita previa nos servirá para hacer gestiones relacionadas con pensiones y prestaciones que se resuelven en los Centros de Atención e Información de la Seguridad Social (CAISS). Con este servicio podemos obtener, consultar o cancelar una cita fácil y ráidamente.
+En esta entrada explicamos cómo solicitar cita previa en la Seguridad Social. No necesitamos certificado digital o DNI electrónico.
+Es un procedimiento sencillo que en todo momento viene acompañado de explicaciones detalladas. En este trámite iremos completando los siguientes pasos:
+• Pantalla inicial para indicar nuestros datos personales y pregunta de seguridad
+• Pasos del 1 al 7 para aportar los datos necesarios para la cita previa
+• Confirmación de la cita previa
+Requisitos para la cita previa
+1. Para qué queremos la cita previa (tipo de prestación, información, otros…)
+2. Proporcionar un dato de contacto: un correo electrónico o móvil
+3. Dónde acudiremos: Comunidad autónoma y provincia
+4. Dónde acudiremos: Seleccionar una oficina de la provincia elegida
+5. Cuándo acudiremos: Elegir el día
+6. Cuándo acudiremos: Indicar la hora
+7. Confirmar todos los datos anteriores
+Trámites que se pueden realizar con cita previa
+Entre los trámites que puedes realizar con cita previa destacan:
+• Certificado de estar al corriente en las obligaciones con la Seguridad Social
+• Certificado de fe de vida
+• Dar de alta a un bebé en la Seguridad Social
+• Obtención de la Tarjeta Sanitaria Europea para viajar
+• Pensiones de viudedad y orfandad
+• Prestaciones por maternidad o paternidad
+• Prestaciones por riesgo durante el embarazo lactancia natural
+• Ayudas por el nacimiento de hijo, hijo a cargo o parto múltiple
+• Incapacidad temporal o permanente
+• Derecho a asistencia sanitaria
+Cita previa por Internet paso a paso
+Desde la Sede Electrónica de la Seguridad Social llegamos a este servicio pulsando en «Ciudadanos». Dentro de «SERVICIO A CIUDADANOS» vamos a «Servicios sin Certificado Digital» y entramos en el servicio llamado «Cita Previa»:
+
+A continuación, elegimos «Obtener Cita Previa»:
+
+y en la siguiente pantalla entramos en “Acceso al servicio”:
+
+Datos personales y pregunta de seguridad
+En esta pantalla rellenamos el tipo de documento, número de documento, nombre y apellidos de la persona que acudirá a la oficina. Además tendremos que responder a una pregunta para poder continuar. Y pulsamos «Continuar»:
+
+1. Quién necesita cita previa
+Ahora indicamos el motivo por el que queremos acudir a una oficina. Primero veremos unas categorías de servicio y luego según la elegida indicamos el servicio que mejor se ajusta a nuestra necesidad. Elegimos una categoría de la lista y pulsamos «Ir a…»:
+De la lista de servicios de esa categoría, seleccionamos el que nos interesa y pulsamos en «Seleccionar y Continuar»:
+
+2. Proporcionar un dato de contacto: un correo electrónico o móvil
+Indicamos un correo electrónico o un móvil donde nos enviarán la confirmación de la cita. En esa confirmación nos proporcionan un localizador de la cita que luego podremos usar para consultar o eliminar la cita. Pulsamos «Continuar»:
+
+3. Dónde acudiremos: Comunidad autónoma, provincia y oficina
+Primero elegimos la Comunidad Autónoma y pulsamos en «Seleccionar y Continuar»:
+
+Luego marcamos la provincia y pulsamos en «Seleccionar y Continuar»:
+
+De la lista de oficinas de la provincia elegimos la que nos interesa y pulsamos «Seleccionar y Continuar»:
+
+4. Cuándo acudiremos: Elegir el día y la hora
+Para la oficina elegida nos presenta el calendario disponible. Elegimos el día para la cita previa y pulsamos en «Seleccionar y Continuar»:
+
+Para el día elegido nos presenta las horas disponibles. Seleccionamos aquella que nos viene bien y pulsamos en «Seleccionar y Continuar»:
+
+5. Confirmar los datos
+Revisamos todos los datos de nuestra cita previa. Si estamos conformes pulsamos en «Confirmar y continuar»:
+
+6. Confirmación de la cita
+Si todo ha ido bien observaremos el siguiente mensaje «Su cita ha sido procesada correctamente» y nos proporcionará un localizador de la misma.
+
+Ya hemos terminado este trámite. Además recibiremos en el correo electrónico que facilitamos en el paso 2 un mensaje con los datos de la cita previa obtenida.
+Cita previa con la Seguridad Social por teléfono
+El teléfono habilitado por Instituto Nacional de la Seguridad Social (INSS) para solicitar cita previa en el INSS es el 901 10 65 70.
+Esta línea ofrece un sistema automatizado de cita previa para la tramitación de ayudas, pensiones y otras prestaciones económicas de la Seguridad Social. Su horario es interrumpido, las 24 horas, los 365 días del año.
+Una vez accedamos a este sistema, deberemos indicar el trámite para el queremos concertar cita, nuestro código postal para localizar la oficina más próxima y nuestro DNI o NIE.
+El contestador nos ofrecerá la primera cita disponible en su calendario, que podremos confirmar o cambiar por otra, que siempre será posterior. Finalmente, obtendremos un número localziador con el que podremos consultar a posteriori el estado de nuestra cita, modificarla o anularla
+Cita previa con la APP Seg-Social Cita Previa
+Por otro lado, la Gerencia Informática de la Seguridad Social ha habilitado la aplicación «Seg-Social Cita Previa» para teléfonos móviles y tablets Android e IOS, a través de Google Play o la App Store.
+
+Para poder usar la app, el teléfono móvil desde el que se pide la cita debe ser el mismo que existe en la bases de datos de la Seguridad Social (recuerda que puedes consultar tus datos con la Seguridad Social en cualquier momento).  También necesitaremos estar registrados como usuarios del sistema Cl@ve, ya sea a través de DNI o certificado electrónico o presencialmente en una oficina.
+Además de solicitar, modificar o anular nuestra cita de forma rápida, podremos:
+• Localizar la oficina más cercanas a nuestra ubicación
+• Guardar en nuestra agenda el lugar, fecha y hora de la cita
+• Facilitar nuestra información de contacto para posibles comunicaciones
+

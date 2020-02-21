@@ -1,0 +1,30 @@
+﻿Sistema Cl@ve PIN: Qué es y cómo registrarse
+
+Si ha llegado el momento de hacer la Declaración de la Renta y quieres evitar todo el papeleo innecesario puedes hacer tus trámites y declaraciones tributarias por Internet.
+Además de utilizar las firmas digitales ya conocidas (DNIe o certificado digital) también puedes identificarte con el Sistema de Identificación y Autentificación Cl@ve PIN, una útil alternativa si no tienes certificado ni lector de DNI electrónico.
+Qué es el Sistema Cl@ve PIN
+El sistema de Cl@ve PIN es una forma de identificarse y relacionarse con la Administración Electrónica, incluido dentro de Cl@ve, la plataforma común del Sector Público Administrativo Estatal para la identificación, autentificación y firma electrónica mediante el uso de claves concertadas, previo registro del usuario.
+Responde a una clara intención de eliminar formularios escritos, y de este modo, hacer estos procedimientos más rápidos.
+Con tu Cl@ve PIN podrás acceder tanto a los servicios electrónicos de la Agencia Tributaria que lo admiten como sistema de identificación, como a los del resto de servicios de la Administración General del Estado que optan por este sistema.
+Estos trámites son muy fáciles de identificar por el icono disponible junto al enlace de acceso al servicio.
+Quién puede utilizar Cl@ve PIN
+Este sistema está dirigido, principalmente, a personas físicas que actúan en su propio nombre, que no estén obligados a la presentación por Internet con certificado electrónico y que decidan realizar su Declaración de la Renta por vías distintas a las telemáticas.
+Es necesario disponer de DNI o NIE, un número de teléfono móvil que pertenezca a una operadora que trabaje en España y una dirección de correo electrónico.
+Cómo registrarse en Cl@vePIN
+Para poder utilizar este sistema tienes que llevar a cabo el registro previo de alguna de estas maneras:
+• Sin certificado electrónico: En la Sede Electrónica de la Agencia Tributaria mediante el código CSV incluido en la carta de invitación que te envían una vez lo hayas solicitado en su web. Además del DNI o NIE con su fecha de caducidad, deberás facilitar un número de cuenta corriente del que seas titular, el número de teléfono móvil y tu dirección de correo electrónico. Puedes solicitar el envío de la carta de invitación en Cl@ve PIN, que hemos mencionado en el párrafo anterior, desde la opción de “Solicitud de invitación para Cl@ve PIN con CSV” disponible en la sede electrónica.
+• Con certificado electrónico o DNIe: También es posible registrarse en el sistema con certificado o DNI electrónico desde la Sede Electrónica.
+• Presencialmente, en una Oficina de Registro: La tercera opción sería hacerlo presencialmente en la red de Oficinas de la Agencia Tributaria y de las entidades gestoras y servicios comunes de la Seguridad Social, aportando DNI o NIE, un número de teléfono móvil y una dirección de correo electrónico.
+Qué ocurre si ya estás registrado en PIN24H
+Si ya estabas registrado en PIN24H no necesitas acudir a una Oficina de Registro para incorporarte al Sistema Cl@ve, ya que al identificarte en el sistema de la Sede Electrónica se detecta, automáticamente, que aún no estás registrado en C@ve, y te envían una invitación para registrarte en el Sistema Cl@ve, aportando tu dirección de correo electrónico.
+Recibirás un documento con el justificante de alta en Cl@ve y el código de activación. De este modo, podrás generar tu contraseña y quedarás incorporado al sistema Cl@ve.
+
+Cómo obtener la Cl@ve PIN
+Una vez que ya estás registrado, debes obtener tu Cl@ve PIN personal para poder acceder a los trámites de la Sede Electrónica.
+Debes iniciar la solicitud con tu DNI o NIE, incluyendo la fecha de caducidad del documento y elegir una clave de acceso. Esta clave de acceso puede ser distinta en cada solicitud.
+La Agencia Tributaria te enviará un SMS con el número PIN al teléfono registrado, el que hayas aportado anteriormente en la parte de registro e identificación.
+Debes completar el acceso al trámite con tu código formado por la clave de acceso que has elegido y el PIN que recibes en tu teléfono. El código de acceso lo puedes utilizar tantas veces como quieras, mientras no haya caducado. Todos los códigos caducan a las 2:00 AM del día siguiente de la expedición del PIN.
+
+También puedes descargar la app móvil Cl@ve PIN, disponible para descarga gratuita en la App Store de IOS y Google Play para dispositivos Android. Recibirás el código y el PIN en la misma aplicación y podrás solicitar un nuevo PIN en cualquier momento.
+
+
